@@ -341,6 +341,17 @@
     "date_discovered": "2026-09-14T13:42:46.647747+00:00"
   },
   {
+    "id": 9285044,
+    "company_display": "Raytheon",
+    "title": "Stage - Gestion des Programmes - Hiver 2027 Internship - Operations Program Management - Winter 2027",
+    "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Gestion-des-Programmes---Hiver-2027-Internship---Operations-Program-Management---Winter-2027_01873718",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-14T14:05:14.709853+00:00",
+    "date_discovered": "2026-09-14T14:06:56.927946+00:00"
+  },
+  {
     "id": 9292884,
     "company_display": "Coty",
     "title": "FRAGRANCE DEVELOPMENT PRODUCT MANAGER ASSISTANT BURBERRY J 75002",
@@ -427,17 +438,6 @@
     "country": "us",
     "updated_at": null,
     "date_discovered": "2026-09-14T18:40:15.486889+00:00"
-  },
-  {
-    "id": 9445384,
-    "company_display": "Oshkosh",
-    "title": "Product Management Intern",
-    "location": "Hagerstown, Maryland, USA",
-    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Hagerstown-Maryland-United-States/Product-Management-Intern_R49414/apply",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-14T00:00:00+00:00",
-    "date_discovered": "2026-09-14T20:23:44.962095+00:00"
   },
   {
     "id": 9469995,
@@ -528,17 +528,6 @@
     "date_discovered": "2026-09-15T16:05:15.772290+00:00"
   },
   {
-    "id": 9798505,
-    "company_display": "Illinois-Tool-Works",
-    "title": "Product Management Intern - Summer 2027",
-    "location": "Troy, Ohio, USA",
-    "url": "https://itw.wd5.myworkdayjobs.com/External/job/Troy---101-Trade-Sq-E/Product-Management-Intern---Summer-2026_JR10105/apply",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-15T00:00:00+00:00",
-    "date_discovered": "2026-09-15T16:22:45.296330+00:00"
-  },
-  {
     "id": 9809806,
     "company_display": "Illinois Tool Works",
     "title": "Product Management Intern - Summer 2027",
@@ -570,17 +559,6 @@
     "country": "us",
     "updated_at": "2026-09-15T22:07:19.684174+00:00",
     "date_discovered": "2026-09-15T22:08:13.263821+00:00"
-  },
-  {
-    "id": 10144474,
-    "company_display": "Illinois Tool Works",
-    "title": "Product Management Intern",
-    "location": "San Luis Obispo, California, USA",
-    "url": "https://itw.wd5.myworkdayjobs.com/External/job/San-Luis-Obispo---93401/Product-Management-Intern_JR10112/apply",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-15T00:00:00+00:00",
-    "date_discovered": "2026-09-16T11:14:14.529372+00:00"
   },
   {
     "id": 10146551,
@@ -1131,5 +1109,225 @@
     "country": "us",
     "updated_at": "2026-09-22T23:12:03.136913+00:00",
     "date_discovered": "2026-09-22T23:13:38.434725+00:00"
+  },
+  {
+    "id": 13003316,
+    "company_display": "Applied Materials",
+    "title": "Technical Project/Program Management-LSP-Shanghai-Y2027 Graduate",
+    "location": "Shanghai, CHN",
+    "url": "https://careers.appliedmaterials.com/careers/job/790318605735",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-09-23T11:12:31.482197+00:00"
+  },
+  {
+    "id": 13019727,
+    "company_display": "Factset",
+    "title": "Associate Product Manager",
+    "location": "Hyderabad, IND",
+    "url": "https://factset.wd108.myworkdayjobs.com/en-US/FactSetCareers/job/Hyderabad-IND/Associate-Product-Manager_R33156",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-09-23T11:48:48.053298+00:00",
+    "date_discovered": "2026-09-23T11:49:06.490234+00:00"
+  },
+  {
+    "id": 13048359,
+    "company_display": "General Dynamics",
+    "title": "COLUMBIA Design & Engineering Program Office - 2027 Summer Internship",
+    "location": "Groton, CT, USA",
+    "url": "https://www.gd.com/careers/columbia-design-engineering-program-office-2027-summer-internship-groton-ct-us-2026-20505-eb-opportunity",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-23T12:24:53+00:00",
+    "date_discovered": "2026-09-23T12:50:00.968091+00:00"
+  },
+  {
+    "id": 13074125,
+    "company_display": "Coty",
+    "title": "PRODUCT MANAGER ASSISTANT MARNI - Intern",
+    "location": "Paris",
+    "url": "https://careers.coty.com/job/Paris-PRODUCT-MANAGER-ASSISTANT-MARNI-Intern-J-75002/1440584733/",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-09-23T13:46:44.098194+00:00"
+  },
+  {
+    "id": 13080481,
+    "company_display": "Mastercard",
+    "title": "Associate Product Specialist, Product Management, Launch Program 2027 - United States",
+    "location": "2 Locations",
+    "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/OFallon-Missouri/Associate-Product-Specialist--Launch-Program-2027---United-States_R-287623",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-09-23T14:05:38.916572+00:00",
+    "date_discovered": "2026-09-23T14:07:58.273002+00:00"
+  },
+  {
+    "id": 13099849,
+    "company_display": "Vertiv",
+    "title": "Product Management Intern (Summer 2027)",
+    "location": "Lincoln, NE, USA",
+    "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20278558",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-23T00:00:00+00:00",
+    "date_discovered": "2026-09-23T14:46:09.711959+00:00"
+  },
+  {
+    "id": 13127526,
+    "company_display": "Amazon",
+    "title": "Program Manager Intern, AWS Cloud Logistics",
+    "location": "SGP",
+    "url": "https://www.amazon.jobs/en/jobs/10555844/program-manager-intern-aws-cloud-logistics",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-22T15:19:12.365621+00:00",
+    "date_discovered": "2026-09-23T15:40:34.598071+00:00"
+  },
+  {
+    "id": 13127537,
+    "company_display": "Amazon",
+    "title": "Learning Program Manager Intern, AUTA",
+    "location": "Mexico City, MEX",
+    "url": "https://www.amazon.jobs/en/jobs/10553812/learning-program-manager-intern-auta",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-18T15:19:13.384873+00:00",
+    "date_discovered": "2026-09-23T15:40:34.636275+00:00"
+  },
+  {
+    "id": 13127539,
+    "company_display": "Amazon",
+    "title": "Program Manager Intern (12 months) - FY27",
+    "location": "London, England, GBR",
+    "url": "https://www.amazon.jobs/en/jobs/10557414/program-manager-intern-12-months-fy27",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-09-23T15:40:34.642883+00:00"
+  },
+  {
+    "id": 13127548,
+    "company_display": "Amazon",
+    "title": "2027 Program Manager Intern",
+    "location": "Dubai, ARE",
+    "url": "https://www.amazon.jobs/en/jobs/10557554/2027-program-manager-intern",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-09-23T15:40:34.674123+00:00"
+  },
+  {
+    "id": 13127568,
+    "company_display": "Amazon",
+    "title": "Program Manager Intern, APAC Data Center Delivery Operations",
+    "location": "SGP",
+    "url": "https://www.amazon.jobs/en/jobs/10529692/program-manager-intern-apac-data-center-delivery-operations",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-04T15:19:43.677156+00:00",
+    "date_discovered": "2026-09-23T15:40:34.737508+00:00"
+  },
+  {
+    "id": 13127577,
+    "company_display": "Amazon",
+    "title": "Product Manager Technical (PMT) Intern - Summer 2027",
+    "location": "Seattle, Washington, USA",
+    "url": "https://www.amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-16T15:20:10.844042+00:00",
+    "date_discovered": "2026-09-23T15:40:34.768326+00:00"
+  },
+  {
+    "id": 13127584,
+    "company_display": "Amazon",
+    "title": "2027 Program/Product Manager Intern",
+    "location": "Cape Town, Western Cape, ZAF",
+    "url": "https://www.amazon.jobs/en/jobs/10499684/2027-program-product-manager-intern",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-08-24T15:20:21.714916+00:00",
+    "date_discovered": "2026-09-23T15:40:34.790626+00:00"
+  },
+  {
+    "id": 13127591,
+    "company_display": "Amazon",
+    "title": "2026 PM Intern - Supply Chain, Operations",
+    "location": "Melbourne, Victoria, AUS",
+    "url": "https://www.amazon.jobs/en/jobs/10488893/2026-pm-intern-supply-chain-operations",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-17T15:20:36.439653+00:00",
+    "date_discovered": "2026-09-23T15:40:34.816361+00:00"
+  },
+  {
+    "id": 13127604,
+    "company_display": "Amazon",
+    "title": "Program Manager Intern",
+    "location": "Mexico City, MEX",
+    "url": "https://www.amazon.jobs/en/jobs/10410587/program-manager-intern",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-04-26T15:20:48.531258+00:00",
+    "date_discovered": "2026-09-23T15:40:34.851053+00:00"
+  },
+  {
+    "id": 13127645,
+    "company_display": "Amazon",
+    "title": "2027 Amazon Leadership Accelerator (ALA) Product Manager Internship",
+    "location": "Seattle, Washington, USA",
+    "url": "https://www.amazon.jobs/en/jobs/10491935/2027-amazon-leadership-accelerator-ala-product-manager-internship",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-16T15:30:03.165716+00:00",
+    "date_discovered": "2026-09-23T15:40:34.970518+00:00"
+  },
+  {
+    "id": 13137732,
+    "company_display": "Medtronic",
+    "title": "ACM-(Associate) Product Manager-Shanghai",
+    "location": "Shanghai, China",
+    "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Shanghai-Shanghai-China/ACM--Associate--Product-Manager-Shanghai_R75346-1",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-08-27T16:04:38.376640+00:00",
+    "date_discovered": "2026-09-23T16:04:52.176752+00:00"
+  },
+  {
+    "id": 13160138,
+    "company_display": "Colgate-Palmolive",
+    "title": "Digital Product Management Intern",
+    "location": "Overland Park, KS",
+    "url": "https://jobs.colgate.com/job/Overland-Park-Digital-Product-Management-Intern-KS-66062/1433024300/",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-09-23T17:06:53.746621+00:00"
+  },
+  {
+    "id": 13206768,
+    "company_display": "Microsoft",
+    "title": "Product Manager: Internship Opportunities",
+    "location": "USA, California, Mountain View",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557004836",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-09-23T19:09:33.513282+00:00"
+  },
+  {
+    "id": 13207727,
+    "company_display": "Walmart",
+    "title": "2026 Intern Conversion: 2027 FT Product Manager II",
+    "location": "(USA) ISD Office - DGTC AR BENTONVILLE Home Office",
+    "url": "https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/XMLNAME-2026-Intern-Conversion--2027-FT-Product-Manager-II_R-2649854",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-09-23T19:09:58.818675+00:00",
+    "date_discovered": "2026-09-23T19:10:53.929204+00:00"
   }
 ]
