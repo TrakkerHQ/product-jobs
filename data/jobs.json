@@ -440,6 +440,17 @@
     "date_discovered": "2026-09-14T18:40:15.486889+00:00"
   },
   {
+    "id": 9445384,
+    "company_display": "Oshkosh",
+    "title": "Product Management Intern",
+    "location": "Hagerstown, Maryland, USA",
+    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Hagerstown-Maryland-United-States/Product-Management-Intern_R49414/apply",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-14T00:00:00+00:00",
+    "date_discovered": "2026-09-14T20:23:44.962095+00:00"
+  },
+  {
     "id": 9469995,
     "company_display": "Lowe's",
     "title": "Digital Product Management - Undergrad Internship - Summer 2027",
@@ -561,26 +572,15 @@
     "date_discovered": "2026-09-15T22:08:13.263821+00:00"
   },
   {
-    "id": 10146551,
-    "company_display": "Illinois-Tool-Works",
+    "id": 10144474,
+    "company_display": "Illinois Tool Works",
     "title": "Product Management Intern",
     "location": "San Luis Obispo, California, USA",
     "url": "https://itw.wd5.myworkdayjobs.com/External/job/San-Luis-Obispo---93401/Product-Management-Intern_JR10112/apply",
     "skill_level": "intern",
     "country": "us",
     "updated_at": "2026-09-15T00:00:00+00:00",
-    "date_discovered": "2026-09-16T11:19:26.095974+00:00"
-  },
-  {
-    "id": 10158981,
-    "company_display": "Keysight",
-    "title": "Expression of Interest: Product Management Intern",
-    "location": "Penang, Malaysia",
-    "url": "https://globalcareers-keysight.icims.com/jobs/27928/login",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2024-10-17T03:26:00+00:00",
-    "date_discovered": "2026-09-16T11:50:56.449652+00:00"
+    "date_discovered": "2026-09-16T11:14:14.529372+00:00"
   },
   {
     "id": 10215684,
@@ -1320,14 +1320,113 @@
     "date_discovered": "2026-09-23T19:09:33.513282+00:00"
   },
   {
-    "id": 13207727,
-    "company_display": "Walmart",
-    "title": "2026 Intern Conversion: 2027 FT Product Manager II",
-    "location": "(USA) ISD Office - DGTC AR BENTONVILLE Home Office",
-    "url": "https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/XMLNAME-2026-Intern-Conversion--2027-FT-Product-Manager-II_R-2649854",
+    "id": 13398847,
+    "company_display": "PwC",
+    "title": "Advisory private - Intern - SAP MM / PM - Rubano - BUS&TECH",
+    "location": "Rubano",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Rubano/Advisory-private---Intern---SAP-MM---PM---Rubano---BUS-TECH_632647WD",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-08-25T04:03:24.847724+00:00",
+    "date_discovered": "2026-09-24T04:14:20.637387+00:00"
+  },
+  {
+    "id": 13493087,
+    "company_display": "Amazon",
+    "title": "Program Manager Intern 6 Months - 2027",
+    "location": "Berlin, DEU",
+    "url": "https://www.amazon.jobs/en/jobs/10558945/program-manager-intern-6-months-2027",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-09-24T11:15:22.311955+00:00"
+  },
+  {
+    "id": 13549714,
+    "company_display": "Cisco",
+    "title": "Engineering Product Management Specialist II (Intern) \u2013 United States",
+    "location": "San Jose, California, US; Milpitas, US; RTP, North Carolina, US; San Francisco, USA",
+    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Engineering-Product-Management-Specialist-II--Intern----United-States_2026801",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-24T13:36:34.250163+00:00",
+    "date_discovered": "2026-09-24T13:37:55.504083+00:00"
+  },
+  {
+    "id": 13586037,
+    "company_display": "Amazon",
+    "title": "Program Manager Intern ITA 2027",
+    "location": "Milan, Lombardy, ITA",
+    "url": "https://www.amazon.jobs/en/jobs/10559115/program-manager-intern-ita-2027",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-09-24T14:51:01.023760+00:00"
+  },
+  {
+    "id": 13598399,
+    "company_display": "Amazon",
+    "title": "Program Manager Intern ITA 2027 - MXP3 site",
+    "location": "Vercelli, Piedmont, ITA",
+    "url": "https://www.amazon.jobs/en/jobs/10559132/program-manager-intern-ita-2027-mxp3-site",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-09-24T15:20:35.231039+00:00"
+  },
+  {
+    "id": 13613956,
+    "company_display": "Toradex",
+    "title": "Intern - Product Manager Software",
+    "location": "Campinas, S\u00e3o Paulo, Brazil",
+    "url": "https://job-boards.greenhouse.io/toradex/jobs/8004517003",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-24T16:00:15+00:00",
+    "date_discovered": "2026-09-24T16:06:57.160005+00:00"
+  },
+  {
+    "id": 13614429,
+    "company_display": "AMD",
+    "title": "2027 Undergrad Program Management Intern/Co-op",
+    "location": "Austin, Texas",
+    "url": "https://campus-amd.icims.com/jobs/92880/login",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-24T15:54:00+00:00",
+    "date_discovered": "2026-09-24T16:07:54.843345+00:00"
+  },
+  {
+    "id": 13652408,
+    "company_display": "Adobe",
+    "title": "2027 University Graduate - Product Manager",
+    "location": "San Jose",
+    "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Product-Manager_R171844",
     "skill_level": "entry",
     "country": "us",
-    "updated_at": "2026-09-23T19:09:58.818675+00:00",
-    "date_discovered": "2026-09-23T19:10:53.929204+00:00"
+    "updated_at": "2026-09-24T17:37:46.840935+00:00",
+    "date_discovered": "2026-09-24T17:38:28.408131+00:00"
+  },
+  {
+    "id": 13687947,
+    "company_display": "ABB",
+    "title": "Product Management Intern - Summer 2027",
+    "location": "New Berlin, Wisconsin, USA",
+    "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/New-Berlin-Wisconsin-United-States-of-America/Product-Management-Intern---Summer-2027_JR00047280/apply",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-24T00:00:00+00:00",
+    "date_discovered": "2026-09-24T18:48:57.191260+00:00"
+  },
+  {
+    "id": 13734981,
+    "company_display": "IBM",
+    "title": "Product Management Intern 2027",
+    "location": "Markham, CA",
+    "url": "https://careers.ibm.com/careers/JobDetail?jobId=134134",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-09-24T20:42:06.081070+00:00"
   }
 ]
