@@ -561,17 +561,6 @@
     "date_discovered": "2026-09-15T18:08:43.389211+00:00"
   },
   {
-    "id": 9943031,
-    "company_display": "Johnson & Johnson",
-    "title": "Product Management Co-Op",
-    "location": "Jacksonville, Florida, USA",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/jj/job/Jacksonville-Florida-United-States-of-America/Product-Management-Co-Op_R-098262",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-15T22:07:19.684174+00:00",
-    "date_discovered": "2026-09-15T22:08:13.263821+00:00"
-  },
-  {
     "id": 10144474,
     "company_display": "Illinois Tool Works",
     "title": "Product Management Intern",
@@ -625,17 +614,6 @@
     "country": "international",
     "updated_at": "2026-09-17T02:35:43.097801+00:00",
     "date_discovered": "2026-09-17T02:40:26.478867+00:00"
-  },
-  {
-    "id": 10540160,
-    "company_display": "TD Bank",
-    "title": "L&H Product Management Intern/Co-op (Winter 2027)",
-    "location": "Toronto, Ontario",
-    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/L-H-Product-Management-Intern-Co-op--Winter-2027-_R_1506427",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-17T02:44:30.052603+00:00",
-    "date_discovered": "2026-09-17T02:45:26.992691+00:00"
   },
   {
     "id": 10568991,
@@ -889,6 +867,17 @@
     "country": "us",
     "updated_at": "2026-09-22T03:00:26.296016+00:00",
     "date_discovered": "2026-09-22T03:02:00.378465+00:00"
+  },
+  {
+    "id": 12440713,
+    "company_display": "Cisco",
+    "title": "Engineering Product Management Specialist I (Intern) \u2013 United States",
+    "location": "San Jose, California, USA",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Engineering-Product-Management-Specialist-I--Intern----United-States_2026308/apply",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-21T00:00:00+00:00",
+    "date_discovered": "2026-09-22T04:13:21.359823+00:00"
   },
   {
     "id": 12471308,
@@ -1461,5 +1450,192 @@
     "country": "international",
     "updated_at": "2026-09-15T06:12:16.223056+00:00",
     "date_discovered": "2026-09-26T06:15:45.767320+00:00"
+  },
+  {
+    "id": 14703969,
+    "company_display": "Mastercard",
+    "title": "Intern, Product Management, Cairo - Egypt",
+    "location": "Cairo, Egypt",
+    "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Cairo-Egypt/Intern--Product-Management--Cairo---Egypt_R-285348",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-27T09:52:36.996138+00:00",
+    "date_discovered": "2026-09-27T09:56:35.406053+00:00"
+  },
+  {
+    "id": 14704212,
+    "company_display": "Mastercard",
+    "title": "Associate Product Specialist, Product Management, Cairo - Egypt",
+    "location": "Cairo, Egypt",
+    "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Cairo-Egypt/Associate-Product-Specialist--Product-Management--Cairo---Egypt_R-285384-1",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-09-27T09:56:23.565842+00:00",
+    "date_discovered": "2026-09-27T09:56:38.527301+00:00"
+  },
+  {
+    "id": 14802295,
+    "company_display": "Mastercard",
+    "title": "Global Markets Intern, Summer 2027 - Cairo, Egypt",
+    "location": "Cairo, Egypt",
+    "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Cairo-Egypt/Global-Markets-Intern--Summer-2027---Cairo--Egypt_R-291975-2",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-27T20:34:33.703020+00:00",
+    "date_discovered": "2026-09-27T20:34:52.572050+00:00"
+  },
+  {
+    "id": 14802298,
+    "company_display": "Mastercard",
+    "title": "Global Markets, Graduate Launch Program 2027 - Cairo, Egypt",
+    "location": "Cairo, Egypt",
+    "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Global-Markets--Graduate-Launch-Program-2027---Cairo--Egypt_R-291972-2",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-09-27T20:34:33.703480+00:00",
+    "date_discovered": "2026-09-27T20:34:52.991739+00:00"
+  },
+  {
+    "id": 14807268,
+    "company_display": "Ntrs",
+    "title": "Wealth Management Digital Client and Partner Experience Intern",
+    "location": "Chicago, IL",
+    "url": "https://ntrs.wd1.myworkdayjobs.com/en-US/northerntrust/job/Chicago-IL/Wealth-Management-Digital-Client-and-Partner-Experience-Intern--_R160768-1",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-01T20:39:34.195521+00:00",
+    "date_discovered": "2026-09-27T20:41:04.976266+00:00"
+  },
+  {
+    "id": 14816817,
+    "company_display": "Mastercard",
+    "title": "Product Management Intern, Summer 2027 - Rome, Italy",
+    "location": "Rome, Italy",
+    "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Rome-Italy/Product-Management-Intern--Summer-2027---Rome--Italy_R-287722-1",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-27T22:04:31.684436+00:00",
+    "date_discovered": "2026-09-27T22:04:57.616548+00:00"
+  },
+  {
+    "id": 14830845,
+    "company_display": "Ing",
+    "title": "Intern, Trade Finance Product Management",
+    "location": "Singapore",
+    "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Singapore/Intern--Trade-Finance-Product-Management_REQ-10122211",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-25T22:17:15.411119+00:00",
+    "date_discovered": "2026-09-27T22:29:12.909481+00:00"
+  },
+  {
+    "id": 14830856,
+    "company_display": "Ing",
+    "title": "Associate Product Manager - Core Banking @ ING Hubs Ro",
+    "location": "Bucharest - Dacia One",
+    "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Bucharest---Dacia-One/Product-Manager---Core-Banking---ING-Hubs-Ro_REQ-10119916",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-09-16T22:17:15.700472+00:00",
+    "date_discovered": "2026-09-27T22:29:12.944283+00:00"
+  },
+  {
+    "id": 14830985,
+    "company_display": "Curtisswright",
+    "title": "Material Handler, Associate (3:30 pm \u2013 12:00 midnight)",
+    "location": "Canada-Ottawa",
+    "url": "https://curtisswright.wd1.myworkdayjobs.com/en-US/CW_External_Career_Site/job/Canada-Ottawa/Material-Handler--Associate--3-30-pm---12-00-midnight-_JR13618",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-09-14T22:17:29.431323+00:00",
+    "date_discovered": "2026-09-27T22:29:13.352018+00:00"
+  },
+  {
+    "id": 14831052,
+    "company_display": "Globusmedical",
+    "title": "Associate Product Manager",
+    "location": "Pennsylvania - Collegeville; Audubon, PA",
+    "url": "https://globusmedical.wd5.myworkdayjobs.com/en-US/GMED_Careers/job/Pennsylvania---Collegeville/Associate-Product-Manager_JR107618",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-09-10T22:17:21.735224+00:00",
+    "date_discovered": "2026-09-27T22:29:13.573049+00:00"
+  },
+  {
+    "id": 14831057,
+    "company_display": "Globusmedical",
+    "title": "Associate Product Manager",
+    "location": "Audubon, PA",
+    "url": "https://globusmedical.wd5.myworkdayjobs.com/en-US/GMED_Careers/job/Audubon-PA/Associate-Product-Manager_JR105815",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-08-28T22:17:21.883116+00:00",
+    "date_discovered": "2026-09-27T22:29:13.590060+00:00"
+  },
+  {
+    "id": 14831101,
+    "company_display": "Snc",
+    "title": "Military Fellowship Program: Program Manager",
+    "location": "Lone Tree, CO",
+    "url": "https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Lone-Tree-CO/Military-Fellowship-Program--Program-Manager_R0029488",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-08-28T22:17:33.596715+00:00",
+    "date_discovered": "2026-09-27T22:29:13.724569+00:00"
+  },
+  {
+    "id": 14831111,
+    "company_display": "Snc",
+    "title": "Military Fellowship Program: Supply Chain Program Manager",
+    "location": "Greenville, TX",
+    "url": "https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Greenville-TX/Military-Fellowship-Program--Supply-Chain-Program-Manager_R0028633",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-08-28T22:17:33.602974+00:00",
+    "date_discovered": "2026-09-27T22:29:13.754453+00:00"
+  },
+  {
+    "id": 14831215,
+    "company_display": "Aveva",
+    "title": "APM Services Intern - Brazil",
+    "location": "Sao Paulo, Brazil",
+    "url": "https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Sao-Paulo-Brazil/APM-Services-Intern---Brazil_R015753",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-24T22:17:46.499981+00:00",
+    "date_discovered": "2026-09-27T22:29:14.143026+00:00"
+  },
+  {
+    "id": 14831374,
+    "company_display": "Stanley-Black-Decker",
+    "title": "Associate Product Manager (Combo Kits - CRAFTSMAN)",
+    "location": "Towson, MD, USA",
+    "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Associate-Product-Manager--Combo-Kits---CRAFTSMAN-_REQ-1000052282",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-09-15T22:18:04.684917+00:00",
+    "date_discovered": "2026-09-27T22:29:14.702652+00:00"
+  },
+  {
+    "id": 14831429,
+    "company_display": "Millerknoll",
+    "title": "Associate Product Manager",
+    "location": "UK - Harrogate",
+    "url": "https://millerknoll.wd1.myworkdayjobs.com/en-US/MillerKnoll/job/UK---Harrogate/Associate-Product-Manager_JR109286",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-08-28T22:18:16.065893+00:00",
+    "date_discovered": "2026-09-27T22:29:14.939693+00:00"
+  },
+  {
+    "id": 14833791,
+    "company_display": "Mastercard",
+    "title": "Product Management Intern, Summer 2027 - Lisbon, Portugal",
+    "location": "Lisbon, Portugal",
+    "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Lisbon-Portugal/Product-Management-Intern--Summer-2027---Lisbon--Portugal_R-287709",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-27T23:34:32.114041+00:00",
+    "date_discovered": "2026-09-27T23:34:54.707247+00:00"
   }
 ]
