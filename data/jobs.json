@@ -660,17 +660,6 @@
     "date_discovered": "2026-09-17T16:19:53.338969+00:00"
   },
   {
-    "id": 10850761,
-    "company_display": "Visa",
-    "title": "Associate Technical Program Analyst Intern - Summer 2027",
-    "location": "US - Foster City, CA",
-    "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Associate-Technical-Program-Analyst-Intern---Summer-2027_REF088637W",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-17T20:35:27.702372+00:00",
-    "date_discovered": "2026-09-17T20:37:33.267038+00:00"
-  },
-  {
     "id": 11107869,
     "company_display": "TikTok",
     "title": "AI Product Manager Intern (TikTok Live-Revenue) - 2027 Start",
@@ -790,17 +779,6 @@
     "country": "remote",
     "updated_at": "2026-09-21T00:00:00+00:00",
     "date_discovered": "2026-09-21T14:52:55.292555+00:00"
-  },
-  {
-    "id": 12126614,
-    "company_display": "Mastercard",
-    "title": "Product Management Intern, Summer 2027 - United States",
-    "location": "Arlington, VA; Purchase, NY",
-    "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Purchase-New-York/Product-Management-Intern--Summer-2027---United-States_R-287624-1",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-21T16:05:43.159772+00:00",
-    "date_discovered": "2026-09-21T16:08:32.681224+00:00"
   },
   {
     "id": 12127622,
@@ -1408,17 +1386,6 @@
     "date_discovered": "2026-09-25T20:40:19.253265+00:00"
   },
   {
-    "id": 14259385,
-    "company_display": "IBM",
-    "title": "Product Manager Intern 2027 - One Madison",
-    "location": "New York, USA",
-    "url": "https://careers.ibm.com/careers/JobDetail?jobId=133468",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-25T20:40:21.751019+00:00"
-  },
-  {
     "id": 14459066,
     "company_display": "Applied Materials",
     "title": "Non-Technical Project/Program Management New College Grad- Bachelor's/Master's (Austin, TX)",
@@ -1637,5 +1604,148 @@
     "country": "international",
     "updated_at": "2026-09-27T23:34:32.114041+00:00",
     "date_discovered": "2026-09-27T23:34:54.707247+00:00"
+  },
+  {
+    "id": 14875625,
+    "company_display": "Philips",
+    "title": "Intern \u2013 Digital Healthtech Product Management \u2013 Bothell, WA \u2013 Summer 2027",
+    "location": "Bothell, Washington, USA",
+    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bothell-Washington-United-States/Intern---Digital-Healthtech-Product-Management---Bothell--WA---Summer-2027_585564/apply?source=Philips_Career_Site",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-28T00:00:00+00:00",
+    "date_discovered": "2026-09-28T02:41:22.730030+00:00"
+  },
+  {
+    "id": 14986447,
+    "company_display": "Mastercard",
+    "title": "Global Markets Intern, Summer 2027 - Lisbon, Portugal",
+    "location": "Lisbon, Portugal",
+    "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Lisbon-Portugal/Global-Markets-Intern--Summer-2027---Lisbon--Portugal_R-287710-2",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-28T09:01:20.025343+00:00",
+    "date_discovered": "2026-09-28T09:01:39.749658+00:00"
+  },
+  {
+    "id": 14986449,
+    "company_display": "Mastercard",
+    "title": "Global Markets, Graduate Launch Program 2027 - Lisbon, Portugal",
+    "location": "Lisbon, Portugal",
+    "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Lisbon-Portugal/Global-Markets--Graduate-Launch-Program-2027---Lisbon--Portugal_R-287705-2",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-09-28T09:01:20.025901+00:00",
+    "date_discovered": "2026-09-28T09:01:39.850034+00:00"
+  },
+  {
+    "id": 14986450,
+    "company_display": "Mastercard",
+    "title": "Global Markets Intern, 2027 - Warsaw, Poland",
+    "location": "Warsaw, Poland",
+    "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Warsaw-Poland/Global-Markets-Intern--2027---Warsaw--Poland_R-287717-2",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-28T09:01:20.026314+00:00",
+    "date_discovered": "2026-09-28T09:01:39.897113+00:00"
+  },
+  {
+    "id": 15006949,
+    "company_display": "KLA",
+    "title": "Graduate Product Management Engineer",
+    "location": "Newport, United Kingdom",
+    "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Newport-United-Kingdom/Graduate-Product-Management-Engineer_2640082",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-09-28T10:05:55.250132+00:00",
+    "date_discovered": "2026-09-28T10:07:25.855152+00:00"
+  },
+  {
+    "id": 15167743,
+    "company_display": "Amazon",
+    "title": "Program Manager Intern FRANCE 2027",
+    "location": "Clichy, Ile-de-France, FRA",
+    "url": "https://www.amazon.jobs/en/jobs/10561659/program-manager-intern-france-2027",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-09-28T15:20:03.514263+00:00"
+  },
+  {
+    "id": 15217742,
+    "company_display": "Amazon",
+    "title": "Program Manager Intern (12 months) - 2027",
+    "location": "Luxembourg, LUX",
+    "url": "https://www.amazon.jobs/en/jobs/10562002/program-manager-intern-12-months-2027",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-09-28T16:50:33.166000+00:00"
+  },
+  {
+    "id": 15302616,
+    "company_display": "Amazon",
+    "title": "Program Manager Intern (3 months) - FY27",
+    "location": "London, England, GBR",
+    "url": "https://www.amazon.jobs/en/jobs/10562382/program-manager-intern-3-months-fy27",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-09-28T19:20:27.596774+00:00"
+  },
+  {
+    "id": 15345488,
+    "company_display": "Nucor",
+    "title": "Product Management Intern",
+    "location": "Lewisville, TX",
+    "url": "https://jobs.nucor.com/job/Lewisville-Product-Management-Intern-TX-75057/1434591200/",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-09-28T20:41:59.898282+00:00"
+  },
+  {
+    "id": 15346355,
+    "company_display": "TIAA",
+    "title": "2027 Early Talent Rotational Program: Digital & Client Experience",
+    "location": "Charlotte, NC, USA; Iselin, NJ - 194 Wood Avenue South; New York, NY - 730 Third Avenue; 3965 Dallas Parkway Frisco, TX",
+    "url": "https://tiaa.wd1.myworkdayjobs.com/en-US/Search/job/Charlotte-NC-USA/XMLNAME-2027-Early-Talent-Rotational-Program--Digital---Client-Experience_R260900423",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-09-28T20:43:07.765754+00:00",
+    "date_discovered": "2026-09-28T20:43:35.021133+00:00"
+  },
+  {
+    "id": 15360683,
+    "company_display": "Micron",
+    "title": "Intern - HBM Design Development Technical Leadership (DDTL)",
+    "location": "Richardson, TX",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/Intern----HBM-Design-Development-Technical-Leadership--DDTL-_JR112565",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-28T21:07:38.932436+00:00",
+    "date_discovered": "2026-09-28T21:11:49.373031+00:00"
+  },
+  {
+    "id": 15486408,
+    "company_display": "Relx",
+    "title": "Product Management Intern- Insurance",
+    "location": "Alpharetta, GA (Alderman); Georgia",
+    "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA-Alderman/Product-Management-Intern--Insurance_R118879",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-29T00:30:07.464000+00:00",
+    "date_discovered": "2026-09-29T00:30:39.586460+00:00"
+  },
+  {
+    "id": 15486409,
+    "company_display": "Relx",
+    "title": "Product Management Intern- Government",
+    "location": "Alpharetta, GA (Alderman); Georgia",
+    "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA-Alderman/Product-Management-Intern--Government_R118611",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-29T00:30:07.464222+00:00",
+    "date_discovered": "2026-09-29T00:30:39.590896+00:00"
   }
 ]
