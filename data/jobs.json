@@ -847,17 +847,6 @@
     "date_discovered": "2026-09-22T03:02:00.378465+00:00"
   },
   {
-    "id": 12440713,
-    "company_display": "Cisco",
-    "title": "Engineering Product Management Specialist I (Intern) \u2013 United States",
-    "location": "San Jose, California, USA",
-    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Engineering-Product-Management-Specialist-I--Intern----United-States_2026308/apply",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-21T00:00:00+00:00",
-    "date_discovered": "2026-09-22T04:13:21.359823+00:00"
-  },
-  {
     "id": 12471308,
     "company_display": "Autodesk",
     "title": "Intern, Product Manager [PSET-Access-PM]",
@@ -968,17 +957,6 @@
     "date_discovered": "2026-09-22T16:53:23.456933+00:00"
   },
   {
-    "id": 12700438,
-    "company_display": "Danaher",
-    "title": "Product Management & Marketing Intern (Summer 2027 Intern)",
-    "location": "Logan, Utah, USA",
-    "url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Logan-Utah-United-States/Product-Management---Marketing-Intern--Summer-2027-Intern-_R1317692/apply",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-22T00:00:00+00:00",
-    "date_discovered": "2026-09-22T18:56:43.720039+00:00"
-  },
-  {
     "id": 12760333,
     "company_display": "Mastercard",
     "title": "Product Management Intern, Summer 2027 - St. Louis, MO (US)",
@@ -1054,17 +1032,6 @@
     "country": "us",
     "updated_at": "2026-09-23T14:05:38.916572+00:00",
     "date_discovered": "2026-09-23T14:07:58.273002+00:00"
-  },
-  {
-    "id": 13099849,
-    "company_display": "Vertiv",
-    "title": "Product Management Intern (Summer 2027)",
-    "location": "Lincoln, NE, USA",
-    "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20278558",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-23T00:00:00+00:00",
-    "date_discovered": "2026-09-23T14:46:09.711959+00:00"
   },
   {
     "id": 13127526,
@@ -1375,15 +1342,15 @@
     "date_discovered": "2026-09-25T14:40:38.907457+00:00"
   },
   {
-    "id": 14259354,
+    "id": 14259385,
     "company_display": "IBM",
-    "title": "Product Manager Spring Co-op 2027",
-    "location": "POUGHKEEPSIE, USA",
-    "url": "https://careers.ibm.com/careers/JobDetail?jobId=133133",
+    "title": "Product Manager Intern 2027 - One Madison",
+    "location": "New York, USA",
+    "url": "https://careers.ibm.com/careers/JobDetail?jobId=133468",
     "skill_level": "intern",
     "country": "us",
     "updated_at": null,
-    "date_discovered": "2026-09-25T20:40:19.253265+00:00"
+    "date_discovered": "2026-09-25T20:40:21.751019+00:00"
   },
   {
     "id": 14459066,
@@ -1747,5 +1714,60 @@
     "country": "us",
     "updated_at": "2026-09-29T00:30:07.464222+00:00",
     "date_discovered": "2026-09-29T00:30:39.590896+00:00"
+  },
+  {
+    "id": 15563565,
+    "company_display": "IBM",
+    "title": "Product Manager Intern 2027 - Bellevue",
+    "location": "Bellevue, USA",
+    "url": "https://careers.ibm.com/careers/JobDetail?jobId=134108",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-09-29T02:52:43.441418+00:00"
+  },
+  {
+    "id": 15753593,
+    "company_display": "General Dynamics",
+    "title": "Program Management Intern (CWL)",
+    "location": "Manassas, VA, USA",
+    "url": "https://www.gd.com/careers/program-management-intern-cwl-manassas-va-us-2026-75136-gdms-opportunity",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-28T00:00:00+00:00",
+    "date_discovered": "2026-09-29T12:41:31.655007+00:00"
+  },
+  {
+    "id": 15934534,
+    "company_display": "Epic Games",
+    "title": "Product Management Intern",
+    "location": "Cary, North Carolina, USA",
+    "url": "https://epicgames.com/careers/jobs/6161289004?gh_jid=6161289004",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-29T17:22:52+00:00",
+    "date_discovered": "2026-09-29T17:51:19.108200+00:00"
+  },
+  {
+    "id": 16010939,
+    "company_display": "Volvo",
+    "title": "Intern: Product Manager - Projects (Spring 2027)",
+    "location": "Shippensburg, PA",
+    "url": "https://jobs.volvogroup.com/job/Shippensburg-Intern-Product-Manager-Projects-%28Spring-2027%29-PA-17257/1369971755/",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-09-29T19:58:46.905028+00:00"
+  },
+  {
+    "id": 16155777,
+    "company_display": "Avav",
+    "title": "Program Manager Intern",
+    "location": "Simi Valley, CA",
+    "url": "https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/Program-Manager-Intern_8630",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-30T00:04:05.900091+00:00",
+    "date_discovered": "2026-09-30T00:04:06.404377+00:00"
   }
 ]
