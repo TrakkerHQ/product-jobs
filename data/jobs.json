@@ -1188,17 +1188,6 @@
     "date_discovered": "2026-09-23T17:06:53.746621+00:00"
   },
   {
-    "id": 13206768,
-    "company_display": "Microsoft",
-    "title": "Product Manager: Internship Opportunities",
-    "location": "USA, California, Mountain View",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393557004836",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-23T19:09:33.513282+00:00"
-  },
-  {
     "id": 13398847,
     "company_display": "PwC",
     "title": "Advisory private - Intern - SAP MM / PM - Rubano - BUS&TECH",
@@ -1230,6 +1219,17 @@
     "country": "us",
     "updated_at": "2026-09-24T13:36:34.250163+00:00",
     "date_discovered": "2026-09-24T13:37:55.504083+00:00"
+  },
+  {
+    "id": 13582333,
+    "company_display": "Cisco",
+    "title": "Engineering Product Management Specialist II (Intern) \u2013 United States",
+    "location": "San Jose, California, USA",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Engineering-Product-Management-Specialist-II--Intern----United-States_2026801/apply",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-24T00:00:00+00:00",
+    "date_discovered": "2026-09-24T14:44:39.903853+00:00"
   },
   {
     "id": 13586037,
@@ -1285,17 +1285,6 @@
     "country": "us",
     "updated_at": "2026-09-24T00:00:00+00:00",
     "date_discovered": "2026-09-24T18:48:57.191260+00:00"
-  },
-  {
-    "id": 13734981,
-    "company_display": "IBM",
-    "title": "Product Management Intern 2027",
-    "location": "Markham, CA",
-    "url": "https://careers.ibm.com/careers/JobDetail?jobId=134134",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-24T20:42:06.081070+00:00"
   },
   {
     "id": 13980447,
@@ -1857,5 +1846,115 @@
     "country": "international",
     "updated_at": null,
     "date_discovered": "2026-09-30T22:14:27.192934+00:00"
+  },
+  {
+    "id": 16974653,
+    "company_display": "Workato",
+    "title": "Intern, Technical Program Manager",
+    "location": "Hyderabad, India",
+    "url": "https://www.workato.com/careers?gh_jid=8854673002#open-roles",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-01T04:37:59+00:00",
+    "date_discovered": "2026-10-01T05:00:40.164419+00:00"
+  },
+  {
+    "id": 17181290,
+    "company_display": "Disney",
+    "title": "Intern, Project & Program Management, Disney+ - Jan to Jun 2027",
+    "location": "Singapore",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Singapore-Singapore/Intern--Project---Program-Management--Disney----Jan-to-Jun-2027_10162098",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-01T13:47:07.838874+00:00",
+    "date_discovered": "2026-10-01T13:47:10.689417+00:00"
+  },
+  {
+    "id": 17197904,
+    "company_display": "Mastercard",
+    "title": "Global Markets, Account Management & Product Management, Summer Internship Program \u2013 2027, Istanbul, T\u00fcrkiye",
+    "location": "Besiktas, Istanbul Turkey",
+    "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Besiktas-Istanbul-Turkey/Global-Markets--Account-Management---Product-Management--Summer-Internship-Program---2027--Istanbul--Trkiye_R-292561-2",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-01T14:15:45.883342+00:00",
+    "date_discovered": "2026-10-01T14:16:27.864711+00:00"
+  },
+  {
+    "id": 17209130,
+    "company_display": "Northrop Grumman",
+    "title": "2027 Program Management Intern - Rocket Center WV",
+    "location": "United States-West Virginia-Rocket Center",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-West-Virginia-Rocket-Center/XMLNAME-2027-Program-Management-Intern---Rocket-Center-WV_R10253921",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-01T14:38:15.380035+00:00",
+    "date_discovered": "2026-10-01T14:42:47.385666+00:00"
+  },
+  {
+    "id": 17319950,
+    "company_display": "IBM",
+    "title": "Product Management Intern 2027",
+    "location": "Markham, CA",
+    "url": "https://careers.ibm.com/careers/JobDetail?jobId=134996",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-01T17:47:49.926709+00:00"
+  },
+  {
+    "id": 17389409,
+    "company_display": "BNY Mellon",
+    "title": "2027 BNY Summer Internship Program - Program Management (Pittsburgh, PA)",
+    "location": "Pittsburgh, PA, USA",
+    "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/82782",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-01T00:00:00+00:00",
+    "date_discovered": "2026-10-01T19:48:04.445409+00:00"
+  },
+  {
+    "id": 17407127,
+    "company_display": "BNY Mellon",
+    "title": "2027 BNY Summer Internship Program - Product Management (Lake Mary, FL)",
+    "location": "Lake Mary, FL, USA",
+    "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/82784",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-01T00:00:00+00:00",
+    "date_discovered": "2026-10-01T20:17:40.246507+00:00"
+  },
+  {
+    "id": 17417639,
+    "company_display": "Autodesk",
+    "title": "Intern, Product Management (Winter 2027)",
+    "location": "Toronto, ON, CAN",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Intern--Product-Management--Winter-2027-_26WD101442-2",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-01T20:26:18.564139+00:00",
+    "date_discovered": "2026-10-01T20:26:21.977902+00:00"
+  },
+  {
+    "id": 17434203,
+    "company_display": "Costar",
+    "title": "Associate Product Manager - Sunnyvale, CA",
+    "location": "Sunnyvale (US)",
+    "url": "https://costar.wd1.myworkdayjobs.com/en-US/Costar_Campus/job/Sunnyvale-US/Associate-Product-Manager---Sunnyvale--CA_R39946",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-10-01T20:55:20.366957+00:00",
+    "date_discovered": "2026-10-01T20:55:21.792705+00:00"
+  },
+  {
+    "id": 17438618,
+    "company_display": "Attentive",
+    "title": "Product Management Intern, Agentic Integrations",
+    "location": "USA",
+    "url": "https://job-boards.greenhouse.io/attentive/jobs/4429880009",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-01T20:48:30+00:00",
+    "date_discovered": "2026-10-01T21:12:59.858664+00:00"
   }
 ]
