@@ -1573,17 +1573,6 @@
     "date_discovered": "2026-09-27T23:34:54.707247+00:00"
   },
   {
-    "id": 14875625,
-    "company_display": "Philips",
-    "title": "Intern \u2013 Digital Healthtech Product Management \u2013 Bothell, WA \u2013 Summer 2027",
-    "location": "Bothell, Washington, USA",
-    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bothell-Washington-United-States/Intern---Digital-Healthtech-Product-Management---Bothell--WA---Summer-2027_585564/apply?source=Philips_Career_Site",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-28T00:00:00+00:00",
-    "date_discovered": "2026-09-28T02:41:22.730030+00:00"
-  },
-  {
     "id": 14986447,
     "company_display": "Mastercard",
     "title": "Global Markets Intern, Summer 2027 - Lisbon, Portugal",
@@ -1956,5 +1945,159 @@
     "country": "us",
     "updated_at": "2026-10-01T20:48:30+00:00",
     "date_discovered": "2026-10-01T21:12:59.858664+00:00"
+  },
+  {
+    "id": 17607149,
+    "company_display": "Microsoft",
+    "title": "Explore Program Engineering Internship Opportunities: Second-Year Students, Redmond",
+    "location": "USA, Washington, Redmond",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556925816",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-02T01:49:52.687058+00:00"
+  },
+  {
+    "id": 17884518,
+    "company_display": "Google",
+    "title": "Associate Product Manager BS/MS Intern, 2027",
+    "location": "London, UK",
+    "url": "https://careers.google.com/jobs/results/103464941339452102-associate-product-manager-bsms-intern/",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-10-02T13:39:57.643595+00:00"
+  },
+  {
+    "id": 17905163,
+    "company_display": "Sas-Institute",
+    "title": "Product Management Intern",
+    "location": "Bloomington, MN",
+    "url": "https://ideas-sas.icims.com/jobs/42648/product-management-intern/job",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-02T14:11:55.157036+00:00"
+  },
+  {
+    "id": 17935347,
+    "company_display": "Databricks",
+    "title": "Product Management Intern (2026) - Amsterdam",
+    "location": "Amsterdam, Netherlands",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8133715002",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-02T14:38:19+00:00",
+    "date_discovered": "2026-10-02T15:05:40.434334+00:00"
+  },
+  {
+    "id": 17935348,
+    "company_display": "Databricks",
+    "title": "Product Management Intern (2026) - Belgrade",
+    "location": "Belgrade, Serbia",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8863328002",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-02T14:38:23+00:00",
+    "date_discovered": "2026-10-02T15:05:40.494215+00:00"
+  },
+  {
+    "id": 17935349,
+    "company_display": "Databricks",
+    "title": "Product Management Intern (2026) - Berlin",
+    "location": "Berlin, Germany",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8145776002",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-02T14:38:25+00:00",
+    "date_discovered": "2026-10-02T15:05:40.517805+00:00"
+  },
+  {
+    "id": 17935351,
+    "company_display": "Databricks",
+    "title": "Product Manager, New Grad (2026) - Amsterdam",
+    "location": "Amsterdam, Netherlands",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8133727002",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-10-02T14:38:39+00:00",
+    "date_discovered": "2026-10-02T15:05:40.565243+00:00"
+  },
+  {
+    "id": 17935352,
+    "company_display": "Databricks",
+    "title": "Product Manager, New Grad (2026) - Belgrade",
+    "location": "Belgrade, Serbia",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8863326002",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-10-02T14:38:42+00:00",
+    "date_discovered": "2026-10-02T15:05:40.604698+00:00"
+  },
+  {
+    "id": 17935353,
+    "company_display": "Databricks",
+    "title": "Product Manager, New Grad (2026) - Berlin",
+    "location": "Berlin, Germany",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8145800002",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-10-02T14:38:44+00:00",
+    "date_discovered": "2026-10-02T15:05:40.618478+00:00"
+  },
+  {
+    "id": 17950696,
+    "company_display": "Amazon",
+    "title": "Program Manager Intern DEU 2027",
+    "location": "Munich, Bavaria, DEU",
+    "url": "https://www.amazon.jobs/en/jobs/10567838/program-manager-intern-deu-2027",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-10-02T15:19:39.175347+00:00"
+  },
+  {
+    "id": 18077536,
+    "company_display": "C3 AI",
+    "title": "AI Product Manager - MBA Intern (Summer 2027)",
+    "location": "Redwood City, California, USA",
+    "url": "https://c3.ai/job-description/8860563002?gh_jid=8860563002",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-02T18:52:43+00:00",
+    "date_discovered": "2026-10-02T19:06:04.562961+00:00"
+  },
+  {
+    "id": 18110038,
+    "company_display": "Trane-Technologies",
+    "title": "Program Manager Intern - CAD Designer",
+    "location": "Jacksonville, Florida, USA",
+    "url": "https://tranetechnologies.wd12.myworkdayjobs.com/Trane_Technologies_Careers/job/Jacksonville-FL-5550-POW-MIA-Memorial-Pkwy/Program-Manager-Intern---CAD-Designer_JR-13875/apply",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-02T00:00:00+00:00",
+    "date_discovered": "2026-10-02T19:49:22.516058+00:00"
+  },
+  {
+    "id": 18129747,
+    "company_display": "Trimble",
+    "title": "Product Management Intern",
+    "location": "US - CO, Westminster",
+    "url": "https://trimble.wd1.myworkdayjobs.com/en-US/trimblecareers/job/US---CO-Westminster/Product-Management-Intern_R57893",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-02T20:20:44.161774+00:00",
+    "date_discovered": "2026-10-02T20:20:44.527100+00:00"
+  },
+  {
+    "id": 18294046,
+    "company_display": "EA",
+    "title": "Product Manager Intern, MBA Level - Summer 2027 (Apex Legends)",
+    "location": "Los Angeles - Chatsworth, United States of America \u2022 Role ID 216272 \u2022 Intern - Temporary Employee \u2022 EA Studios - Respawn",
+    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Product-Manager-Intern-MBA-Level-Summer-2027-Apex-Legends/216272",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-03T01:08:44.357310+00:00"
   }
 ]
