@@ -990,17 +990,6 @@
     "date_discovered": "2026-09-23T11:12:31.482197+00:00"
   },
   {
-    "id": 13019727,
-    "company_display": "Factset",
-    "title": "Associate Product Manager",
-    "location": "Hyderabad, IND",
-    "url": "https://factset.wd108.myworkdayjobs.com/en-US/FactSetCareers/job/Hyderabad-IND/Associate-Product-Manager_R33156",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": "2026-09-23T11:48:48.053298+00:00",
-    "date_discovered": "2026-09-23T11:49:06.490234+00:00"
-  },
-  {
     "id": 13048359,
     "company_display": "General Dynamics",
     "title": "COLUMBIA Design & Engineering Program Office - 2027 Summer Internship",
@@ -1175,17 +1164,6 @@
     "country": "us",
     "updated_at": "2026-09-24T13:36:34.250163+00:00",
     "date_discovered": "2026-09-24T13:37:55.504083+00:00"
-  },
-  {
-    "id": 13582333,
-    "company_display": "Cisco",
-    "title": "Engineering Product Management Specialist II (Intern) \u2013 United States",
-    "location": "San Jose, California, USA",
-    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Engineering-Product-Management-Specialist-II--Intern----United-States_2026801/apply",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-24T00:00:00+00:00",
-    "date_discovered": "2026-09-24T14:44:39.903853+00:00"
   },
   {
     "id": 13586037,
@@ -1727,17 +1705,6 @@
     "date_discovered": "2026-09-30T22:14:27.192934+00:00"
   },
   {
-    "id": 16974653,
-    "company_display": "Workato",
-    "title": "Intern, Technical Program Manager",
-    "location": "Hyderabad, India",
-    "url": "https://www.workato.com/careers?gh_jid=8854673002#open-roles",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-10-01T04:37:59+00:00",
-    "date_discovered": "2026-10-01T05:00:40.164419+00:00"
-  },
-  {
     "id": 17181290,
     "company_display": "Disney",
     "title": "Intern, Project & Program Management, Disney+ - Jan to Jun 2027",
@@ -1989,5 +1956,82 @@
     "country": "us",
     "updated_at": "2026-10-03T18:11:17.277082+00:00",
     "date_discovered": "2026-10-03T18:11:18.672116+00:00"
+  },
+  {
+    "id": 18388830,
+    "company_display": "Smartsheet",
+    "title": "Product Management - Interns",
+    "location": "Bangalore, INDIA",
+    "url": "https://job-boards.greenhouse.io/smartsheet/jobs/8255581",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-05T06:03:18+00:00",
+    "date_discovered": "2026-10-05T07:00:36.066442+00:00"
+  },
+  {
+    "id": 18389196,
+    "company_display": "Genentech",
+    "title": "Associate International Product Manager (Sequencing Sample Preparation)",
+    "location": "Cape Town",
+    "url": "https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Cape-Town/Associate-International-Product-Manager---Sequencing-Sample-Preparation-_202609-123292-1",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-10-05T09:07:25.103146+00:00",
+    "date_discovered": "2026-10-05T09:08:05.258569+00:00"
+  },
+  {
+    "id": 18389262,
+    "company_display": "Ntrs",
+    "title": "Associate Product Manager",
+    "location": "Pune, India",
+    "url": "https://ntrs.wd1.myworkdayjobs.com/en-US/northerntrust/job/Pune-India/Associate-Product-Manager_R156785-2",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-10-05T09:11:02.251477+00:00",
+    "date_discovered": "2026-10-05T09:11:21.551628+00:00"
+  },
+  {
+    "id": 18389472,
+    "company_display": "Mastercard",
+    "title": "Product Management Intern, Summer 2027 \u2013 Dubai, UAE (UAE Nationals Preferred)",
+    "location": "Dubai, United Arab Emirates",
+    "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Dubai-United-Arab-Emirates/Product-Management-Intern--Summer-2027---Dubai--UAE--UAE-Nationals-Preferred-_R-287599-1",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-05T10:11:23.631583+00:00",
+    "date_discovered": "2026-10-05T10:11:45.172232+00:00"
+  },
+  {
+    "id": 18390462,
+    "company_display": "Occ",
+    "title": "Summer Intern - Strategy",
+    "location": "Chicago - 125 S Franklin",
+    "url": "https://theocc.wd5.myworkdayjobs.com/en-US/careers/job/Chicago---125-S-Franklin/Summer-Intern---Strategy_REQ-4882",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-05T13:49:47.296006+00:00",
+    "date_discovered": "2026-10-05T13:49:47.687611+00:00"
+  },
+  {
+    "id": 18392127,
+    "company_display": "Garmin",
+    "title": "Intern - Aviation Programs Engineering",
+    "location": "Olathe, Kansas",
+    "url": "https://careers-garmin.icims.com/jobs/20296/login",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-05T18:56:00+00:00",
+    "date_discovered": "2026-10-05T19:15:30.432791+00:00"
+  },
+  {
+    "id": 18393036,
+    "company_display": "EA",
+    "title": "Program Manager Intern, Games for All (Master's Level) - Winter 2026",
+    "location": "Vancouver, Canada \u2022 Role ID 216330 \u2022 Intern - Temporary Employee \u2022 Legal",
+    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Program-Manager-Intern-Games-for-All-Master-s-Level/216330",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-10-05T22:38:56.142166+00:00"
   }
 ]
