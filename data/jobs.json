@@ -1166,6 +1166,17 @@
     "date_discovered": "2026-09-24T13:37:55.504083+00:00"
   },
   {
+    "id": 13582333,
+    "company_display": "Cisco",
+    "title": "Engineering Product Management Specialist II (Intern) \u2013 United States",
+    "location": "San Jose, California, USA",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Engineering-Product-Management-Specialist-II--Intern----United-States_2026801/apply",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-24T00:00:00+00:00",
+    "date_discovered": "2026-09-24T14:44:39.903853+00:00"
+  },
+  {
     "id": 13586037,
     "company_display": "Amazon",
     "title": "Program Manager Intern ITA 2027",
@@ -1274,17 +1285,6 @@
     "country": "us",
     "updated_at": null,
     "date_discovered": "2026-09-25T14:40:38.907457+00:00"
-  },
-  {
-    "id": 14259354,
-    "company_display": "IBM",
-    "title": "Product Manager Spring Co-op 2027",
-    "location": "POUGHKEEPSIE, USA",
-    "url": "https://careers.ibm.com/careers/JobDetail?jobId=133133",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-25T20:40:19.253265+00:00"
   },
   {
     "id": 14259385,
@@ -1595,17 +1595,6 @@
     "date_discovered": "2026-09-29T00:30:39.590896+00:00"
   },
   {
-    "id": 15563565,
-    "company_display": "IBM",
-    "title": "Product Manager Intern 2027 - Bellevue",
-    "location": "Bellevue, USA",
-    "url": "https://careers.ibm.com/careers/JobDetail?jobId=134108",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-29T02:52:43.441418+00:00"
-  },
-  {
     "id": 15753593,
     "company_display": "General Dynamics",
     "title": "Program Management Intern (CWL)",
@@ -1672,17 +1661,6 @@
     "date_discovered": "2026-09-30T17:39:02.010022+00:00"
   },
   {
-    "id": 16614876,
-    "company_display": "Microsoft",
-    "title": "Business Program Management INTERN",
-    "location": "USA, Washington, Redmond",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393557019360",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-30T17:43:24.944803+00:00"
-  },
-  {
     "id": 16659272,
     "company_display": "Epic Games",
     "title": "Technical Product Management Intern",
@@ -1725,17 +1703,6 @@
     "country": "international",
     "updated_at": "2026-10-01T14:15:45.883342+00:00",
     "date_discovered": "2026-10-01T14:16:27.864711+00:00"
-  },
-  {
-    "id": 17209130,
-    "company_display": "Northrop Grumman",
-    "title": "2027 Program Management Intern - Rocket Center WV",
-    "location": "United States-West Virginia-Rocket Center",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-West-Virginia-Rocket-Center/XMLNAME-2027-Program-Management-Intern---Rocket-Center-WV_R10253921",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-01T14:38:15.380035+00:00",
-    "date_discovered": "2026-10-01T14:42:47.385666+00:00"
   },
   {
     "id": 17319950,
@@ -1903,17 +1870,6 @@
     "date_discovered": "2026-10-02T15:05:40.618478+00:00"
   },
   {
-    "id": 17950696,
-    "company_display": "Amazon",
-    "title": "Program Manager Intern DEU 2027",
-    "location": "Munich, Bavaria, DEU",
-    "url": "https://www.amazon.jobs/en/jobs/10567838/program-manager-intern-deu-2027",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-10-02T15:19:39.175347+00:00"
-  },
-  {
     "id": 18110038,
     "company_display": "Trane-Technologies",
     "title": "Program Manager Intern - CAD Designer",
@@ -2033,5 +1989,60 @@
     "country": "international",
     "updated_at": null,
     "date_discovered": "2026-10-05T22:38:56.142166+00:00"
+  },
+  {
+    "id": 18395026,
+    "company_display": "Mastercard",
+    "title": "Global Markets Summer Internship 2027 - Product Management intern & Sales Analyst Intern - Dubai, UAE (UAE Nationals Preferred)",
+    "location": "Dubai, United Arab Emirates",
+    "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Dubai-United-Arab-Emirates/Global-Markets-Summer-Internship-2027---Product-Management-intern---Sales-Analyst-Intern---Dubai--UAE--UAE-Nationals-Preferred-_R-287598-1",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-06T07:10:32.156346+00:00",
+    "date_discovered": "2026-10-06T07:10:33.894050+00:00"
+  },
+  {
+    "id": 18395175,
+    "company_display": "Mastercard",
+    "title": "Global Markets Summer Internship 2027- Product Management Intern & Sales Analyst Intern - Riyadh, Saudi Arabia",
+    "location": "Riyadh, Saudi Arabia",
+    "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Riyadh-Saudi-Arabia/Global-Markets-Summer-Internship-2027--Product-Management-Intern---Sales-Analyst-Intern---Riyadh--Saudi-Arabia_R-292933-2",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-06T08:09:53.838550+00:00",
+    "date_discovered": "2026-10-06T08:10:10.633068+00:00"
+  },
+  {
+    "id": 18395442,
+    "company_display": "Amazon",
+    "title": "Program Manager Intern 6 Months - 2027",
+    "location": "Hamburg, DEU",
+    "url": "https://www.amazon.jobs/en/jobs/10570135/program-manager-intern-6-months-2027",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-10-06T09:14:09.642317+00:00"
+  },
+  {
+    "id": 18397191,
+    "company_display": "EA",
+    "title": "Product Management Intern, Fan Care Community Care - Summer 2027",
+    "location": "Austin, United States of America \u2022 Role ID 216182 \u2022 Intern - Temporary Employee \u2022 Fan Growth",
+    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Product-Management-Intern-Fan-Care-Community-Care-Summer-2027/216182",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-06T16:08:49.761326+00:00"
+  },
+  {
+    "id": 18397509,
+    "company_display": "Sanofi",
+    "title": "internship 6 months digital product management",
+    "location": "Location:Paris, France",
+    "url": "https://jobs.sanofi.com/en/job/paris/internship-6-months-digital-product-management/2649/45625370816",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-10-06T17:10:04.892459+00:00"
   }
 ]
