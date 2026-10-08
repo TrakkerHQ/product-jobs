@@ -1067,17 +1067,6 @@
     "date_discovered": "2026-09-23T15:40:34.674123+00:00"
   },
   {
-    "id": 13127568,
-    "company_display": "Amazon",
-    "title": "Program Manager Intern, APAC Data Center Delivery Operations",
-    "location": "SGP",
-    "url": "https://www.amazon.jobs/en/jobs/10529692/program-manager-intern-apac-data-center-delivery-operations",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-04T15:19:43.677156+00:00",
-    "date_discovered": "2026-09-23T15:40:34.737508+00:00"
-  },
-  {
     "id": 13127577,
     "company_display": "Amazon",
     "title": "Product Manager Technical (PMT) Intern - Summer 2027",
@@ -1089,17 +1078,6 @@
     "date_discovered": "2026-09-23T15:40:34.768326+00:00"
   },
   {
-    "id": 13127584,
-    "company_display": "Amazon",
-    "title": "2027 Program/Product Manager Intern",
-    "location": "Cape Town, Western Cape, ZAF",
-    "url": "https://www.amazon.jobs/en/jobs/10499684/2027-program-product-manager-intern",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-08-24T15:20:21.714916+00:00",
-    "date_discovered": "2026-09-23T15:40:34.790626+00:00"
-  },
-  {
     "id": 13127591,
     "company_display": "Amazon",
     "title": "2026 PM Intern - Supply Chain, Operations",
@@ -1109,17 +1087,6 @@
     "country": "international",
     "updated_at": "2026-09-17T15:20:36.439653+00:00",
     "date_discovered": "2026-09-23T15:40:34.816361+00:00"
-  },
-  {
-    "id": 13127604,
-    "company_display": "Amazon",
-    "title": "Program Manager Intern",
-    "location": "Mexico City, MEX",
-    "url": "https://www.amazon.jobs/en/jobs/10410587/program-manager-intern",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-04-26T15:20:48.531258+00:00",
-    "date_discovered": "2026-09-23T15:40:34.851053+00:00"
   },
   {
     "id": 13127645,
@@ -1285,6 +1252,17 @@
     "country": "us",
     "updated_at": null,
     "date_discovered": "2026-09-25T14:40:38.907457+00:00"
+  },
+  {
+    "id": 14259354,
+    "company_display": "IBM",
+    "title": "Product Manager Spring Co-op 2027",
+    "location": "POUGHKEEPSIE, USA",
+    "url": "https://careers.ibm.com/careers/JobDetail?jobId=133133",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-09-25T20:40:19.253265+00:00"
   },
   {
     "id": 14259385,
@@ -1463,6 +1441,17 @@
     "date_discovered": "2026-09-27T23:34:54.707247+00:00"
   },
   {
+    "id": 14875625,
+    "company_display": "Philips",
+    "title": "Intern \u2013 Digital Healthtech Product Management \u2013 Bothell, WA \u2013 Summer 2027",
+    "location": "Bothell, Washington, USA",
+    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bothell-Washington-United-States/Intern---Digital-Healthtech-Product-Management---Bothell--WA---Summer-2027_585564/apply?source=Philips_Career_Site",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-28T00:00:00+00:00",
+    "date_discovered": "2026-09-28T02:41:22.730030+00:00"
+  },
+  {
     "id": 14986447,
     "company_display": "Mastercard",
     "title": "Global Markets Intern, Summer 2027 - Lisbon, Portugal",
@@ -1551,17 +1540,6 @@
     "date_discovered": "2026-09-28T20:41:59.898282+00:00"
   },
   {
-    "id": 15346355,
-    "company_display": "TIAA",
-    "title": "2027 Early Talent Rotational Program: Digital & Client Experience",
-    "location": "Charlotte, NC, USA; Iselin, NJ - 194 Wood Avenue South; New York, NY - 730 Third Avenue; 3965 Dallas Parkway Frisco, TX",
-    "url": "https://tiaa.wd1.myworkdayjobs.com/en-US/Search/job/Charlotte-NC-USA/XMLNAME-2027-Early-Talent-Rotational-Program--Digital---Client-Experience_R260900423",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": "2026-09-28T20:43:07.765754+00:00",
-    "date_discovered": "2026-09-28T20:43:35.021133+00:00"
-  },
-  {
     "id": 15360683,
     "company_display": "Micron",
     "title": "Intern - HBM Design Development Technical Leadership (DDTL)",
@@ -1593,6 +1571,17 @@
     "country": "us",
     "updated_at": "2026-09-29T00:30:07.464222+00:00",
     "date_discovered": "2026-09-29T00:30:39.590896+00:00"
+  },
+  {
+    "id": 15563565,
+    "company_display": "IBM",
+    "title": "Product Manager Intern 2027 - Bellevue",
+    "location": "Bellevue, USA",
+    "url": "https://careers.ibm.com/careers/JobDetail?jobId=134108",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-09-29T02:52:43.441418+00:00"
   },
   {
     "id": 15753593,
@@ -1659,6 +1648,17 @@
     "country": "international",
     "updated_at": null,
     "date_discovered": "2026-09-30T17:39:02.010022+00:00"
+  },
+  {
+    "id": 16614876,
+    "company_display": "Microsoft",
+    "title": "Business Program Management INTERN",
+    "location": "USA, Washington, Redmond",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557019360",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-09-30T17:43:24.944803+00:00"
   },
   {
     "id": 16659272,
@@ -2044,5 +2044,60 @@
     "country": "international",
     "updated_at": null,
     "date_discovered": "2026-10-06T17:10:04.892459+00:00"
+  },
+  {
+    "id": 18400795,
+    "company_display": "PwC",
+    "title": "Risk Services - Program Management (AI Hub) Off-Cycle Internship (Jan - Jun 27)",
+    "location": "Singapore - Marina One",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Singapore---Marina-One/Risk-Services---Program-Management--AI-Hub--Off-Cycle-Internship--Jan---Jun-27-_766566WD",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-07T03:01:25.976941+00:00",
+    "date_discovered": "2026-10-07T03:08:31.118149+00:00"
+  },
+  {
+    "id": 18401496,
+    "company_display": "Mastercard",
+    "title": "Intern, Technical Program Management",
+    "location": "Dubai, United Arab Emirates",
+    "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Dubai-United-Arab-Emirates/Intern--Technical-Program-Management_R-284922-2",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-07T07:10:11.320356+00:00",
+    "date_discovered": "2026-10-07T07:10:57.496492+00:00"
+  },
+  {
+    "id": 18402729,
+    "company_display": "BNY Mellon",
+    "title": "2027 BNY Summer Internship Program - Product Management - Singapore",
+    "location": "Singapore",
+    "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/82920",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-07T00:00:00+00:00",
+    "date_discovered": "2026-10-07T13:09:52.212294+00:00"
+  },
+  {
+    "id": 18405173,
+    "company_display": "Hp",
+    "title": "Software Product Management Intern",
+    "location": "Austin, Texas, United States of America; Fort Collins, Colorado, USA",
+    "url": "https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Austin-Texas-United-States-of-America/Software-Product-Management-Intern_UNI4516-1",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-07T19:47:39.939643+00:00",
+    "date_discovered": "2026-10-07T19:47:42.329562+00:00"
+  },
+  {
+    "id": 18405228,
+    "company_display": "Formlabs",
+    "title": "Sourcing Program Management Intern (Winter/Spring 2027)",
+    "location": "Somerville, MA",
+    "url": "https://careers.formlabs.com/job/8262987/apply/?gh_jid=8262987",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-07T20:02:51+00:00",
+    "date_discovered": "2026-10-07T20:06:05.288140+00:00"
   }
 ]
