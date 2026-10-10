@@ -1,16 +1,5 @@
 [
   {
-    "id": 7627262,
-    "company_display": "Coinbase",
-    "title": "Associate Product Manager Intern",
-    "location": "Hybrid - San Francisco, CA",
-    "url": "https://www.coinbase.com/careers/positions/8168322?gh_jid=8168322",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-08T22:15:06+00:00",
-    "date_discovered": "2026-09-08T22:35:30.639956+00:00"
-  },
-  {
     "id": 7763643,
     "company_display": "Coty",
     "title": "Product Manager Assistant J 75002",
@@ -1441,6 +1430,17 @@
     "date_discovered": "2026-09-27T23:34:54.707247+00:00"
   },
   {
+    "id": 14875625,
+    "company_display": "Philips",
+    "title": "Intern \u2013 Digital Healthtech Product Management \u2013 Bothell, WA \u2013 Summer 2027",
+    "location": "Bothell, Washington, USA",
+    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bothell-Washington-United-States/Intern---Digital-Healthtech-Product-Management---Bothell--WA---Summer-2027_585564/apply?source=Philips_Career_Site",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-28T00:00:00+00:00",
+    "date_discovered": "2026-09-28T02:41:22.730030+00:00"
+  },
+  {
     "id": 14986447,
     "company_display": "Mastercard",
     "title": "Global Markets Intern, Summer 2027 - Lisbon, Portugal",
@@ -1628,17 +1628,6 @@
     "date_discovered": "2026-09-30T15:40:53.671249+00:00"
   },
   {
-    "id": 16609584,
-    "company_display": "EA",
-    "title": "Product Management Intern",
-    "location": "Hyderabad, India \u2022 Role ID 216204 \u2022 Intern - Temporary Employee \u2022 EA Mobile - Slingshot Games (India)",
-    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Product-Management-Intern/216204",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-30T17:39:02.010022+00:00"
-  },
-  {
     "id": 16614876,
     "company_display": "Microsoft",
     "title": "Business Program Management INTERN",
@@ -1725,17 +1714,6 @@
     "country": "us",
     "updated_at": "2026-10-01T00:00:00+00:00",
     "date_discovered": "2026-10-01T20:17:40.246507+00:00"
-  },
-  {
-    "id": 17417639,
-    "company_display": "Autodesk",
-    "title": "Intern, Product Management (Winter 2027)",
-    "location": "Toronto, ON, CAN",
-    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Intern--Product-Management--Winter-2027-_26WD101442-2",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-10-01T20:26:18.564139+00:00",
-    "date_discovered": "2026-10-01T20:26:21.977902+00:00"
   },
   {
     "id": 17434203,
@@ -2068,6 +2046,17 @@
     "date_discovered": "2026-10-08T17:41:39.617208+00:00"
   },
   {
+    "id": 18410895,
+    "company_display": "IBM",
+    "title": "Product Manager Intern 2027 - Lowell",
+    "location": "LOWELL, USA",
+    "url": "https://careers.ibm.com/careers/JobDetail?jobId=132983",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-08T17:41:39.701621+00:00"
+  },
+  {
     "id": 18412371,
     "company_display": "USAA",
     "title": "Product Management Advisor Intern",
@@ -2077,5 +2066,104 @@
     "country": "us",
     "updated_at": "2026-10-08T21:48:46.464048+00:00",
     "date_discovered": "2026-10-08T21:48:47.048821+00:00"
+  },
+  {
+    "id": 18414714,
+    "company_display": "Amazon",
+    "title": "2027 Program Manager Intern, Amazon Operations",
+    "location": "Cairo, EGY",
+    "url": "https://www.amazon.jobs/en/jobs/10574365/2027-program-manager-intern-amazon-operations",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-10-09T07:14:24.502170+00:00"
+  },
+  {
+    "id": 18414870,
+    "company_display": "Amazon",
+    "title": "2027 Program Manager Intern, Amazon Operations",
+    "location": "Riyadh, SAU",
+    "url": "https://www.amazon.jobs/en/jobs/10574393/2027-program-manager-intern-amazon-operations",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-10-09T08:14:18.818185+00:00"
+  },
+  {
+    "id": 18415959,
+    "company_display": "BorgWarner",
+    "title": "Program Management Intern",
+    "location": "Arden - North Carolina - USA",
+    "url": "https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Arden---North-Carolina---USA/Program-Management-Intern_R2026-4004",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-09T13:18:00.016059+00:00",
+    "date_discovered": "2026-10-09T13:18:00.603328+00:00"
+  },
+  {
+    "id": 18416159,
+    "company_display": "Zynga",
+    "title": "Product Manager Intern",
+    "location": "Barcelona, Spain",
+    "url": "https://job-boards.greenhouse.io/zyngacareers/jobs/6221172004",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-09T13:55:01+00:00",
+    "date_discovered": "2026-10-09T14:05:37.380846+00:00"
+  },
+  {
+    "id": 18417266,
+    "company_display": "IBM",
+    "title": "Product Management Intern 2027",
+    "location": "Yorktown Heights, USA",
+    "url": "https://careers.ibm.com/careers/JobDetail?jobId=136426",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-09T17:41:54.274030+00:00"
+  },
+  {
+    "id": 18418281,
+    "company_display": "Delta Air Lines",
+    "title": "Co-op, Operations Customer Center (OCC) Product Management (Spring 2027)",
+    "location": "USA, Georgia, Atlanta.",
+    "url": "https://delta.avature.net/en_US/careers/JobDetail/Co-op-Operations-Customer-Center-OCC-Product-Management-Spring-2027/34717?jobId=34717",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-09T20:39:11.104617+00:00"
+  },
+  {
+    "id": 18418333,
+    "company_display": "Vertiv",
+    "title": "Energy Storage Product Management Intern (Summer 2027)",
+    "location": "Delaware, OH, USA",
+    "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20279379",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-09T00:00:00+00:00",
+    "date_discovered": "2026-10-09T20:43:31.149554+00:00"
+  },
+  {
+    "id": 18418791,
+    "company_display": "Amazon",
+    "title": "Program Manager Intern \u2013 Summer 2027",
+    "location": "Seattle, Washington, USA",
+    "url": "https://www.amazon.jobs/en/jobs/10575248/program-manager-intern-summer-2027",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-09T21:49:30.906083+00:00"
+  },
+  {
+    "id": 18419457,
+    "company_display": "DocuSign",
+    "title": "Program Manager Intern",
+    "location": "Seattle, Washington",
+    "url": "https://careers.docusign.com/jobs/30507?lang=en-us",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-09T18:12:00+00:00",
+    "date_discovered": "2026-10-10T00:15:07.124733+00:00"
   }
 ]
