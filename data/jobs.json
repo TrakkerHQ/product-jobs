@@ -1,38 +1,5 @@
 [
   {
-    "id": 7763643,
-    "company_display": "Coty",
-    "title": "Product Manager Assistant J 75002",
-    "location": "Paris",
-    "url": "https://careers.coty.com/job/Paris-Product-Manager-Assistant-J-75002/1435197233/",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-09T11:06:23.143722+00:00"
-  },
-  {
-    "id": 7970164,
-    "company_display": "Stepstone-Group",
-    "title": "2026 Private Debt Product Management Intern",
-    "location": "Zurich",
-    "url": "https://www.stepstonegroup.com/current-opportunities/?gh_jid=7492776",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-09T15:24:07+00:00",
-    "date_discovered": "2026-09-09T22:04:08.952932+00:00"
-  },
-  {
-    "id": 7975501,
-    "company_display": "USAA",
-    "title": "Digital Technical Product Management Intern",
-    "location": "San Antonio Home Office I",
-    "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Digital-Technical-Product-Management-Intern_R0120759",
-    "skill_level": "intern",
-    "country": null,
-    "updated_at": "2026-09-09T22:09:56.422695+00:00",
-    "date_discovered": "2026-09-09T22:10:00.875929+00:00"
-  },
-  {
     "id": 8049048,
     "company_display": "Coty",
     "title": "Global Product Manager Assistant LANCASTER J 75002",
@@ -108,17 +75,6 @@
     "country": "us",
     "updated_at": "2026-09-10T19:24:41.221441+00:00",
     "date_discovered": "2026-09-10T19:27:36.336685+00:00"
-  },
-  {
-    "id": 8198827,
-    "company_display": "Oshkosh",
-    "title": "Program Management Intern",
-    "location": "Oshkosh, Wisconsin, USA",
-    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Program-Management-Intern_R50253/apply",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-10T00:00:00+00:00",
-    "date_discovered": "2026-09-10T20:33:53.081665+00:00"
   },
   {
     "id": 8260165,
@@ -1331,17 +1287,6 @@
     "date_discovered": "2026-09-27T20:34:52.991739+00:00"
   },
   {
-    "id": 14807268,
-    "company_display": "Ntrs",
-    "title": "Wealth Management Digital Client and Partner Experience Intern",
-    "location": "Chicago, IL",
-    "url": "https://ntrs.wd1.myworkdayjobs.com/en-US/northerntrust/job/Chicago-IL/Wealth-Management-Digital-Client-and-Partner-Experience-Intern--_R160768-1",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-01T20:39:34.195521+00:00",
-    "date_discovered": "2026-09-27T20:41:04.976266+00:00"
-  },
-  {
     "id": 14816817,
     "company_display": "Mastercard",
     "title": "Product Management Intern, Summer 2027 - Rome, Italy",
@@ -1626,17 +1571,6 @@
     "country": "us",
     "updated_at": null,
     "date_discovered": "2026-09-30T15:40:53.671249+00:00"
-  },
-  {
-    "id": 16614876,
-    "company_display": "Microsoft",
-    "title": "Business Program Management INTERN",
-    "location": "USA, Washington, Redmond",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393557019360",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-30T17:43:24.944803+00:00"
   },
   {
     "id": 16659272,
@@ -2165,5 +2099,27 @@
     "country": "us",
     "updated_at": "2026-10-09T18:12:00+00:00",
     "date_discovered": "2026-10-10T00:15:07.124733+00:00"
+  },
+  {
+    "id": 18420937,
+    "company_display": "Plexus",
+    "title": "Intern - Program management",
+    "location": "Guadalajara, Mexico",
+    "url": "https://jobs.plexus.com/careers/job/1099556496582",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-10-10T09:11:45.923055+00:00"
+  },
+  {
+    "id": 18422296,
+    "company_display": "SharkNinja",
+    "title": "Engineering & Technology Co-op Opportunities",
+    "location": "Needham, MA, USA",
+    "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713854006",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-28T17:28:06+00:00",
+    "date_discovered": "2026-10-10T20:12:31.738578+00:00"
   }
 ]
