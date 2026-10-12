@@ -1,93 +1,5 @@
 [
   {
-    "id": 8049048,
-    "company_display": "Coty",
-    "title": "Global Product Manager Assistant LANCASTER J 75002",
-    "location": "Paris",
-    "url": "https://careers.coty.com/job/Paris-Global-Product-Manager-Assistant-LANCASTER-J-75002/1435640133/",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-10T13:58:08.032109+00:00"
-  },
-  {
-    "id": 8082692,
-    "company_display": "Shiseido",
-    "title": "Stage Product Manager Assistant Gallin\u00e9e HF Janvier 2027 J",
-    "location": "Neuilly-sur-Seine",
-    "url": "https://careers.shiseido.com/job/Neuilly-sur-Seine-Stage-Product-Manager-Assistant-Gallin%C3%A9e-HF-Janvier-2027-J/1434412633/",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-10T15:27:34.523821+00:00"
-  },
-  {
-    "id": 8089562,
-    "company_display": "L3Harris",
-    "title": "Program Management Intern",
-    "location": "Lynchburg, VA",
-    "url": "https://careers.l3harris.com/en/job/lynchburg/program-management-intern/4832/100436629280",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-10T15:53:33.730060+00:00"
-  },
-  {
-    "id": 8089583,
-    "company_display": "L3Harris",
-    "title": "Product Management Intern",
-    "location": "Lynchburg, VA",
-    "url": "https://careers.l3harris.com/en/job/lynchburg/product-management-intern/4832/100436622608",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-10T15:53:34.223889+00:00"
-  },
-  {
-    "id": 8089586,
-    "company_display": "L3Harris",
-    "title": "Program Management Intern",
-    "location": "Rochester, NY",
-    "url": "https://careers.l3harris.com/en/job/rochester/program-management-intern/4832/100436665264",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-10T15:53:34.318798+00:00"
-  },
-  {
-    "id": 8154024,
-    "company_display": "Ally Financial",
-    "title": "Summer 2027 Internship \u2013 Consumer Banking (Invest Product Management)",
-    "location": "Charlotte, NC",
-    "url": "https://ally.wd1.myworkdayjobs.com/en-US/Ally/job/Charlotte-NC/Summer-2027-Internship---Consumer-Banking--Invest-Product-Management-_R2600568",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-10T18:34:26.618845+00:00",
-    "date_discovered": "2026-09-10T18:34:42.948662+00:00"
-  },
-  {
-    "id": 8171750,
-    "company_display": "Hp",
-    "title": "PSS Life Cycle Marketing Intern",
-    "location": "Vancouver, Washington, USA",
-    "url": "https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Vancouver-Washington-United-States-of-America/PSS-Life-Cycle-Marketing-Intern_UNI4602-1",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-10T19:24:41.221441+00:00",
-    "date_discovered": "2026-09-10T19:27:36.336685+00:00"
-  },
-  {
-    "id": 8260165,
-    "company_display": "Boeing",
-    "title": "Program Management Intern- 12 Month Placement",
-    "location": "GBR - Frimley, UK",
-    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/GBR---Frimley-UK/Program-Management-Intern--12-Month-Placement_JR2026519446",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-10T23:22:11.093906+00:00",
-    "date_discovered": "2026-09-10T23:25:33.042708+00:00"
-  },
-  {
     "id": 8507225,
     "company_display": "Tenneco",
     "title": "Bilingual Program Manager Jr",
@@ -108,17 +20,6 @@
     "country": "us",
     "updated_at": null,
     "date_discovered": "2026-09-11T17:58:27.376607+00:00"
-  },
-  {
-    "id": 8550454,
-    "company_display": "Emerson",
-    "title": "Software Product Management Intern",
-    "location": "Austin, TX, USA",
-    "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010799",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-11T00:00:00+00:00",
-    "date_discovered": "2026-09-11T18:01:52.469670+00:00"
   },
   {
     "id": 8559865,
@@ -1331,17 +1232,6 @@
     "date_discovered": "2026-09-27T22:29:13.352018+00:00"
   },
   {
-    "id": 14831052,
-    "company_display": "Globusmedical",
-    "title": "Associate Product Manager",
-    "location": "Pennsylvania - Collegeville; Audubon, PA",
-    "url": "https://globusmedical.wd5.myworkdayjobs.com/en-US/GMED_Careers/job/Pennsylvania---Collegeville/Associate-Product-Manager_JR107618",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": "2026-09-10T22:17:21.735224+00:00",
-    "date_discovered": "2026-09-27T22:29:13.573049+00:00"
-  },
-  {
     "id": 14831215,
     "company_display": "Aveva",
     "title": "APM Services Intern - Brazil",
@@ -1804,17 +1694,6 @@
     "date_discovered": "2026-10-05T07:00:36.066442+00:00"
   },
   {
-    "id": 18389196,
-    "company_display": "Genentech",
-    "title": "Associate International Product Manager (Sequencing Sample Preparation)",
-    "location": "Cape Town",
-    "url": "https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Cape-Town/Associate-International-Product-Manager---Sequencing-Sample-Preparation-_202609-123292-1",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": "2026-10-05T09:07:25.103146+00:00",
-    "date_discovered": "2026-10-05T09:08:05.258569+00:00"
-  },
-  {
     "id": 18389262,
     "company_display": "Ntrs",
     "title": "Associate Product Manager",
@@ -1980,17 +1859,6 @@
     "date_discovered": "2026-10-08T17:41:39.617208+00:00"
   },
   {
-    "id": 18410895,
-    "company_display": "IBM",
-    "title": "Product Manager Intern 2027 - Lowell",
-    "location": "LOWELL, USA",
-    "url": "https://careers.ibm.com/careers/JobDetail?jobId=132983",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-10-08T17:41:39.701621+00:00"
-  },
-  {
     "id": 18412371,
     "company_display": "USAA",
     "title": "Product Management Advisor Intern",
@@ -2121,5 +1989,16 @@
     "country": "us",
     "updated_at": "2026-09-28T17:28:06+00:00",
     "date_discovered": "2026-10-10T20:12:31.738578+00:00"
+  },
+  {
+    "id": 18424671,
+    "company_display": "Lockheed Martin",
+    "title": "College Internship - Systems",
+    "location": "Sunnyvale, CA",
+    "url": "https://lockheedmartin.eightfold.ai/careers/job/996476472106",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-11T18:49:21.626754+00:00"
   }
 ]
