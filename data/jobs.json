@@ -1,82 +1,5 @@
 [
   {
-    "id": 8507225,
-    "company_display": "Tenneco",
-    "title": "Bilingual Program Manager Jr",
-    "location": "Puebla",
-    "url": "https://jobs.tenneco.com/job/Puebla-Bilingual-Program-Manager-Jr/1429037600/",
-    "skill_level": "entry",
-    "country": null,
-    "updated_at": null,
-    "date_discovered": "2026-09-11T15:58:47.259559+00:00"
-  },
-  {
-    "id": 8548128,
-    "company_display": "L3Harris",
-    "title": "Associate, Product Management",
-    "location": "Rochester, NY",
-    "url": "https://careers.l3harris.com/en/job/rochester/associate-product-management/4832/100492585712",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-11T17:58:27.376607+00:00"
-  },
-  {
-    "id": 8559865,
-    "company_display": "Bain & Company",
-    "title": "Product Management & Innovation (PM&I) Intern - (Summer 2027)",
-    "location": "New York, San Francisco",
-    "url": "https://careers.bain.com/jobs/FolderDetail/Product-Management-Innovation-PM-I-Intern-Summer-2027/109572",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-11T18:30:20.711546+00:00"
-  },
-  {
-    "id": 8564370,
-    "company_display": "Hpe",
-    "title": "Program Manager Intern",
-    "location": "Spring, Texas, USA",
-    "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Program-Manager-Intern_1213486",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-11T18:32:07.990457+00:00",
-    "date_discovered": "2026-09-11T18:34:15.803729+00:00"
-  },
-  {
-    "id": 8565636,
-    "company_display": "The Home Depot",
-    "title": "Associate Product Manager",
-    "location": "GLOBAL CUSTOM COMMERCE/BLINDS OFFICE, HOUSTON -",
-    "url": "https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/GLOBAL-CUSTOM-COMMERCEBLINDS-OFFICE-HOUSTON---2140/Associate-Product-Manager_Req193142",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": "2026-09-11T18:35:15.306731+00:00",
-    "date_discovered": "2026-09-11T18:36:16.069163+00:00"
-  },
-  {
-    "id": 8608057,
-    "company_display": "Microsoft",
-    "title": "Product Management Intern - CTJ - TS",
-    "location": "USA, Washington, Redmond",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-11T20:37:34.579032+00:00"
-  },
-  {
-    "id": 8608067,
-    "company_display": "Microsoft",
-    "title": "Technical Program Management Intern - CTJ - TS",
-    "location": "USA, Washington, Redmond",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556983238",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-11T20:37:34.762294+00:00"
-  },
-  {
     "id": 8774172,
     "company_display": "USAA",
     "title": "P&C Product Management Analyst Intern",
@@ -86,17 +9,6 @@
     "country": "us",
     "updated_at": "2026-09-12T04:39:44.255839+00:00",
     "date_discovered": "2026-09-12T04:39:57.054244+00:00"
-  },
-  {
-    "id": 8795305,
-    "company_display": "Entegris",
-    "title": "IT Program Management Co-Op",
-    "location": "Bedford, MA",
-    "url": "https://entegris.wd1.myworkdayjobs.com/en-US/EntegrisCareers/job/Bedford-MA/IT-Program-Management-Co-Op_REQ-14463",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-11T07:40:10.502443+00:00",
-    "date_discovered": "2026-09-12T07:40:52.620689+00:00"
   },
   {
     "id": 8800011,
@@ -1859,6 +1771,17 @@
     "date_discovered": "2026-10-08T17:41:39.617208+00:00"
   },
   {
+    "id": 18410895,
+    "company_display": "IBM",
+    "title": "Product Manager Intern 2027 - Lowell",
+    "location": "LOWELL, USA",
+    "url": "https://careers.ibm.com/careers/JobDetail?jobId=132983",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-08T17:41:39.701621+00:00"
+  },
+  {
     "id": 18412371,
     "company_display": "USAA",
     "title": "Product Management Advisor Intern",
@@ -2000,5 +1923,38 @@
     "country": "us",
     "updated_at": null,
     "date_discovered": "2026-10-11T18:49:21.626754+00:00"
+  },
+  {
+    "id": 18428232,
+    "company_display": "Relx",
+    "title": "Business Analyst I",
+    "location": "Remote - USA - Nationwide",
+    "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Remote---USA---Nationwide/Business-Analyst-I_R119507-1",
+    "skill_level": "entry",
+    "country": "remote",
+    "updated_at": "2026-10-12T15:42:04.692060+00:00",
+    "date_discovered": "2026-10-12T15:43:43.580116+00:00"
+  },
+  {
+    "id": 18429490,
+    "company_display": "Apple",
+    "title": "Manufacturing Design Program Manager - Intern",
+    "location": "China",
+    "url": "https://jobs.apple.com/en-us/details/200686080/manufacturing-design-program-manager-intern?team=OPMFG",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-12T19:10:49.779000+00:00",
+    "date_discovered": "2026-10-12T19:37:58.774304+00:00"
+  },
+  {
+    "id": 18429801,
+    "company_display": "Watts Water Technologies",
+    "title": "Product Management Co-op, Jan-June 2027",
+    "location": "Menomonee Falls, WI",
+    "url": "https://wattswater.wd5.myworkdayjobs.com/en-US/Intern-External/job/Menomonee-Falls-WI/Product-Management-Co-op--Jan-June-2027_10017702",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-12T20:20:23.879058+00:00",
+    "date_discovered": "2026-10-12T20:20:24.765391+00:00"
   }
 ]
