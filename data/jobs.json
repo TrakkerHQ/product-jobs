@@ -1,49 +1,5 @@
 [
   {
-    "id": 8774172,
-    "company_display": "USAA",
-    "title": "P&C Product Management Analyst Intern",
-    "location": "San Antonio Home Office I",
-    "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/P-C-Product-Management-Analyst-Intern_R0120949",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-12T04:39:44.255839+00:00",
-    "date_discovered": "2026-09-12T04:39:57.054244+00:00"
-  },
-  {
-    "id": 8800011,
-    "company_display": "L3Harris",
-    "title": "Intern, Program Management",
-    "location": "Waco, TX",
-    "url": "https://careers.l3harris.com/en/job/waco/intern-program-management/4832/100519027632",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-12T09:04:43.246663+00:00"
-  },
-  {
-    "id": 8800029,
-    "company_display": "L3Harris",
-    "title": "Intern, Program Management",
-    "location": "Northampton, MA",
-    "url": "https://careers.l3harris.com/en/job/northampton/intern-program-management/4832/100519027568",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-12T09:04:44.858423+00:00"
-  },
-  {
-    "id": 8896794,
-    "company_display": "TikTok",
-    "title": "Product Manager Project Intern (Business Integrity) - 2026 Start (MBA)",
-    "location": "San Jose, California",
-    "url": "https://lifeattiktok.com/search/7683651421602433333",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-12T21:08:17.414103+00:00"
-  },
-  {
     "id": 9143855,
     "company_display": "Hpe",
     "title": "PLM Program Manager Graduate",
@@ -1925,17 +1881,6 @@
     "date_discovered": "2026-10-11T18:49:21.626754+00:00"
   },
   {
-    "id": 18428232,
-    "company_display": "Relx",
-    "title": "Business Analyst I",
-    "location": "Remote - USA - Nationwide",
-    "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Remote---USA---Nationwide/Business-Analyst-I_R119507-1",
-    "skill_level": "entry",
-    "country": "remote",
-    "updated_at": "2026-10-12T15:42:04.692060+00:00",
-    "date_discovered": "2026-10-12T15:43:43.580116+00:00"
-  },
-  {
     "id": 18429490,
     "company_display": "Apple",
     "title": "Manufacturing Design Program Manager - Intern",
@@ -1956,5 +1901,38 @@
     "country": "us",
     "updated_at": "2026-10-12T20:20:23.879058+00:00",
     "date_discovered": "2026-10-12T20:20:24.765391+00:00"
+  },
+  {
+    "id": 18432519,
+    "company_display": "Resmed",
+    "title": "Graduate Product Manager",
+    "location": "Sydney, NSW, Australia",
+    "url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/Sydney-NSW-Australia/Graduate-Product-Manager_JR_054511-1",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-10-13T07:13:17.797162+00:00",
+    "date_discovered": "2026-10-13T07:13:19.274512+00:00"
+  },
+  {
+    "id": 18432894,
+    "company_display": "TikTok",
+    "title": "Listing Governance Program Manager Graduate (TikTok Shop - Governance & Experience) - 2027 Start",
+    "location": "Seattle, Washington",
+    "url": "https://lifeattiktok.com/search/7693569931690182965",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-13T10:05:10.851070+00:00"
+  },
+  {
+    "id": 18435553,
+    "company_display": "Prologis",
+    "title": "AI Product Management Intern",
+    "location": "Denver, Colorado",
+    "url": "https://prologis.wd5.myworkdayjobs.com/en-US/Prologis_External_Careers/job/Denver-Colorado/AI-Product-Management-Intern_R6840",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-13T18:20:54.527159+00:00",
+    "date_discovered": "2026-10-13T18:20:55.632010+00:00"
   }
 ]
