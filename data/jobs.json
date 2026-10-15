@@ -11,28 +11,6 @@
     "date_discovered": "2026-09-14T01:59:30.370973+00:00"
   },
   {
-    "id": 9216447,
-    "company_display": "American Express",
-    "title": "Campus - Internship Programme - Undergraduate Product Manager - 2027 (UK - Burgess Hill)",
-    "location": "BURGESS HILL, WEST SUSSEX, United Kingdom",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013764",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-14T00:00:00+00:00",
-    "date_discovered": "2026-09-14T11:05:56.473020+00:00"
-  },
-  {
-    "id": 9216448,
-    "company_display": "American Express",
-    "title": "Campus - Internship Programme - Undergraduate Product Manager - 2027 (UK - London)",
-    "location": "LONDON, United Kingdom",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013766",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-14T00:00:00+00:00",
-    "date_discovered": "2026-09-14T11:05:56.494071+00:00"
-  },
-  {
     "id": 9237511,
     "company_display": "Robinhood",
     "title": "Associate Product Manager (New Grad)",
@@ -152,28 +130,6 @@
     "country": "us",
     "updated_at": null,
     "date_discovered": "2026-09-14T18:40:15.486889+00:00"
-  },
-  {
-    "id": 9445384,
-    "company_display": "Oshkosh",
-    "title": "Product Management Intern",
-    "location": "Hagerstown, Maryland, USA",
-    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Hagerstown-Maryland-United-States/Product-Management-Intern_R49414/apply",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-14T00:00:00+00:00",
-    "date_discovered": "2026-09-14T20:23:44.962095+00:00"
-  },
-  {
-    "id": 9469995,
-    "company_display": "Lowe's",
-    "title": "Digital Product Management - Undergrad Internship - Summer 2027",
-    "location": "Charlotte, North Carolina, USA",
-    "url": "https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Digital-Product-Management---Undergrad-Internship---Summer-2027_JR-02645845/apply",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-14T00:00:00+00:00",
-    "date_discovered": "2026-09-14T21:20:37.368998+00:00"
   },
   {
     "id": 9595853,
@@ -1650,17 +1606,6 @@
     "date_discovered": "2026-10-06T09:14:09.642317+00:00"
   },
   {
-    "id": 18397509,
-    "company_display": "Sanofi",
-    "title": "internship 6 months digital product management",
-    "location": "Location:Paris, France",
-    "url": "https://jobs.sanofi.com/en/job/paris/internship-6-months-digital-product-management/2649/45625370816",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-10-06T17:10:04.892459+00:00"
-  },
-  {
     "id": 18400795,
     "company_display": "PwC",
     "title": "Risk Services - Program Management (AI Hub) Off-Cycle Internship (Jan - Jun 27)",
@@ -1934,5 +1879,60 @@
     "country": "us",
     "updated_at": "2026-10-13T18:20:54.527159+00:00",
     "date_discovered": "2026-10-13T18:20:55.632010+00:00"
+  },
+  {
+    "id": 18439067,
+    "company_display": "Analog Devices",
+    "title": "Associate PM, Project / Program Management (Admin)",
+    "location": "Philippines, Cavite, GTC",
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Philippines-Cavite-GTC/Associate-PM--Project---Program-Management--Admin-_R266513",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-10-14T07:10:04.447212+00:00",
+    "date_discovered": "2026-10-14T07:10:34.393675+00:00"
+  },
+  {
+    "id": 18439201,
+    "company_display": "PwC",
+    "title": "ETIC - Portfolio & Program Management (PPM) \u2013 Agile Practitioner - Graduate Program ( German Speakers)",
+    "location": "Cairo - ETIC",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Cairo---ETIC/ETIC---Portfolio---Program-Management--PPM----Agile-Practitioner---Graduate-Program---German-Speakers-_767454WD",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-10-14T08:07:24.696064+00:00",
+    "date_discovered": "2026-10-14T08:08:40.364850+00:00"
+  },
+  {
+    "id": 18439787,
+    "company_display": "BNY Mellon",
+    "title": "2027 BNY Summer Internship Program - Product Management (Manchester)",
+    "location": "Greater Manchester, United Kingdom",
+    "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/83098",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-14T00:00:00+00:00",
+    "date_discovered": "2026-10-14T11:40:29.214966+00:00"
+  },
+  {
+    "id": 18441278,
+    "company_display": "Hpe",
+    "title": "Storage NPI Program Management Intern",
+    "location": "Heredia, Costa Rica",
+    "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Heredia-Heredia-Costa-Rica/Storage-NPI-Program-Management-Intern_1210990",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-14T16:07:12.766800+00:00",
+    "date_discovered": "2026-10-14T16:13:33.705829+00:00"
+  },
+  {
+    "id": 18441324,
+    "company_display": "Globalfoundries",
+    "title": "GF Labs Research Program Management Intern (Summer 2027)",
+    "location": "USA - New York - Malta",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/GF-Labs-Research-Program-Management-Intern--Summer-2027-_JR-2604430",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-14T16:16:43.651389+00:00",
+    "date_discovered": "2026-10-14T16:16:50.787062+00:00"
   }
 ]
