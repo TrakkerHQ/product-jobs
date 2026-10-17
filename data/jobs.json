@@ -1,115 +1,5 @@
 [
   {
-    "id": 9595853,
-    "company_display": "AppLovin",
-    "title": "Product Management Intern (2027 Summer Internship)",
-    "location": "Singapore",
-    "url": "https://boards.greenhouse.io/applovin/jobs/4713039006?gh_jid=4713039006",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-15T02:25:13+00:00",
-    "date_discovered": "2026-09-15T02:30:59.523183+00:00"
-  },
-  {
-    "id": 9632782,
-    "company_display": "Boston-Scientific",
-    "title": "IT Analyst Intern- Minnesota",
-    "location": "United States | N/A",
-    "url": "https://bostonscientific.eightfold.ai/careers/job/563602813563384",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-15T05:11:23.481684+00:00"
-  },
-  {
-    "id": 9632785,
-    "company_display": "Boston-Scientific",
-    "title": "IT Analyst Intern- Massachusetts",
-    "location": "United States | N/A",
-    "url": "https://bostonscientific.eightfold.ai/careers/job/563602813553904",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-15T05:11:23.664320+00:00"
-  },
-  {
-    "id": 9661989,
-    "company_display": "Disney",
-    "title": "Associate Product Manager Program",
-    "location": "Greater LA, CA area",
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Associate-Product-Manager-Program_10160554",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": "2026-09-15T11:02:12.684609+00:00",
-    "date_discovered": "2026-09-15T11:03:09.770563+00:00"
-  },
-  {
-    "id": 9665016,
-    "company_display": "Google",
-    "title": "Associate Product Manager, University Graduate, 2027 Start",
-    "location": "Mountain View, CA, USA; New York, NY, USA",
-    "url": "https://careers.google.com/jobs/results/107272685397910214-associate-product-manager/",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-15T11:09:27.333729+00:00"
-  },
-  {
-    "id": 9770724,
-    "company_display": "Magna",
-    "title": "Program Management Internship",
-    "location": "Highland Park, Michigan, USA",
-    "url": "https://magna.wd3.myworkdayjobs.com/en-US/Magna/job/Highland-Park-Michigan-US/Program-Management-Internship_R00261699",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-15T15:15:43.733647+00:00",
-    "date_discovered": "2026-09-15T15:17:41.164292+00:00"
-  },
-  {
-    "id": 9785901,
-    "company_display": "Duolingo",
-    "title": "Associate Product Manager, Intern",
-    "location": "Pittsburgh, PA",
-    "url": "https://careers.duolingo.com/jobs/8806187002?gh_jid=8806187002",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-15T16:00:00+00:00",
-    "date_discovered": "2026-09-15T16:05:15.772290+00:00"
-  },
-  {
-    "id": 9840150,
-    "company_display": "Anduril",
-    "title": "Winter 2027 Technical Program Management Co-op",
-    "location": "Washington, District of Columbia, USA",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236571007?gh_jid=5236571007",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-15T17:44:42+00:00",
-    "date_discovered": "2026-09-15T18:08:43.389211+00:00"
-  },
-  {
-    "id": 10215684,
-    "company_display": "BNY Mellon",
-    "title": "2027 BNY Analyst Program \u2013 Product Management",
-    "location": "New York, NY, USA",
-    "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/80895",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-16T00:00:00+00:00",
-    "date_discovered": "2026-09-16T14:11:52.713683+00:00"
-  },
-  {
-    "id": 10215708,
-    "company_display": "BNY Mellon",
-    "title": "2027 BNY Analyst Program \u2013 Product Management (London)",
-    "location": "London, United Kingdom",
-    "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/82224",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": "2026-09-16T00:00:00+00:00",
-    "date_discovered": "2026-09-16T14:11:53.411013+00:00"
-  },
-  {
     "id": 10235496,
     "company_display": "Garmin",
     "title": "Business Analyst Intern",
@@ -803,17 +693,6 @@
     "date_discovered": "2026-09-26T06:13:50.729723+00:00"
   },
   {
-    "id": 14459684,
-    "company_display": "Lego",
-    "title": "Digital Technology Student Workers - Technical Program Management",
-    "location": "Billund",
-    "url": "https://lego.wd103.myworkdayjobs.com/en-US/LEGO_External/job/Billund/Digital-Technology-Student-Workers---Technical-Program-Management_0000038323-1",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-15T06:12:16.223056+00:00",
-    "date_discovered": "2026-09-26T06:15:45.767320+00:00"
-  },
-  {
     "id": 14703969,
     "company_display": "Mastercard",
     "title": "Intern, Product Management, Cairo - Egypt",
@@ -900,17 +779,6 @@
     "country": "international",
     "updated_at": "2026-09-24T22:17:46.499981+00:00",
     "date_discovered": "2026-09-27T22:29:14.143026+00:00"
-  },
-  {
-    "id": 14831374,
-    "company_display": "Stanley-Black-Decker",
-    "title": "Associate Product Manager (Combo Kits - CRAFTSMAN)",
-    "location": "Towson, MD, USA",
-    "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Associate-Product-Manager--Combo-Kits---CRAFTSMAN-_REQ-1000052282",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": "2026-09-15T22:18:04.684917+00:00",
-    "date_discovered": "2026-09-27T22:29:14.702652+00:00"
   },
   {
     "id": 14833791,
@@ -1353,17 +1221,6 @@
     "date_discovered": "2026-10-05T07:00:36.066442+00:00"
   },
   {
-    "id": 18389262,
-    "company_display": "Ntrs",
-    "title": "Associate Product Manager",
-    "location": "Pune, India",
-    "url": "https://ntrs.wd1.myworkdayjobs.com/en-US/northerntrust/job/Pune-India/Associate-Product-Manager_R156785-2",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": "2026-10-05T09:11:02.251477+00:00",
-    "date_discovered": "2026-10-05T09:11:21.551628+00:00"
-  },
-  {
     "id": 18389472,
     "company_display": "Mastercard",
     "title": "Product Management Intern, Summer 2027 \u2013 Dubai, UAE (UAE Nationals Preferred)",
@@ -1507,15 +1364,15 @@
     "date_discovered": "2026-10-08T17:41:39.617208+00:00"
   },
   {
-    "id": 18412371,
-    "company_display": "USAA",
-    "title": "Product Management Advisor Intern",
-    "location": "San Antonio Home Office I",
-    "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Product-Management-Advisor-Intern_R0121653",
+    "id": 18410895,
+    "company_display": "IBM",
+    "title": "Product Manager Intern 2027 - Lowell",
+    "location": "LOWELL, USA",
+    "url": "https://careers.ibm.com/careers/JobDetail?jobId=132983",
     "skill_level": "intern",
     "country": "us",
-    "updated_at": "2026-10-08T21:48:46.464048+00:00",
-    "date_discovered": "2026-10-08T21:48:47.048821+00:00"
+    "updated_at": null,
+    "date_discovered": "2026-10-08T17:41:39.701621+00:00"
   },
   {
     "id": 18414714,
@@ -1802,5 +1659,38 @@
     "country": "us",
     "updated_at": "2026-10-15T17:16:44.713710+00:00",
     "date_discovered": "2026-10-15T17:16:45.874356+00:00"
+  },
+  {
+    "id": 18452435,
+    "company_display": "Amazon",
+    "title": "Program Manager Intern",
+    "location": "SGP",
+    "url": "https://www.amazon.jobs/en/jobs/10563245/program-manager-intern",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-10-16T11:14:16.842597+00:00"
+  },
+  {
+    "id": 18454730,
+    "company_display": "Salesforce",
+    "title": "AI Labs Rotational Fellowship, Emerging Talent",
+    "location": "California - San Francisco; Washington - Seattle; New York - New York",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR363678-1",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-10-16T18:43:19.013414+00:00",
+    "date_discovered": "2026-10-16T18:43:46.604250+00:00"
+  },
+  {
+    "id": 18455031,
+    "company_display": "Rivian",
+    "title": "Engineering Intern - Technical Program Management (Spring 2027 Co-op)",
+    "location": "Palo Alto, California",
+    "url": "https://us-careers-rivian.icims.com/jobs/34505/login",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-16T19:29:00+00:00",
+    "date_discovered": "2026-10-16T19:41:44.634081+00:00"
   }
 ]
