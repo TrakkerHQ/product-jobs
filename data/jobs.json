@@ -1,82 +1,5 @@
 [
   {
-    "id": 11107869,
-    "company_display": "TikTok",
-    "title": "AI Product Manager Intern (TikTok Live-Revenue) - 2027 Start",
-    "location": "Sydney, New South Wales",
-    "url": "https://lifeattiktok.com/search/7682640737092258053",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-18T11:44:07.566110+00:00"
-  },
-  {
-    "id": 11178560,
-    "company_display": "Dana",
-    "title": "Program Management Intern",
-    "location": "Novi, MI",
-    "url": "https://jobs.dana.com/job/Novi-Program-Management-Intern-MI-48377/1419816600/",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-18T14:18:02.768136+00:00"
-  },
-  {
-    "id": 11212754,
-    "company_display": "Guardian Life",
-    "title": "2027 Guardian Summer Intern, Group Benefits Product Management",
-    "location": "Boston",
-    "url": "https://guardianlife.wd5.myworkdayjobs.com/en-US/Guardian-Life-Careers/job/Boston/XMLNAME-2027-Guardian-Summer-Intern--Group-Benefits-Product-Management_R000110299",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-18T15:41:43.116637+00:00",
-    "date_discovered": "2026-09-18T15:43:17.846620+00:00"
-  },
-  {
-    "id": 11295255,
-    "company_display": "Qualcomm",
-    "title": "Product Management Internship - Summer 2027",
-    "location": "San Diego, California, USA",
-    "url": "https://careers.qualcomm.com/careers/job/446720741706",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-18T18:45:25.586014+00:00"
-  },
-  {
-    "id": 11339929,
-    "company_display": "Gemini",
-    "title": "Product Management Intern (Winter 2027)",
-    "location": "New York",
-    "url": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=8214332&gh_jid=8214332",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-18T20:13:13+00:00",
-    "date_discovered": "2026-09-18T20:35:30.194822+00:00"
-  },
-  {
-    "id": 11422898,
-    "company_display": "Johnson & Johnson",
-    "title": "Product Management Co-Op",
-    "location": "Danvers, Massachusetts, USA",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/jj/job/Danvers-Massachusetts-United-States-of-America/Product-Management-Co-Op_R-096757",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-18T23:37:23.733622+00:00",
-    "date_discovered": "2026-09-18T23:38:23.345145+00:00"
-  },
-  {
-    "id": 11437601,
-    "company_display": "USAA",
-    "title": "Operations \u2013 Digital/Technical Product Manager Intern",
-    "location": "San Antonio Home Office I",
-    "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Operations---Digital-Technical-Product-Manager-Intern_R0121101",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-19T00:09:55.483829+00:00",
-    "date_discovered": "2026-09-19T00:10:21.332997+00:00"
-  },
-  {
     "id": 11681958,
     "company_display": "Apple",
     "title": "Engineering Project Manager Intern - Shanghai or Shenzhen",
@@ -372,17 +295,6 @@
     "country": "international",
     "updated_at": "2026-09-22T15:19:12.365621+00:00",
     "date_discovered": "2026-09-23T15:40:34.598071+00:00"
-  },
-  {
-    "id": 13127537,
-    "company_display": "Amazon",
-    "title": "Learning Program Manager Intern, AUTA",
-    "location": "Mexico City, MEX",
-    "url": "https://www.amazon.jobs/en/jobs/10553812/learning-program-manager-intern-auta",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-18T15:19:13.384873+00:00",
-    "date_discovered": "2026-09-23T15:40:34.636275+00:00"
   },
   {
     "id": 13127539,
@@ -1582,5 +1494,104 @@
     "country": "us",
     "updated_at": "2026-10-16T19:29:00+00:00",
     "date_discovered": "2026-10-16T19:41:44.634081+00:00"
+  },
+  {
+    "id": 18463098,
+    "company_display": "Sanofi",
+    "title": "PM Intern",
+    "location": "Location:Hangzhou, China",
+    "url": "https://jobs.sanofi.com/en/job/hangzhou/pm-intern/2649/46117792512",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-10-19T11:05:17.726092+00:00"
+  },
+  {
+    "id": 18464817,
+    "company_display": "Genmab",
+    "title": "Program Management Intern",
+    "location": "Princeton, New Jersey, USA",
+    "url": "https://genmab.wd3.myworkdayjobs.com/Genmab_Careers_Site/job/Princeton-NJ/Program-Management-Intern_R18172/apply",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-19T00:00:00+00:00",
+    "date_discovered": "2026-10-19T16:18:05.864212+00:00"
+  },
+  {
+    "id": 18465889,
+    "company_display": "PACCAR",
+    "title": "Summer 2027 - Program Management Intern",
+    "location": "Kirkland, WA",
+    "url": "https://jobs.paccar.com/job/Kirkland-Summer-2027-Program-Management-Intern-WA-98033/1449176233/",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-19T19:43:01.232577+00:00"
+  },
+  {
+    "id": 18466221,
+    "company_display": "L3Harris",
+    "title": "Intern, Program Management",
+    "location": "Salt Lake City, UT",
+    "url": "https://careers.l3harris.com/en/job/salt-lake-city/intern-program-management/4832/102173097504",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-19T20:40:37.698374+00:00"
+  },
+  {
+    "id": 18466223,
+    "company_display": "L3Harris",
+    "title": "Program Management Co-op (Waterdown, Ontario) 1",
+    "location": "Waterdown, Ontario",
+    "url": "https://careers.l3harris.com/en/job/waterdown/program-management-co-op-waterdown-ontario-1/4832/102173096992",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-10-19T20:40:37.737073+00:00"
+  },
+  {
+    "id": 18466378,
+    "company_display": "Anduril",
+    "title": "2027 Technical Program Manager Intern",
+    "location": "Costa Mesa, California, United States; Honolulu, Hawaii, United States; Reston, Virginia, United States; Seattle, Washington, United States; Washington, District of Columbia, USA",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5268864007?gh_jid=5268864007",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-19T21:02:32+00:00",
+    "date_discovered": "2026-10-19T21:07:10.750069+00:00"
+  },
+  {
+    "id": 18466379,
+    "company_display": "Apple",
+    "title": "Engineering Program Manager Intern - Shanghai",
+    "location": "China",
+    "url": "https://jobs.apple.com/en-us/details/200690039/engineering-program-manager-intern-shanghai?team=STDNT",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-19T20:46:40.638000+00:00",
+    "date_discovered": "2026-10-19T21:07:21.927973+00:00"
+  },
+  {
+    "id": 18466539,
+    "company_display": "Anduril",
+    "title": "2027 Early Career Technical Program Manager",
+    "location": "Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, USA",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5268883007?gh_jid=5268883007",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-10-19T21:21:37+00:00",
+    "date_discovered": "2026-10-19T21:37:04.886198+00:00"
+  },
+  {
+    "id": 18466875,
+    "company_display": "DocuSign",
+    "title": "Program Management Intern",
+    "location": "Seattle, Washington",
+    "url": "https://careers.docusign.com/jobs/30469?lang=en-us",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-19T16:00:00+00:00",
+    "date_discovered": "2026-10-19T22:45:53.707280+00:00"
   }
 ]
