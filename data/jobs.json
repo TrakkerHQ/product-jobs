@@ -1,16 +1,5 @@
 [
   {
-    "id": 11681958,
-    "company_display": "Apple",
-    "title": "Engineering Project Manager Intern - Shanghai or Shenzhen",
-    "location": "China",
-    "url": "https://jobs.apple.com/en-us/details/200681391/engineering-project-manager-intern-shanghai-or-shenzhen?team=STDNT",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-19T20:19:01.603000+00:00",
-    "date_discovered": "2026-09-19T22:41:53.071015+00:00"
-  },
-  {
     "id": 11998766,
     "company_display": "EA",
     "title": "Product Management Intern",
@@ -1221,17 +1210,6 @@
     "date_discovered": "2026-10-09T14:05:37.380846+00:00"
   },
   {
-    "id": 18417266,
-    "company_display": "IBM",
-    "title": "Product Management Intern 2027",
-    "location": "Yorktown Heights, USA",
-    "url": "https://careers.ibm.com/careers/JobDetail?jobId=136426",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-10-09T17:41:54.274030+00:00"
-  },
-  {
     "id": 18418281,
     "company_display": "Delta Air Lines",
     "title": "Co-op, Operations Customer Center (OCC) Product Management (Spring 2027)",
@@ -1430,17 +1408,6 @@
     "date_discovered": "2026-10-15T13:12:59.051078+00:00"
   },
   {
-    "id": 18447170,
-    "company_display": "Northrop Grumman",
-    "title": "2027 Program Management Intern - Rocket Center WV",
-    "location": "United States-West Virginia-Rocket Center",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-West-Virginia-Rocket-Center/XMLNAME-2027-Program-Management-Intern---Rocket-Center-WV_R10256207-1",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-15T14:08:39.432747+00:00",
-    "date_discovered": "2026-10-15T14:11:37.292179+00:00"
-  },
-  {
     "id": 18447679,
     "company_display": "Dover",
     "title": "Product Management Intern, Aftermarket Parts",
@@ -1505,17 +1472,6 @@
     "country": "international",
     "updated_at": null,
     "date_discovered": "2026-10-19T11:05:17.726092+00:00"
-  },
-  {
-    "id": 18464817,
-    "company_display": "Genmab",
-    "title": "Program Management Intern",
-    "location": "Princeton, New Jersey, USA",
-    "url": "https://genmab.wd3.myworkdayjobs.com/Genmab_Careers_Site/job/Princeton-NJ/Program-Management-Intern_R18172/apply",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-19T00:00:00+00:00",
-    "date_discovered": "2026-10-19T16:18:05.864212+00:00"
   },
   {
     "id": 18465889,
@@ -1593,5 +1549,71 @@
     "country": "us",
     "updated_at": "2026-10-19T16:00:00+00:00",
     "date_discovered": "2026-10-19T22:45:53.707280+00:00"
+  },
+  {
+    "id": 18467751,
+    "company_display": "Microsoft",
+    "title": "Business Program Management INTERN",
+    "location": "USA, Washington, Redmond",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556999329",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-20T01:47:20.401691+00:00"
+  },
+  {
+    "id": 18468340,
+    "company_display": "TikTok",
+    "title": "Product Manager Graduate (TikTok LIVE - Platform Trust And Ecosystem) - 2027 Start",
+    "location": "Singapore",
+    "url": "https://lifeattiktok.com/search/7698596156860139829",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-10-20T05:04:55.667218+00:00"
+  },
+  {
+    "id": 18470196,
+    "company_display": "Honeywell",
+    "title": "Intern Bachelors - Engineering Program Management",
+    "location": "Amsterdam, Noord-Holland, Netherlands",
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/160331",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-20T00:00:00+00:00",
+    "date_discovered": "2026-10-20T14:10:15.768638+00:00"
+  },
+  {
+    "id": 18470530,
+    "company_display": "Zebra",
+    "title": "2027 Summer Internship (US) - Supplies & Sensors Product Manager",
+    "location": "Lincolnshire, Illinois",
+    "url": "https://zebra.wd501.myworkdayjobs.com/en-US/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Supplies---Sensors-Product-Manager_JR103640",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-20T14:49:26.652581+00:00",
+    "date_discovered": "2026-10-20T14:49:27.709848+00:00"
+  },
+  {
+    "id": 18472431,
+    "company_display": "IBM",
+    "title": "Entry Level Storage Product Manager - 2027 - Tucson AZ",
+    "location": "TUCSON, USA",
+    "url": "https://careers.ibm.com/careers/JobDetail?jobId=137664",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-20T21:11:41.546224+00:00"
+  },
+  {
+    "id": 18472978,
+    "company_display": "Aptiv",
+    "title": "Product Analyst Intern",
+    "location": "USA San Diego, CA - WR",
+    "url": "https://aptiv.wd5.myworkdayjobs.com/en-US/APTIV_CAREERS/job/USA-San-Diego-CA---WR/Product-Analyst-Intern_J000704400",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-20T22:47:25.794621+00:00",
+    "date_discovered": "2026-10-20T22:47:27.042409+00:00"
   }
 ]
