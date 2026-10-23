@@ -1,49 +1,5 @@
 [
   {
-    "id": 11998766,
-    "company_display": "EA",
-    "title": "Product Management Intern",
-    "location": "Hyderabad, India \u2022 Role ID 216129 \u2022 Intern - Temporary Employee \u2022 EA Mobile - Slingshot Games (India)",
-    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Product-Management-Intern/216129",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-21T11:09:39.077300+00:00"
-  },
-  {
-    "id": 12090523,
-    "company_display": "GE Vernova",
-    "title": "Lean and Process Optimization Program Management internship \u2013 2027",
-    "location": "Longmont",
-    "url": "https://gevernova.wd5.myworkdayjobs.com/en-US/Vernova_ExternalSite/job/Longmont/Lean-and-Process-Optimization-Program-Management-internship---2027_R5051990-2",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-21T14:41:14.879821+00:00",
-    "date_discovered": "2026-09-21T14:43:14.854283+00:00"
-  },
-  {
-    "id": 12240690,
-    "company_display": "SAP",
-    "title": "SAP iXp Intern - AI Technical Program Manager, AI & Machine Learning",
-    "location": "Palo Alto, CA",
-    "url": "https://jobs.sap.com/job/Palo-Alto-SAP-iXp-Intern-AI-Technical-Program-Manager%2C-AI-&-Machine-Learning-CA-94304/1439806333/",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-21T20:18:14.550990+00:00"
-  },
-  {
-    "id": 12251436,
-    "company_display": "Applied Materials",
-    "title": "Technical Program Managment New College Grad- Master's/PhD (Santa Clara, CA)",
-    "location": "Santa Clara, CA",
-    "url": "https://careers.appliedmaterials.com/careers/job/790318362457",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-21T20:45:59.507696+00:00"
-  },
-  {
     "id": 12356344,
     "company_display": "ByteDance",
     "title": "Product Management Project Intern (Global Payment) - 2027 Start",
@@ -174,17 +130,6 @@
     "country": "us",
     "updated_at": null,
     "date_discovered": "2026-09-22T16:53:23.456933+00:00"
-  },
-  {
-    "id": 12700438,
-    "company_display": "Danaher",
-    "title": "Product Management & Marketing Intern (Summer 2027 Intern)",
-    "location": "Logan, Utah, USA",
-    "url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Logan-Utah-United-States/Product-Management---Marketing-Intern--Summer-2027-Intern-_R1317692/apply",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-22T00:00:00+00:00",
-    "date_discovered": "2026-09-22T18:56:43.720039+00:00"
   },
   {
     "id": 12760333,
@@ -1584,6 +1529,17 @@
     "date_discovered": "2026-10-20T14:49:27.709848+00:00"
   },
   {
+    "id": 18472431,
+    "company_display": "IBM",
+    "title": "Entry Level Storage Product Manager - 2027 - Tucson AZ",
+    "location": "TUCSON, USA",
+    "url": "https://careers.ibm.com/careers/JobDetail?jobId=137664",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-20T21:11:41.546224+00:00"
+  },
+  {
     "id": 18472978,
     "company_display": "Aptiv",
     "title": "Product Analyst Intern",
@@ -1626,5 +1582,126 @@
     "country": "us",
     "updated_at": null,
     "date_discovered": "2026-10-21T22:11:26.241132+00:00"
+  },
+  {
+    "id": 18481449,
+    "company_display": "TikTok",
+    "title": "Product & Process Solutions Program Manager Graduate (Account, Interaction, Search Safety) - 2027 Start",
+    "location": "Singapore",
+    "url": "https://lifeattiktok.com/search/7699400712321648901",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-10-22T09:04:53.673962+00:00"
+  },
+  {
+    "id": 18482232,
+    "company_display": "Amazon",
+    "title": "Technical Program Manager Intern 2027",
+    "location": "Madrid, Community of Madrid, ESP",
+    "url": "https://www.amazon.jobs/en/jobs/10537736/technical-program-manager-intern-2027",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-10-22T12:18:55.132852+00:00"
+  },
+  {
+    "id": 18482233,
+    "company_display": "Amazon",
+    "title": "Technical Program Manager Intern 2027",
+    "location": "Luxembourg, LUX",
+    "url": "https://www.amazon.jobs/en/jobs/10530151/technical-program-manager-intern-2027",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-10-22T12:18:55.156836+00:00"
+  },
+  {
+    "id": 18482672,
+    "company_display": "Microsoft",
+    "title": "Product Management Internship Opportunities",
+    "location": "Israel, Tel Aviv, Herzliya",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557043459",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-10-22T13:47:33.597460+00:00"
+  },
+  {
+    "id": 18482675,
+    "company_display": "Microsoft",
+    "title": "Product Management Intern",
+    "location": "United Kingdom, London",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557040083",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-10-22T13:47:33.829184+00:00"
+  },
+  {
+    "id": 18482991,
+    "company_display": "Ge",
+    "title": "Program Management Intern",
+    "location": "Rivalta di Torino",
+    "url": "https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Rivalta-di-Torino/Program-Management-Intern_R5042066-1",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-22T14:48:14.031771+00:00",
+    "date_discovered": "2026-10-22T14:48:17.679006+00:00"
+  },
+  {
+    "id": 18483032,
+    "company_display": "Amazon",
+    "title": "Product Manager Intern - Poland",
+    "location": "Warsaw, Woj. Mazowieckie, POL",
+    "url": "https://www.amazon.jobs/en/jobs/10586354/product-manager-intern-poland",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-10-22T14:49:57.587493+00:00"
+  },
+  {
+    "id": 18483438,
+    "company_display": "Walmart",
+    "title": "Summer 2027 Intern: Automation - Product Manager - Corporate Intern",
+    "location": "(USA) TX LANCASTER 07382 ECOMM FULFILLMENT SERVICES",
+    "url": "https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-TX-LANCASTER-07382-ECOMM-FULFILLMENT-SERVICES/Summer-2027-Intern--Automation---Product-Manager---Corporate-Intern_R-2649739",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-22T16:12:23.389782+00:00",
+    "date_discovered": "2026-10-22T16:12:40.036604+00:00"
+  },
+  {
+    "id": 18484315,
+    "company_display": "Stanley-Black-Decker",
+    "title": "PMO Engineering Intern \u2013 Summer 2027",
+    "location": "Towson, MD, USA",
+    "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/PMO-Engineering-Intern---Summer-2027_REQ-1000052705",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-22T18:47:31.982879+00:00",
+    "date_discovered": "2026-10-22T18:47:38.409022+00:00"
+  },
+  {
+    "id": 18484679,
+    "company_display": "Patreon",
+    "title": "Product Manager Intern - Summer 2027",
+    "location": "New York",
+    "url": "https://jobs.ashbyhq.com/patreon/ace576d6-f480-43b8-a529-549fefb2046d",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-22T20:02:15.516000+00:00",
+    "date_discovered": "2026-10-22T20:05:47.712355+00:00"
+  },
+  {
+    "id": 18484852,
+    "company_display": "IBM",
+    "title": "Product Manager Spring Co-op 2027",
+    "location": "POUGHKEEPSIE, USA",
+    "url": "https://careers.ibm.com/careers/JobDetail?jobId=137945",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-22T20:38:01.233908+00:00"
   }
 ]
