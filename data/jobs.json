@@ -1,148 +1,5 @@
 [
   {
-    "id": 12356344,
-    "company_display": "ByteDance",
-    "title": "Product Management Project Intern (Global Payment) - 2027 Start",
-    "location": "San Jose, California",
-    "url": "https://joinbytedance.com/search/7686394581777631541",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-22T00:44:20.571489+00:00"
-  },
-  {
-    "id": 12417504,
-    "company_display": "Cisco",
-    "title": "Engineering Product Management Specialist I (Intern) \u2013 United States",
-    "location": "USA",
-    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Engineering-Product-Management-Specialist-I--Intern----United-States_2026308",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-22T03:00:26.296016+00:00",
-    "date_discovered": "2026-09-22T03:02:00.378465+00:00"
-  },
-  {
-    "id": 12471308,
-    "company_display": "Autodesk",
-    "title": "Intern, Product Manager [PSET-Access-PM]",
-    "location": "Singapore, SGP",
-    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Singapore-SGP/Intern--Product-Manager--PSET-Access-PM-_26WD100993-1",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-22T07:01:17.543861+00:00",
-    "date_discovered": "2026-09-22T07:02:21.834499+00:00"
-  },
-  {
-    "id": 12553481,
-    "company_display": "Google",
-    "title": "Associate Product Manager Intern, Summer 2027",
-    "location": "Mountain View, CA, USA; New York, NY, USA",
-    "url": "https://careers.google.com/jobs/results/134770032394543814-associate-product-manager-intern/",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-22T13:43:11.506686+00:00"
-  },
-  {
-    "id": 12640140,
-    "company_display": "TikTok",
-    "title": "Strategy Product Manager Project Intern (TikTok-Platform Responsibility) - 2026 Start",
-    "location": "San Jose, California",
-    "url": "https://lifeattiktok.com/search/7649673091993454853",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-22T16:53:07.664987+00:00"
-  },
-  {
-    "id": 12640189,
-    "company_display": "TikTok",
-    "title": "AI Product Manager Project Intern (TikTok LIVE-Ecosystem Governance) - 2026 Start (BS/MS)",
-    "location": "San Jose, California",
-    "url": "https://lifeattiktok.com/search/7598849238706735365",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-22T16:53:08.732846+00:00"
-  },
-  {
-    "id": 12640236,
-    "company_display": "TikTok",
-    "title": "Product Project Intern (TikTok-Platform Responsibility-LIVE) - 2026 Start (BS/MS)",
-    "location": "Singapore",
-    "url": "https://lifeattiktok.com/search/7649639728908814597",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-22T16:53:11.853956+00:00"
-  },
-  {
-    "id": 12640243,
-    "company_display": "TikTok",
-    "title": "Product Manager Project Intern (TikTok Live-Ecosystem Governance) - 2026 Start",
-    "location": "Singapore",
-    "url": "https://lifeattiktok.com/search/7637408114380572981",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-22T16:53:12.201290+00:00"
-  },
-  {
-    "id": 12640271,
-    "company_display": "TikTok",
-    "title": "Business Program Manager Project Intern (GBS SMB) - 2026 Start (BS/MS)",
-    "location": "New York",
-    "url": "https://lifeattiktok.com/search/7600206976598968581",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-22T16:53:14.237957+00:00"
-  },
-  {
-    "id": 12640310,
-    "company_display": "TikTok",
-    "title": "Business Program Manager Project Intern (GBS SMB) - 2026 Start (BS/MS)",
-    "location": "Austin, Texas",
-    "url": "https://lifeattiktok.com/search/7600207384746068277",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-22T16:53:16.349510+00:00"
-  },
-  {
-    "id": 12640444,
-    "company_display": "TikTok",
-    "title": "Product Management Project Intern (TikTok Shop- Operations) - 2026 Start (BS/MS)",
-    "location": "Seattle, Washington",
-    "url": "https://lifeattiktok.com/search/7583141608302987525",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-22T16:53:22.274737+00:00"
-  },
-  {
-    "id": 12640470,
-    "company_display": "TikTok",
-    "title": "Product Management Project Intern (TikTok Shop- Operations) - 2026 Start (BS/MS)",
-    "location": "Los Angeles, California",
-    "url": "https://lifeattiktok.com/search/7584522934515714357",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-22T16:53:23.456933+00:00"
-  },
-  {
-    "id": 12760333,
-    "company_display": "Mastercard",
-    "title": "Product Management Intern, Summer 2027 - St. Louis, MO (US)",
-    "location": "O'Fallon, Missouri",
-    "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/OFallon-Missouri/Product-Management-Intern--Summer-2027---St-Louis--MO--US-_R-287625-1",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-22T21:11:30.692854+00:00",
-    "date_discovered": "2026-09-22T21:16:47.524072+00:00"
-  },
-  {
     "id": 13003316,
     "company_display": "Applied Materials",
     "title": "Technical Project/Program Management-LSP-Shanghai-Y2027 Graduate",
@@ -185,17 +42,6 @@
     "country": "us",
     "updated_at": "2026-09-23T14:05:38.916572+00:00",
     "date_discovered": "2026-09-23T14:07:58.273002+00:00"
-  },
-  {
-    "id": 13127526,
-    "company_display": "Amazon",
-    "title": "Program Manager Intern, AWS Cloud Logistics",
-    "location": "SGP",
-    "url": "https://www.amazon.jobs/en/jobs/10555844/program-manager-intern-aws-cloud-logistics",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-22T15:19:12.365621+00:00",
-    "date_discovered": "2026-09-23T15:40:34.598071+00:00"
   },
   {
     "id": 13127539,
@@ -1703,5 +1549,93 @@
     "country": "us",
     "updated_at": null,
     "date_discovered": "2026-10-22T20:38:01.233908+00:00"
+  },
+  {
+    "id": 18487640,
+    "company_display": "Visa",
+    "title": "Associate Product Manager (APM) Rotational Graduate Programme",
+    "location": "GB - London, United Kingdom",
+    "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa_Early_Careers/job/GB---London-United-Kingdom/Associate-Product-Manager--APM--Rotational-Graduate-Programme_REF089323W-1",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-10-23T09:12:21.771165+00:00",
+    "date_discovered": "2026-10-23T09:12:22.316087+00:00"
+  },
+  {
+    "id": 18488076,
+    "company_display": "TikTok",
+    "title": "AI Product Manager Graduate (Live Streaming Safety) - 2027 Start",
+    "location": "Singapore",
+    "url": "https://lifeattiktok.com/search/7698970869205666053",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-10-23T12:10:18.562373+00:00"
+  },
+  {
+    "id": 18488474,
+    "company_display": "Amazon",
+    "title": "Program Manager Intern NDL 2027",
+    "location": "Amsterdam, North Holland, NLD",
+    "url": "https://www.amazon.jobs/en/jobs/10587421/program-manager-intern-ndl-2027",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-10-23T13:19:47.218008+00:00"
+  },
+  {
+    "id": 18488479,
+    "company_display": "1password",
+    "title": "Product Management Intern, End User Experience - Winter 2027",
+    "location": "Remote (United States | Canada)",
+    "url": "https://jobs.ashbyhq.com/1password/bef2e88e-9590-467d-8ba6-821b30529003",
+    "skill_level": "intern",
+    "country": "remote",
+    "updated_at": "2026-10-23T13:12:17.029000+00:00",
+    "date_discovered": "2026-10-23T13:35:31.623419+00:00"
+  },
+  {
+    "id": 18488609,
+    "company_display": "GE Vernova",
+    "title": "Intern- Product Management (Summer 2027)",
+    "location": "Markham",
+    "url": "https://gevernova.wd5.myworkdayjobs.com/en-US/Vernova_ExternalSite/job/Markham/Intern--Product-Management--Summer-2027-_R5056377-2",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-23T14:06:52.914849+00:00",
+    "date_discovered": "2026-10-23T14:10:40.424031+00:00"
+  },
+  {
+    "id": 18488920,
+    "company_display": "TD Bank",
+    "title": "Job Posting Title L&H Product Management Intern/Co-op (Winter 2027)",
+    "location": "Toronto, Ontario",
+    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Job-Posting-Title-L-H-Product-Management-Intern-Co-op--Winter-2027-_R_1506721",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-23T15:10:31.135378+00:00",
+    "date_discovered": "2026-10-23T15:11:38.028141+00:00"
+  },
+  {
+    "id": 18490038,
+    "company_display": "Rivian",
+    "title": "Technical Program Management Intern - Field Service Programs & Applied Intelligence (Spring 2027 Co-op)",
+    "location": "San Jose, California",
+    "url": "https://us-careers-rivian.icims.com/jobs/34674/login",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-23T18:20:00+00:00",
+    "date_discovered": "2026-10-23T18:40:44.346613+00:00"
+  },
+  {
+    "id": 18490602,
+    "company_display": "Intercontinental-Exchange",
+    "title": "Summer Internship Program 2027 - Product Management Intern",
+    "location": "Atlanta, Georgia",
+    "url": "https://careers-ice.icims.com/jobs/14065/login",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-23T20:09:00+00:00",
+    "date_discovered": "2026-10-23T20:15:29.711867+00:00"
   }
 ]
