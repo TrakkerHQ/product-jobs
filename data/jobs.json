@@ -1,82 +1,5 @@
 [
   {
-    "id": 13003316,
-    "company_display": "Applied Materials",
-    "title": "Technical Project/Program Management-LSP-Shanghai-Y2027 Graduate",
-    "location": "Shanghai, CHN",
-    "url": "https://careers.appliedmaterials.com/careers/job/790318605735",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-23T11:12:31.482197+00:00"
-  },
-  {
-    "id": 13048359,
-    "company_display": "General Dynamics",
-    "title": "COLUMBIA Design & Engineering Program Office - 2027 Summer Internship",
-    "location": "Groton, CT, USA",
-    "url": "https://www.gd.com/careers/columbia-design-engineering-program-office-2027-summer-internship-groton-ct-us-2026-20505-eb-opportunity",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-23T12:24:53+00:00",
-    "date_discovered": "2026-09-23T12:50:00.968091+00:00"
-  },
-  {
-    "id": 13074125,
-    "company_display": "Coty",
-    "title": "PRODUCT MANAGER ASSISTANT MARNI - Intern",
-    "location": "Paris",
-    "url": "https://careers.coty.com/job/Paris-PRODUCT-MANAGER-ASSISTANT-MARNI-Intern-J-75002/1440584733/",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-23T13:46:44.098194+00:00"
-  },
-  {
-    "id": 13080481,
-    "company_display": "Mastercard",
-    "title": "Associate Product Specialist, Product Management, Launch Program 2027 - United States",
-    "location": "O'Fallon, Missouri; Arlington, Virginia",
-    "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/OFallon-Missouri/Associate-Product-Specialist--Launch-Program-2027---United-States_R-287623",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": "2026-09-23T14:05:38.916572+00:00",
-    "date_discovered": "2026-09-23T14:07:58.273002+00:00"
-  },
-  {
-    "id": 13127539,
-    "company_display": "Amazon",
-    "title": "Program Manager Intern (12 months) - FY27",
-    "location": "London, England, GBR",
-    "url": "https://www.amazon.jobs/en/jobs/10557414/program-manager-intern-12-months-fy27",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-23T15:40:34.642883+00:00"
-  },
-  {
-    "id": 13127548,
-    "company_display": "Amazon",
-    "title": "2027 Program Manager Intern",
-    "location": "Dubai, ARE",
-    "url": "https://www.amazon.jobs/en/jobs/10557554/2027-program-manager-intern",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-23T15:40:34.674123+00:00"
-  },
-  {
-    "id": 13160138,
-    "company_display": "Colgate-Palmolive",
-    "title": "Digital Product Management Intern",
-    "location": "Overland Park, KS",
-    "url": "https://jobs.colgate.com/job/Overland-Park-Digital-Product-Management-Intern-KS-66062/1433024300/",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-23T17:06:53.746621+00:00"
-  },
-  {
     "id": 13493087,
     "company_display": "Amazon",
     "title": "Program Manager Intern 6 Months - 2027",
@@ -97,17 +20,6 @@
     "country": "us",
     "updated_at": "2026-09-24T13:36:34.250163+00:00",
     "date_discovered": "2026-09-24T13:37:55.504083+00:00"
-  },
-  {
-    "id": 13582333,
-    "company_display": "Cisco",
-    "title": "Engineering Product Management Specialist II (Intern) \u2013 United States",
-    "location": "San Jose, California, USA",
-    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Engineering-Product-Management-Specialist-II--Intern----United-States_2026801/apply",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-24T00:00:00+00:00",
-    "date_discovered": "2026-09-24T14:44:39.903853+00:00"
   },
   {
     "id": 13586037,
@@ -152,17 +64,6 @@
     "country": "us",
     "updated_at": "2026-09-24T15:54:00+00:00",
     "date_discovered": "2026-09-24T16:07:54.843345+00:00"
-  },
-  {
-    "id": 13687947,
-    "company_display": "ABB",
-    "title": "Product Management Intern - Summer 2027",
-    "location": "New Berlin, Wisconsin, USA",
-    "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/New-Berlin-Wisconsin-United-States-of-America/Product-Management-Intern---Summer-2027_JR00047280/apply",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-24T00:00:00+00:00",
-    "date_discovered": "2026-09-24T18:48:57.191260+00:00"
   },
   {
     "id": 13980447,
@@ -1637,5 +1538,16 @@
     "country": "us",
     "updated_at": "2026-10-23T20:09:00+00:00",
     "date_discovered": "2026-10-23T20:15:29.711867+00:00"
+  },
+  {
+    "id": 18492566,
+    "company_display": "Microsoft",
+    "title": "Product Management Intern",
+    "location": "USA, Massachusetts, Cambridge",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557044772",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-24T02:46:46.683222+00:00"
   }
 ]
