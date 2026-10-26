@@ -1,71 +1,5 @@
 [
   {
-    "id": 13493087,
-    "company_display": "Amazon",
-    "title": "Program Manager Intern 6 Months - 2027",
-    "location": "Berlin, DEU",
-    "url": "https://www.amazon.jobs/en/jobs/10558945/program-manager-intern-6-months-2027",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-24T11:15:22.311955+00:00"
-  },
-  {
-    "id": 13549714,
-    "company_display": "Cisco",
-    "title": "Engineering Product Management Specialist II (Intern) \u2013 United States",
-    "location": "San Jose, California, US; Milpitas, US; RTP, North Carolina, US; San Francisco, USA",
-    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Engineering-Product-Management-Specialist-II--Intern----United-States_2026801",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-24T13:36:34.250163+00:00",
-    "date_discovered": "2026-09-24T13:37:55.504083+00:00"
-  },
-  {
-    "id": 13586037,
-    "company_display": "Amazon",
-    "title": "Program Manager Intern ITA 2027",
-    "location": "Milan, Lombardy, ITA",
-    "url": "https://www.amazon.jobs/en/jobs/10559115/program-manager-intern-ita-2027",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-24T14:51:01.023760+00:00"
-  },
-  {
-    "id": 13598399,
-    "company_display": "Amazon",
-    "title": "Program Manager Intern ITA 2027 - MXP3 site",
-    "location": "Vercelli, Piedmont, ITA",
-    "url": "https://www.amazon.jobs/en/jobs/10559132/program-manager-intern-ita-2027-mxp3-site",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-24T15:20:35.231039+00:00"
-  },
-  {
-    "id": 13613956,
-    "company_display": "Toradex",
-    "title": "Intern - Product Manager Software",
-    "location": "Campinas, S\u00e3o Paulo, Brazil",
-    "url": "https://job-boards.greenhouse.io/toradex/jobs/8004517003",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-24T16:00:15+00:00",
-    "date_discovered": "2026-09-24T16:06:57.160005+00:00"
-  },
-  {
-    "id": 13614429,
-    "company_display": "AMD",
-    "title": "2027 Undergrad Program Management Intern/Co-op",
-    "location": "Austin, Texas",
-    "url": "https://campus-amd.icims.com/jobs/92880/login",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-24T15:54:00+00:00",
-    "date_discovered": "2026-09-24T16:07:54.843345+00:00"
-  },
-  {
     "id": 13980447,
     "company_display": "Amazon",
     "title": "Program Manager Intern ESP 2027",
@@ -75,28 +9,6 @@
     "country": "international",
     "updated_at": null,
     "date_discovered": "2026-09-25T08:14:56.016846+00:00"
-  },
-  {
-    "id": 13984065,
-    "company_display": "BNY Mellon",
-    "title": "2027 BNY Analyst Program - Product Management (Luxembourg)",
-    "location": "Luxembourg",
-    "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/82536",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-25T00:00:00+00:00",
-    "date_discovered": "2026-09-25T09:03:39.985863+00:00"
-  },
-  {
-    "id": 13984066,
-    "company_display": "BNY Mellon",
-    "title": "2027 BNY Summer Internship Program - Product Management (Luxembourg)",
-    "location": "Luxembourg",
-    "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/82537",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-25T00:00:00+00:00",
-    "date_discovered": "2026-09-25T09:03:40.005320+00:00"
   },
   {
     "id": 14085338,
@@ -218,17 +130,6 @@
     "country": "international",
     "updated_at": "2026-09-25T22:17:15.411119+00:00",
     "date_discovered": "2026-09-27T22:29:12.909481+00:00"
-  },
-  {
-    "id": 14831215,
-    "company_display": "Aveva",
-    "title": "APM Services Intern - Brazil",
-    "location": "Sao Paulo, Brazil",
-    "url": "https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Sao-Paulo-Brazil/APM-Services-Intern---Brazil_R015753",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-24T22:17:46.499981+00:00",
-    "date_discovered": "2026-09-27T22:29:14.143026+00:00"
   },
   {
     "id": 14833791,
@@ -1142,17 +1043,6 @@
     "country": "international",
     "updated_at": null,
     "date_discovered": "2026-10-19T11:05:17.726092+00:00"
-  },
-  {
-    "id": 18464817,
-    "company_display": "Genmab",
-    "title": "Program Management Intern",
-    "location": "Princeton, New Jersey, USA",
-    "url": "https://genmab.wd3.myworkdayjobs.com/Genmab_Careers_Site/job/Princeton-NJ/Program-Management-Intern_R18172/apply",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-19T00:00:00+00:00",
-    "date_discovered": "2026-10-19T16:18:05.864212+00:00"
   },
   {
     "id": 18465889,
