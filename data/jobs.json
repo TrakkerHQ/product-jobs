@@ -1,60 +1,5 @@
 [
   {
-    "id": 13980447,
-    "company_display": "Amazon",
-    "title": "Program Manager Intern ESP 2027",
-    "location": "Barcelona, Catalonia, ESP",
-    "url": "https://www.amazon.jobs/en/jobs/10560202/program-manager-intern-esp-2027",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-25T08:14:56.016846+00:00"
-  },
-  {
-    "id": 14085338,
-    "company_display": "Amazon",
-    "title": "Program Manager Intern ESP 2027 - BCN3",
-    "location": "Castellbisbal, Catalonia, ESP",
-    "url": "https://www.amazon.jobs/en/jobs/10560310/program-manager-intern-esp-2027-bcn3",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-25T13:49:38.131061+00:00"
-  },
-  {
-    "id": 14102870,
-    "company_display": "W.R. Berkley",
-    "title": "Intern Product Management Analyst",
-    "location": "Berkley Technology Services",
-    "url": "https://careers-berkley.icims.com/jobs/14461/intern-product-management-analyst/job",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-25T14:40:38.907457+00:00"
-  },
-  {
-    "id": 14259354,
-    "company_display": "IBM",
-    "title": "Product Manager Spring Co-op 2027",
-    "location": "POUGHKEEPSIE, USA",
-    "url": "https://careers.ibm.com/careers/JobDetail?jobId=133133",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-25T20:40:19.253265+00:00"
-  },
-  {
-    "id": 14259385,
-    "company_display": "IBM",
-    "title": "Product Manager Intern 2027 - One Madison",
-    "location": "New York, USA",
-    "url": "https://careers.ibm.com/careers/JobDetail?jobId=133468",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-25T20:40:21.751019+00:00"
-  },
-  {
     "id": 14459066,
     "company_display": "Applied Materials",
     "title": "Non-Technical Project/Program Management New College Grad- Bachelor's/Master's (Austin, TX)",
@@ -119,17 +64,6 @@
     "country": "international",
     "updated_at": "2026-09-27T22:04:31.684436+00:00",
     "date_discovered": "2026-09-27T22:04:57.616548+00:00"
-  },
-  {
-    "id": 14830845,
-    "company_display": "Ing",
-    "title": "Intern, Trade Finance Product Management",
-    "location": "Singapore",
-    "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Singapore/Intern--Trade-Finance-Product-Management_REQ-10122211",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-25T22:17:15.411119+00:00",
-    "date_discovered": "2026-09-27T22:29:12.909481+00:00"
   },
   {
     "id": 14833791,
@@ -1034,15 +968,15 @@
     "date_discovered": "2026-10-16T19:41:44.634081+00:00"
   },
   {
-    "id": 18463098,
-    "company_display": "Sanofi",
-    "title": "PM Intern",
-    "location": "Location:Hangzhou, China",
-    "url": "https://jobs.sanofi.com/en/job/hangzhou/pm-intern/2649/46117792512",
+    "id": 18464817,
+    "company_display": "Genmab",
+    "title": "Program Management Intern",
+    "location": "Princeton, New Jersey, USA",
+    "url": "https://genmab.wd3.myworkdayjobs.com/Genmab_Careers_Site/job/Princeton-NJ/Program-Management-Intern_R18172/apply",
     "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-10-19T11:05:17.726092+00:00"
+    "country": "us",
+    "updated_at": "2026-10-19T00:00:00+00:00",
+    "date_discovered": "2026-10-19T16:18:05.864212+00:00"
   },
   {
     "id": 18465889,
@@ -1254,17 +1188,6 @@
     "date_discovered": "2026-10-22T12:18:55.156836+00:00"
   },
   {
-    "id": 18482672,
-    "company_display": "Microsoft",
-    "title": "Product Management Internship Opportunities",
-    "location": "Israel, Tel Aviv, Herzliya",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393557043459",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-10-22T13:47:33.597460+00:00"
-  },
-  {
     "id": 18482675,
     "company_display": "Microsoft",
     "title": "Product Management Intern",
@@ -1331,17 +1254,6 @@
     "date_discovered": "2026-10-22T20:05:47.712355+00:00"
   },
   {
-    "id": 18484852,
-    "company_display": "IBM",
-    "title": "Product Manager Spring Co-op 2027",
-    "location": "POUGHKEEPSIE, USA",
-    "url": "https://careers.ibm.com/careers/JobDetail?jobId=137945",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-10-22T20:38:01.233908+00:00"
-  },
-  {
     "id": 18487640,
     "company_display": "Visa",
     "title": "Associate Product Manager (APM) Rotational Graduate Programme",
@@ -1397,17 +1309,6 @@
     "date_discovered": "2026-10-23T14:10:40.424031+00:00"
   },
   {
-    "id": 18488920,
-    "company_display": "TD Bank",
-    "title": "Job Posting Title L&H Product Management Intern/Co-op (Winter 2027)",
-    "location": "Toronto, Ontario",
-    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Job-Posting-Title-L-H-Product-Management-Intern-Co-op--Winter-2027-_R_1506721",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-10-23T15:10:31.135378+00:00",
-    "date_discovered": "2026-10-23T15:11:38.028141+00:00"
-  },
-  {
     "id": 18490038,
     "company_display": "Rivian",
     "title": "Technical Program Management Intern - Field Service Programs & Applied Intelligence (Spring 2027 Co-op)",
@@ -1439,5 +1340,170 @@
     "country": "us",
     "updated_at": null,
     "date_discovered": "2026-10-24T02:46:46.683222+00:00"
+  },
+  {
+    "id": 18497352,
+    "company_display": "TikTok",
+    "title": "Product Manager Graduate (TikTok LIVE - Platform Trust And Ecosystem) - 2027 Start",
+    "location": "San Jose, California",
+    "url": "https://lifeattiktok.com/search/7680761598014015797",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-26T04:06:46.110064+00:00"
+  },
+  {
+    "id": 18498074,
+    "company_display": "Apple",
+    "title": "Engineering Program Manager (EPM) Intern",
+    "location": "United Kingdom",
+    "url": "https://jobs.apple.com/en-us/details/200691241/engineering-program-manager-epm-intern?team=SFTWR",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-26T08:21:16.111000+00:00",
+    "date_discovered": "2026-10-26T09:01:49.257296+00:00"
+  },
+  {
+    "id": 18499675,
+    "company_display": "Sezzle",
+    "title": "Product Manager Intern, ShopX(Rewards)",
+    "location": "Brazil, Remote",
+    "url": "https://job-boards.greenhouse.io/sezzle/jobs/8044474003",
+    "skill_level": "intern",
+    "country": "remote",
+    "updated_at": "2026-10-26T14:52:02+00:00",
+    "date_discovered": "2026-10-26T15:08:00.423739+00:00"
+  },
+  {
+    "id": 18499676,
+    "company_display": "Sezzle",
+    "title": "Product Manager Intern, ShopX(Rewards)",
+    "location": "Colombia, Remote",
+    "url": "https://job-boards.greenhouse.io/sezzle/jobs/8044470003",
+    "skill_level": "intern",
+    "country": "remote",
+    "updated_at": "2026-10-26T14:50:25+00:00",
+    "date_discovered": "2026-10-26T15:08:00.448075+00:00"
+  },
+  {
+    "id": 18499679,
+    "company_display": "Sezzle",
+    "title": "Product Manager Intern, ShopX(Rewards)",
+    "location": "Peru",
+    "url": "https://job-boards.greenhouse.io/sezzle/jobs/8044473003",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-26T14:51:36+00:00",
+    "date_discovered": "2026-10-26T15:08:00.495837+00:00"
+  },
+  {
+    "id": 18499680,
+    "company_display": "Sezzle",
+    "title": "Product Manager Intern, ShopX(Rewards)",
+    "location": "Mexico, Remote",
+    "url": "https://job-boards.greenhouse.io/sezzle/jobs/8044475003",
+    "skill_level": "intern",
+    "country": "remote",
+    "updated_at": "2026-10-26T14:52:25+00:00",
+    "date_discovered": "2026-10-26T15:08:00.510329+00:00"
+  },
+  {
+    "id": 18499681,
+    "company_display": "Sezzle",
+    "title": "Product Manager Intern, ShopX(Rewards)",
+    "location": "Argentina, Remote",
+    "url": "https://job-boards.greenhouse.io/sezzle/jobs/8044476003",
+    "skill_level": "intern",
+    "country": "remote",
+    "updated_at": "2026-10-26T14:52:27+00:00",
+    "date_discovered": "2026-10-26T15:08:00.519154+00:00"
+  },
+  {
+    "id": 18499827,
+    "company_display": "Tenstorrent",
+    "title": "Business Operations & Program Management Intern",
+    "location": "Austin, Texas, United States; Santa Clara, California, United States; Toronto, Ontario, Canada",
+    "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5271796007",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-26T15:19:21+00:00",
+    "date_discovered": "2026-10-26T15:37:12.336447+00:00"
+  },
+  {
+    "id": 18500309,
+    "company_display": "ABB",
+    "title": "Product Management Intern Drive Products - Summer 2027",
+    "location": "New Berlin, Wisconsin, USA",
+    "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/New-Berlin-Wisconsin-United-States-of-America/Product-Management-Intern-Drive-Products---Summer-2027_JR00047254/apply",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-26T00:00:00+00:00",
+    "date_discovered": "2026-10-26T16:49:14.246803+00:00"
+  },
+  {
+    "id": 18500469,
+    "company_display": "Amazon",
+    "title": "Program Manager Intern 6M- 2027",
+    "location": "Stockholm, Stockholm County, SWE",
+    "url": "https://www.amazon.jobs/en/jobs/10588719/program-manager-intern-6m-2027",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-10-26T17:19:31.707989+00:00"
+  },
+  {
+    "id": 18501239,
+    "company_display": "Meta",
+    "title": "Technical Program Manager Intern, Reality Labs \u2014 2027",
+    "location": "Menlo Park, CA",
+    "url": "https://www.metacareers.com/profile/job_details/1649069223327170/",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-26T20:05:03+00:00",
+    "date_discovered": "2026-10-26T20:11:40.109359+00:00"
+  },
+  {
+    "id": 18501338,
+    "company_display": "Zebra",
+    "title": "2027 Summer Internship (US) - Go-To-Market Product Manager",
+    "location": "Lincolnshire, Illinois; Holtsville, New York",
+    "url": "https://zebra.wd501.myworkdayjobs.com/en-US/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Go-To-Market-Product-Manager_JR103647",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-26T20:19:03.251924+00:00",
+    "date_discovered": "2026-10-26T20:19:04.101773+00:00"
+  },
+  {
+    "id": 18501339,
+    "company_display": "Zebra",
+    "title": "2027 Summer Internship (US) - Product Management",
+    "location": "Lincolnshire, Illinois",
+    "url": "https://zebra.wd501.myworkdayjobs.com/en-US/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Product-Management_JR103652",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-26T20:19:03.252504+00:00",
+    "date_discovered": "2026-10-26T20:19:04.114923+00:00"
+  },
+  {
+    "id": 18501558,
+    "company_display": "IBM",
+    "title": "Product Manager Spring Co-op 2027",
+    "location": "DURHAM, USA",
+    "url": "https://careers.ibm.com/careers/JobDetail?jobId=137947",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-26T21:10:06.090000+00:00"
+  },
+  {
+    "id": 18502294,
+    "company_display": "NVIDIA",
+    "title": "Customer Technical Program Management Intern, OEMs System Partner \u2013 Summer 2027",
+    "location": "USA, CA, Santa Clara",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Customer-Technical-Program-Management-Intern--OEMs-System-Partner---Summer-2027_JR2028512",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-26T23:39:06.848847+00:00",
+    "date_discovered": "2026-10-26T23:41:18.755359+00:00"
   }
 ]
