@@ -1,16 +1,5 @@
 [
   {
-    "id": 14459066,
-    "company_display": "Applied Materials",
-    "title": "Non-Technical Project/Program Management New College Grad- Bachelor's/Master's (Austin, TX)",
-    "location": "Austin, TX",
-    "url": "https://careers.appliedmaterials.com/careers/job/790318601800",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-26T06:13:50.729723+00:00"
-  },
-  {
     "id": 14703969,
     "company_display": "Mastercard",
     "title": "Intern, Product Management, Cairo - Egypt",
@@ -1254,6 +1243,17 @@
     "date_discovered": "2026-10-22T20:05:47.712355+00:00"
   },
   {
+    "id": 18484852,
+    "company_display": "IBM",
+    "title": "Product Manager Spring Co-op 2027",
+    "location": "POUGHKEEPSIE, USA",
+    "url": "https://careers.ibm.com/careers/JobDetail?jobId=137945",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-22T20:38:01.233908+00:00"
+  },
+  {
     "id": 18487640,
     "company_display": "Visa",
     "title": "Associate Product Manager (APM) Rotational Graduate Programme",
@@ -1505,5 +1505,71 @@
     "country": "us",
     "updated_at": "2026-10-26T23:39:06.848847+00:00",
     "date_discovered": "2026-10-26T23:41:18.755359+00:00"
+  },
+  {
+    "id": 18503976,
+    "company_display": "Visa",
+    "title": "Product Management Intern, Data and AI Team - Summer 2027",
+    "location": "US - Foster City, CA",
+    "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Product-Management-Intern--Data-and-AI-Team---Summer-2027_REF089881W-1",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-27T07:12:09.339984+00:00",
+    "date_discovered": "2026-10-27T07:12:21.895562+00:00"
+  },
+  {
+    "id": 18506086,
+    "company_display": "TE Connectivity",
+    "title": "Product Manager Intern",
+    "location": "MIDDLETOWN",
+    "url": "https://careers.te.com/job/MIDDLETOWN-Product-Manager-Intern-PA-17057-3144/1444111700/",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-27T16:13:53.022564+00:00"
+  },
+  {
+    "id": 18506562,
+    "company_display": "Zebra",
+    "title": "2027 Summer Internship (US) - Program Management",
+    "location": "Holtsville, New York",
+    "url": "https://zebra.wd501.myworkdayjobs.com/en-US/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Program-Management_JR103641",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-27T17:19:21.699980+00:00",
+    "date_discovered": "2026-10-27T17:19:22.566528+00:00"
+  },
+  {
+    "id": 18506917,
+    "company_display": "Micron",
+    "title": "Intern \u2013 AI & Product Management, Mobile Memory (LPDRAM)",
+    "location": "San Jose, CA",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/San-Jose-CA/Intern---AI---Product-Management--Mobile-Memory--LPDRAM-_JR115839",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-27T18:37:35.220388+00:00",
+    "date_discovered": "2026-10-27T18:41:01.430982+00:00"
+  },
+  {
+    "id": 18507093,
+    "company_display": "Micron",
+    "title": "Intern \u2013 CMBU Product Management",
+    "location": "San Jose, CA",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/San-Jose-CA/Intern---CMBU-Product-Management_JR115941",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-27T19:07:38.721290+00:00",
+    "date_discovered": "2026-10-27T19:11:30.677534+00:00"
+  },
+  {
+    "id": 18507094,
+    "company_display": "Micron",
+    "title": "Intern - Technical Program Manager, Program Management Office (PMO)",
+    "location": "Boise, ID - Main Site",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Technical-Program-Manager--Program-Management-Office--PMO-_JR115692",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-27T19:07:38.722135+00:00",
+    "date_discovered": "2026-10-27T19:11:30.705577+00:00"
   }
 ]
