@@ -1,82 +1,5 @@
 [
   {
-    "id": 14703969,
-    "company_display": "Mastercard",
-    "title": "Intern, Product Management, Cairo - Egypt",
-    "location": "Cairo, Egypt",
-    "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Cairo-Egypt/Intern--Product-Management--Cairo---Egypt_R-285348",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-27T09:52:36.996138+00:00",
-    "date_discovered": "2026-09-27T09:56:35.406053+00:00"
-  },
-  {
-    "id": 14704212,
-    "company_display": "Mastercard",
-    "title": "Associate Product Specialist, Product Management, Cairo - Egypt",
-    "location": "Cairo, Egypt",
-    "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Cairo-Egypt/Associate-Product-Specialist--Product-Management--Cairo---Egypt_R-285384-1",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": "2026-09-27T09:56:23.565842+00:00",
-    "date_discovered": "2026-09-27T09:56:38.527301+00:00"
-  },
-  {
-    "id": 14802295,
-    "company_display": "Mastercard",
-    "title": "Global Markets Intern, Summer 2027 - Cairo, Egypt",
-    "location": "Cairo, Egypt",
-    "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Cairo-Egypt/Global-Markets-Intern--Summer-2027---Cairo--Egypt_R-291975-2",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-27T20:34:33.703020+00:00",
-    "date_discovered": "2026-09-27T20:34:52.572050+00:00"
-  },
-  {
-    "id": 14802298,
-    "company_display": "Mastercard",
-    "title": "Global Markets, Graduate Launch Program 2027 - Cairo, Egypt",
-    "location": "Cairo, Egypt",
-    "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Global-Markets--Graduate-Launch-Program-2027---Cairo--Egypt_R-291972-2",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": "2026-09-27T20:34:33.703480+00:00",
-    "date_discovered": "2026-09-27T20:34:52.991739+00:00"
-  },
-  {
-    "id": 14816817,
-    "company_display": "Mastercard",
-    "title": "Product Management Intern, Summer 2027 - Rome, Italy",
-    "location": "Rome, Italy",
-    "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Rome-Italy/Product-Management-Intern--Summer-2027---Rome--Italy_R-287722-1",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-27T22:04:31.684436+00:00",
-    "date_discovered": "2026-09-27T22:04:57.616548+00:00"
-  },
-  {
-    "id": 14833791,
-    "company_display": "Mastercard",
-    "title": "Product Management Intern, Summer 2027 - Lisbon, Portugal",
-    "location": "Lisbon, Portugal",
-    "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Lisbon-Portugal/Product-Management-Intern--Summer-2027---Lisbon--Portugal_R-287709",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-27T23:34:32.114041+00:00",
-    "date_discovered": "2026-09-27T23:34:54.707247+00:00"
-  },
-  {
-    "id": 14875625,
-    "company_display": "Philips",
-    "title": "Intern \u2013 Digital Healthtech Product Management \u2013 Bothell, WA \u2013 Summer 2027",
-    "location": "Bothell, Washington, USA",
-    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bothell-Washington-United-States/Intern---Digital-Healthtech-Product-Management---Bothell--WA---Summer-2027_585564/apply?source=Philips_Career_Site",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-28T00:00:00+00:00",
-    "date_discovered": "2026-09-28T02:41:22.730030+00:00"
-  },
-  {
     "id": 14986447,
     "company_display": "Mastercard",
     "title": "Global Markets Intern, Summer 2027 - Lisbon, Portugal",
@@ -207,17 +130,6 @@
     "country": "us",
     "updated_at": null,
     "date_discovered": "2026-09-29T02:52:43.441418+00:00"
-  },
-  {
-    "id": 15753593,
-    "company_display": "General Dynamics",
-    "title": "Program Management Intern (CWL)",
-    "location": "Manassas, VA, USA",
-    "url": "https://www.gd.com/careers/program-management-intern-cwl-manassas-va-us-2026-75136-gdms-opportunity",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-28T00:00:00+00:00",
-    "date_discovered": "2026-09-29T12:41:31.655007+00:00"
   },
   {
     "id": 15934534,
@@ -979,17 +891,6 @@
     "date_discovered": "2026-10-19T19:43:01.232577+00:00"
   },
   {
-    "id": 18466221,
-    "company_display": "L3Harris",
-    "title": "Intern, Program Management",
-    "location": "Salt Lake City, UT",
-    "url": "https://careers.l3harris.com/en/job/salt-lake-city/intern-program-management/4832/102173097504",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-10-19T20:40:37.698374+00:00"
-  },
-  {
     "id": 18466223,
     "company_display": "L3Harris",
     "title": "Program Management Co-op (Waterdown, Ontario) 1",
@@ -1087,17 +988,6 @@
     "country": "us",
     "updated_at": "2026-10-20T14:49:26.652581+00:00",
     "date_discovered": "2026-10-20T14:49:27.709848+00:00"
-  },
-  {
-    "id": 18472431,
-    "company_display": "IBM",
-    "title": "Entry Level Storage Product Manager - 2027 - Tucson AZ",
-    "location": "TUCSON, USA",
-    "url": "https://careers.ibm.com/careers/JobDetail?jobId=137664",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-10-20T21:11:41.546224+00:00"
   },
   {
     "id": 18472978,
@@ -1230,17 +1120,6 @@
     "country": "us",
     "updated_at": "2026-10-22T18:47:31.982879+00:00",
     "date_discovered": "2026-10-22T18:47:38.409022+00:00"
-  },
-  {
-    "id": 18484679,
-    "company_display": "Patreon",
-    "title": "Product Manager Intern - Summer 2027",
-    "location": "New York",
-    "url": "https://jobs.ashbyhq.com/patreon/ace576d6-f480-43b8-a529-549fefb2046d",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-22T20:02:15.516000+00:00",
-    "date_discovered": "2026-10-22T20:05:47.712355+00:00"
   },
   {
     "id": 18484852,
@@ -1571,5 +1450,104 @@
     "country": "us",
     "updated_at": "2026-10-27T19:07:38.722135+00:00",
     "date_discovered": "2026-10-27T19:11:30.705577+00:00"
+  },
+  {
+    "id": 18509928,
+    "company_display": "TikTok",
+    "title": "Product Operations Intern (TikTok Shop Apps and API) - 2027 Summer",
+    "location": "Seattle, Washington",
+    "url": "https://lifeattiktok.com/search/7669705525866383621",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-28T04:03:59.165483+00:00"
+  },
+  {
+    "id": 18510686,
+    "company_display": "Plante Moran",
+    "title": "2027 PM Group Benefits Advisor Analyst",
+    "location": "Auburn Hills",
+    "url": "https://plantemoran.wd1.myworkdayjobs.com/en-US/pmexternalcareers/job/Auburn-Hills/XMLNAME-2027-PM-Group-Benefits-Advisor-Analyst_JR-03378",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-09-28T04:14:49.945723+00:00",
+    "date_discovered": "2026-10-28T04:14:52.990600+00:00"
+  },
+  {
+    "id": 18511940,
+    "company_display": "Microsoft",
+    "title": "Business Program Management INTERN (CO+I Exec)",
+    "location": "USA, Washington, Redmond",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557047466",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-28T11:47:44.605936+00:00"
+  },
+  {
+    "id": 18512658,
+    "company_display": "Sonos",
+    "title": "Software Product Management Intern (Seattle)",
+    "location": "Seattle, WA",
+    "url": "https://sonos.wd1.myworkdayjobs.com/en-US/Sonos/job/Seattle-WA/Software-Product-Management-Intern--Seattle-_R2866-1",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-28T13:50:55.738768+00:00",
+    "date_discovered": "2026-10-28T13:50:55.907773+00:00"
+  },
+  {
+    "id": 18512858,
+    "company_display": "IBM",
+    "title": "Product Manager Intern 2027 - POUGHKEEPSIE",
+    "location": "POUGHKEEPSIE, USA",
+    "url": "https://careers.ibm.com/careers/JobDetail?jobId=138606",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-28T14:38:13.441278+00:00"
+  },
+  {
+    "id": 18513758,
+    "company_display": "Skyworks Solutions",
+    "title": "Product Management Intern",
+    "location": "Greensboro, NC",
+    "url": "https://careers.skyworksinc.com/job/Greensboro-Product-Management-Intern-NC-27409/1444620700/",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-28T17:14:48.672118+00:00"
+  },
+  {
+    "id": 18514064,
+    "company_display": "Meta",
+    "title": "Technical Program Manager Intern, Global Supply Management \u2014 Reality Labs (2027)",
+    "location": "Sunnyvale, CA",
+    "url": "https://www.metacareers.com/profile/job_details/3333103890230916/",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-28T18:05:10+00:00",
+    "date_discovered": "2026-10-28T18:11:21.424717+00:00"
+  },
+  {
+    "id": 18515018,
+    "company_display": "Analog Devices",
+    "title": "Project / Program Management (Eng) Intern",
+    "location": "USA, MA, Wilmington",
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Project---Program-Management--Eng--Intern_R267572",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-28T20:45:58.467683+00:00",
+    "date_discovered": "2026-10-28T20:46:25.330195+00:00"
+  },
+  {
+    "id": 18515383,
+    "company_display": "T-Mobile",
+    "title": "Summer 2027 Associate Technical Product Manager Internship",
+    "location": "Frisco, Texas",
+    "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Frisco-Texas/Summer-2027-Associate-Technical-Product-Manager-Internship_REQ380499",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-28T22:07:43.738206+00:00",
+    "date_discovered": "2026-10-28T22:10:34.463968+00:00"
   }
 ]
