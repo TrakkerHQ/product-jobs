@@ -1,49 +1,5 @@
 [
   {
-    "id": 15563565,
-    "company_display": "IBM",
-    "title": "Product Manager Intern 2027 - Bellevue",
-    "location": "Bellevue, USA",
-    "url": "https://careers.ibm.com/careers/JobDetail?jobId=134108",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-29T02:52:43.441418+00:00"
-  },
-  {
-    "id": 15934534,
-    "company_display": "Epic Games",
-    "title": "Product Management Intern",
-    "location": "Cary, North Carolina, USA",
-    "url": "https://epicgames.com/careers/jobs/6161289004?gh_jid=6161289004",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-29T17:22:52+00:00",
-    "date_discovered": "2026-09-29T17:51:19.108200+00:00"
-  },
-  {
-    "id": 16010939,
-    "company_display": "Volvo",
-    "title": "Intern: Product Manager - Projects (Spring 2027)",
-    "location": "Shippensburg, PA",
-    "url": "https://jobs.volvogroup.com/job/Shippensburg-Intern-Product-Manager-Projects-%28Spring-2027%29-PA-17257/1369971755/",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-29T19:58:46.905028+00:00"
-  },
-  {
-    "id": 16155777,
-    "company_display": "Avav",
-    "title": "Program Manager Intern",
-    "location": "Simi Valley, CA",
-    "url": "https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/Program-Manager-Intern_8630",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-30T00:04:05.900091+00:00",
-    "date_discovered": "2026-09-30T00:04:06.404377+00:00"
-  },
-  {
     "id": 16543816,
     "company_display": "L3Harris",
     "title": "Product Management Intern (Rochester, NY)",
@@ -737,6 +693,17 @@
     "date_discovered": "2026-10-16T19:41:44.634081+00:00"
   },
   {
+    "id": 18464817,
+    "company_display": "Genmab",
+    "title": "Program Management Intern",
+    "location": "Princeton, New Jersey, USA",
+    "url": "https://genmab.wd3.myworkdayjobs.com/Genmab_Careers_Site/job/Princeton-NJ/Program-Management-Intern_R18172/apply",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-19T00:00:00+00:00",
+    "date_discovered": "2026-10-19T16:18:05.864212+00:00"
+  },
+  {
     "id": 18465889,
     "company_display": "PACCAR",
     "title": "Summer 2027 - Program Management Intern",
@@ -801,17 +768,6 @@
     "country": "us",
     "updated_at": "2026-10-19T16:00:00+00:00",
     "date_discovered": "2026-10-19T22:45:53.707280+00:00"
-  },
-  {
-    "id": 18467751,
-    "company_display": "Microsoft",
-    "title": "Business Program Management INTERN",
-    "location": "USA, Washington, Redmond",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556999329",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-10-20T01:47:20.401691+00:00"
   },
   {
     "id": 18468340,
@@ -944,17 +900,6 @@
     "country": "international",
     "updated_at": null,
     "date_discovered": "2026-10-22T14:49:57.587493+00:00"
-  },
-  {
-    "id": 18483438,
-    "company_display": "Walmart",
-    "title": "Summer 2027 Intern: Automation - Product Manager - Corporate Intern",
-    "location": "(USA) TX LANCASTER 07382 ECOMM FULFILLMENT SERVICES",
-    "url": "https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-TX-LANCASTER-07382-ECOMM-FULFILLMENT-SERVICES/Summer-2027-Intern--Automation---Product-Manager---Corporate-Intern_R-2649739",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-22T16:12:23.389782+00:00",
-    "date_discovered": "2026-10-22T16:12:40.036604+00:00"
   },
   {
     "id": 18484315,
@@ -1199,17 +1144,6 @@
     "date_discovered": "2026-10-26T20:19:04.114923+00:00"
   },
   {
-    "id": 18501558,
-    "company_display": "IBM",
-    "title": "Product Manager Spring Co-op 2027",
-    "location": "DURHAM, USA",
-    "url": "https://careers.ibm.com/careers/JobDetail?jobId=137947",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-10-26T21:10:06.090000+00:00"
-  },
-  {
     "id": 18502294,
     "company_display": "NVIDIA",
     "title": "Customer Technical Program Management Intern, OEMs System Partner \u2013 Summer 2027",
@@ -1296,17 +1230,6 @@
     "country": "us",
     "updated_at": null,
     "date_discovered": "2026-10-28T04:03:59.165483+00:00"
-  },
-  {
-    "id": 18510686,
-    "company_display": "Plante Moran",
-    "title": "2027 PM Group Benefits Advisor Analyst",
-    "location": "Auburn Hills",
-    "url": "https://plantemoran.wd1.myworkdayjobs.com/en-US/pmexternalcareers/job/Auburn-Hills/XMLNAME-2027-PM-Group-Benefits-Advisor-Analyst_JR-03378",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": "2026-09-28T04:14:49.945723+00:00",
-    "date_discovered": "2026-10-28T04:14:52.990600+00:00"
   },
   {
     "id": 18511940,
@@ -1483,5 +1406,93 @@
     "country": "us",
     "updated_at": "2026-10-30T00:02:43.408000+00:00",
     "date_discovered": "2026-10-30T00:19:15.808943+00:00"
+  },
+  {
+    "id": 18526307,
+    "company_display": "Amgen",
+    "title": "Undergrad Intern \u2013 Global Program Management (Summer 2027)",
+    "location": "Washington D.C., DC",
+    "url": "https://careers.amgen.com/en/job/washington-d-c/undergrad-intern-global-program-management-summer-2027/87/102642892560",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-30T17:10:59.644710+00:00"
+  },
+  {
+    "id": 18526491,
+    "company_display": "Moodys",
+    "title": "Product Manager Intern",
+    "location": "Vienna",
+    "url": "https://careers.moodys.com/en/job/vienna/product-manager-intern/49841/102644153152",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-10-30T17:38:38.324690+00:00"
+  },
+  {
+    "id": 18526593,
+    "company_display": "Salesforce",
+    "title": "AI Labs Summer Internship, Emerging Talent",
+    "location": "California - San Francisco; Washington - Seattle",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/AI-Labs-Summer-Internship--Emerging-Talent_JR366248",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-30T17:44:08.865308+00:00",
+    "date_discovered": "2026-10-30T17:44:57.808280+00:00"
+  },
+  {
+    "id": 18526639,
+    "company_display": "Motorola Solutions",
+    "title": "Program Manager Intern - Summer 2027",
+    "location": "Plantation, FL",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Plantation-FL/Program-Manager-Intern---Summer-2027_R69762",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-30T17:47:56.562399+00:00",
+    "date_discovered": "2026-10-30T17:47:59.302346+00:00"
+  },
+  {
+    "id": 18527096,
+    "company_display": "The New York Times",
+    "title": "Product Management Intern, Wirecutter",
+    "location": "New York, NY",
+    "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748461005",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-30T19:04:42+00:00",
+    "date_discovered": "2026-10-30T19:05:34.412312+00:00"
+  },
+  {
+    "id": 18527645,
+    "company_display": "Hp",
+    "title": "Product Management Intern",
+    "location": "Spring, Texas, USA",
+    "url": "https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Product-Management-Intern_UNI4358-1",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-30T20:47:26.564881+00:00",
+    "date_discovered": "2026-10-30T20:47:29.469610+00:00"
+  },
+  {
+    "id": 18528199,
+    "company_display": "TikTok",
+    "title": "Product Manager - Project Intern (Global Monetization Product and Technology) - 2027 Start",
+    "location": "Seattle, Washington",
+    "url": "https://lifeattiktok.com/search/7701480558070597893",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-30T22:40:55.364969+00:00"
+  },
+  {
+    "id": 18528200,
+    "company_display": "TikTok",
+    "title": "Product Manager - Project Intern (Global Monetization Product and Technology) - 2027 Start",
+    "location": "San Jose, California",
+    "url": "https://lifeattiktok.com/search/7701486873210390837",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-30T22:40:55.371486+00:00"
   }
 ]
