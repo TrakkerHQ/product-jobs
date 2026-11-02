@@ -1,60 +1,5 @@
 [
   {
-    "id": 17181290,
-    "company_display": "Disney",
-    "title": "Intern, Project & Program Management, Disney+ - Jan to Jun 2027",
-    "location": "Singapore",
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Singapore-Singapore/Intern--Project---Program-Management--Disney----Jan-to-Jun-2027_10162098",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-10-01T13:47:07.838874+00:00",
-    "date_discovered": "2026-10-01T13:47:10.689417+00:00"
-  },
-  {
-    "id": 17197904,
-    "company_display": "Mastercard",
-    "title": "Global Markets, Account Management & Product Management, Summer Internship Program \u2013 2027, Istanbul, T\u00fcrkiye",
-    "location": "Besiktas, Istanbul Turkey",
-    "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Besiktas-Istanbul-Turkey/Global-Markets--Account-Management---Product-Management--Summer-Internship-Program---2027--Istanbul--Trkiye_R-292561-2",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-10-01T14:15:45.883342+00:00",
-    "date_discovered": "2026-10-01T14:16:27.864711+00:00"
-  },
-  {
-    "id": 17319950,
-    "company_display": "IBM",
-    "title": "Product Management Intern 2027",
-    "location": "Markham, CA",
-    "url": "https://careers.ibm.com/careers/JobDetail?jobId=134996",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-10-01T17:47:49.926709+00:00"
-  },
-  {
-    "id": 17434203,
-    "company_display": "Costar",
-    "title": "Associate Product Manager - Sunnyvale, CA",
-    "location": "Sunnyvale (US)",
-    "url": "https://costar.wd1.myworkdayjobs.com/en-US/Costar_Campus/job/Sunnyvale-US/Associate-Product-Manager---Sunnyvale--CA_R39946",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": "2026-10-01T20:55:20.366957+00:00",
-    "date_discovered": "2026-10-01T20:55:21.792705+00:00"
-  },
-  {
-    "id": 17438618,
-    "company_display": "Attentive",
-    "title": "Product Management Intern, Agentic Integrations",
-    "location": "USA",
-    "url": "https://job-boards.greenhouse.io/attentive/jobs/4429880009",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-01T20:48:30+00:00",
-    "date_discovered": "2026-10-01T21:12:59.858664+00:00"
-  },
-  {
     "id": 17884518,
     "company_display": "Google",
     "title": "Associate Product Manager BS/MS Intern, 2027",
@@ -141,17 +86,6 @@
     "country": "international",
     "updated_at": "2026-10-02T14:38:44+00:00",
     "date_discovered": "2026-10-02T15:05:40.618478+00:00"
-  },
-  {
-    "id": 18110038,
-    "company_display": "Trane-Technologies",
-    "title": "Program Manager Intern - CAD Designer",
-    "location": "Jacksonville, Florida, USA",
-    "url": "https://tranetechnologies.wd12.myworkdayjobs.com/Trane_Technologies_Careers/job/Jacksonville-FL-5550-POW-MIA-Memorial-Pkwy/Program-Manager-Intern---CAD-Designer_JR-13875/apply",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-02T00:00:00+00:00",
-    "date_discovered": "2026-10-02T19:49:22.516058+00:00"
   },
   {
     "id": 18129747,
@@ -1342,6 +1276,17 @@
     "date_discovered": "2026-10-29T21:48:07.121338+00:00"
   },
   {
+    "id": 18522429,
+    "company_display": "BAE Systems",
+    "title": "Program Management Intern III (Summer 2027) - Wayne, NJ",
+    "location": "Wayne, New Jersey, USA",
+    "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25771&siteid=5403&jobid=306081",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-30T00:02:43.408000+00:00",
+    "date_discovered": "2026-10-30T00:19:15.808943+00:00"
+  },
+  {
     "id": 18526307,
     "company_display": "Amgen",
     "title": "Undergrad Intern \u2013 Global Program Management (Summer 2027)",
@@ -1428,5 +1373,16 @@
     "country": "us",
     "updated_at": null,
     "date_discovered": "2026-10-30T22:40:55.371486+00:00"
+  },
+  {
+    "id": 18533294,
+    "company_display": "Visa",
+    "title": "Associate Product Manager Program",
+    "location": "SG - Singapore",
+    "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa_Early_Careers/job/SG---Singapore/Associate-Product-Manager-Program_REF089093W",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-11-01T16:46:31.447869+00:00",
+    "date_discovered": "2026-11-01T16:46:32.185707+00:00"
   }
 ]
