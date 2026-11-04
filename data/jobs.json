@@ -968,17 +968,6 @@
     "date_discovered": "2026-10-28T04:03:59.165483+00:00"
   },
   {
-    "id": 18511940,
-    "company_display": "Microsoft",
-    "title": "Business Program Management INTERN (CO+I Exec)",
-    "location": "USA, Washington, Redmond",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393557047466",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-10-28T11:47:44.605936+00:00"
-  },
-  {
     "id": 18512858,
     "company_display": "IBM",
     "title": "Product Manager Intern 2027 - POUGHKEEPSIE",
@@ -1285,5 +1274,82 @@
     "country": "international",
     "updated_at": "2026-11-02T00:00:00+00:00",
     "date_discovered": "2026-11-02T17:49:31.422370+00:00"
+  },
+  {
+    "id": 18542409,
+    "company_display": "Celonis",
+    "title": "Intern Strategic Program Management",
+    "location": "Madrid, Spain",
+    "url": "https://job-boards.greenhouse.io/celonis/jobs/8156996003?gh_jid=8156996003",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-11-03T12:53:38+00:00",
+    "date_discovered": "2026-11-03T13:06:27.801150+00:00"
+  },
+  {
+    "id": 18542410,
+    "company_display": "Celonis",
+    "title": "Intern Strategic Program Management",
+    "location": "Munich, Germany",
+    "url": "https://job-boards.greenhouse.io/celonis/jobs/8156989003?gh_jid=8156989003",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-11-03T12:53:36+00:00",
+    "date_discovered": "2026-11-03T13:06:27.834267+00:00"
+  },
+  {
+    "id": 18543698,
+    "company_display": "Celestica",
+    "title": "Student Intern, Program Management",
+    "location": "Newmarket",
+    "url": "https://careers.celestica.com/job/Newmarket-Student-Intern%2C-Program-Management-ON/1453951233/",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-11-03T16:44:35.304402+00:00"
+  },
+  {
+    "id": 18545124,
+    "company_display": "Stepstone-Group",
+    "title": "2027 Private Debt Product Management Intern",
+    "location": "Zurich",
+    "url": "https://www.stepstonegroup.com/current-opportunities/?gh_jid=8350072",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-11-03T20:56:00+00:00",
+    "date_discovered": "2026-11-03T21:06:55.910743+00:00"
+  },
+  {
+    "id": 18545147,
+    "company_display": "Northrop Grumman",
+    "title": "2027 Program Management Intern - Northridge CA",
+    "location": "United States-California-Northridge",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Northridge/XMLNAME-2027-Program-Management-Intern---Northridge-CA_R10259102",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-03T21:08:23.644924+00:00",
+    "date_discovered": "2026-11-03T21:12:33.226803+00:00"
+  },
+  {
+    "id": 18546671,
+    "company_display": "TikTok",
+    "title": "Product Solutions and Operations - Project Intern (Global Monetization Product and Technology) - 2027 Start",
+    "location": "San Jose, California",
+    "url": "https://lifeattiktok.com/search/7657640284071954741",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-11-04T02:10:40.042270+00:00"
+  },
+  {
+    "id": 18546672,
+    "company_display": "L3Harris",
+    "title": "Associate, Program Management",
+    "location": "Salt Lake City, UT",
+    "url": "https://careers.l3harris.com/en/job/salt-lake-city/associate-program-management/4832/102832368800",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-11-04T02:10:47.795244+00:00"
   }
 ]
