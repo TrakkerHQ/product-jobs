@@ -737,17 +737,6 @@
     "date_discovered": "2026-10-26T04:06:46.110064+00:00"
   },
   {
-    "id": 18498074,
-    "company_display": "Apple",
-    "title": "Engineering Program Manager (EPM) Intern",
-    "location": "United Kingdom",
-    "url": "https://jobs.apple.com/en-us/details/200691241/engineering-program-manager-epm-intern?team=SFTWR",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-10-26T08:21:16.111000+00:00",
-    "date_discovered": "2026-10-26T09:01:49.257296+00:00"
-  },
-  {
     "id": 18499675,
     "company_display": "Sezzle",
     "title": "Product Manager Intern, ShopX(Rewards)",
@@ -880,17 +869,6 @@
     "date_discovered": "2026-10-26T21:10:06.090000+00:00"
   },
   {
-    "id": 18502294,
-    "company_display": "NVIDIA",
-    "title": "Customer Technical Program Management Intern, OEMs System Partner \u2013 Summer 2027",
-    "location": "USA, CA, Santa Clara",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Customer-Technical-Program-Management-Intern--OEMs-System-Partner---Summer-2027_JR2028512",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-26T23:39:06.848847+00:00",
-    "date_discovered": "2026-10-26T23:41:18.755359+00:00"
-  },
-  {
     "id": 18503976,
     "company_display": "Visa",
     "title": "Product Management Intern, Data and AI Team - Summer 2027",
@@ -966,17 +944,6 @@
     "country": "us",
     "updated_at": null,
     "date_discovered": "2026-10-28T04:03:59.165483+00:00"
-  },
-  {
-    "id": 18512858,
-    "company_display": "IBM",
-    "title": "Product Manager Intern 2027 - POUGHKEEPSIE",
-    "location": "POUGHKEEPSIE, USA",
-    "url": "https://careers.ibm.com/careers/JobDetail?jobId=138606",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-10-28T14:38:13.441278+00:00"
   },
   {
     "id": 18513758,
@@ -1120,17 +1087,6 @@
     "country": "us",
     "updated_at": "2026-10-29T21:48:06.297250+00:00",
     "date_discovered": "2026-10-29T21:48:07.121338+00:00"
-  },
-  {
-    "id": 18522429,
-    "company_display": "BAE Systems",
-    "title": "Program Management Intern III (Summer 2027) - Wayne, NJ",
-    "location": "Wayne, New Jersey, USA",
-    "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25771&siteid=5403&jobid=306081",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-30T00:02:43.408000+00:00",
-    "date_discovered": "2026-10-30T00:19:15.808943+00:00"
   },
   {
     "id": 18526307,
@@ -1351,5 +1307,38 @@
     "country": "us",
     "updated_at": null,
     "date_discovered": "2026-11-04T02:10:47.795244+00:00"
+  },
+  {
+    "id": 18547558,
+    "company_display": "Amazon",
+    "title": "\u30102028&2029 Graduates\uff0fNon-Tech\u3011Program Manager Internship - Amazon Japan",
+    "location": "Tokyo, JPN",
+    "url": "https://www.amazon.jobs/en/jobs/10592018/2028-2029-graduates-non-tech-program-manager-internship-amazon-japan",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-11-04T05:15:00.745414+00:00"
+  },
+  {
+    "id": 18548349,
+    "company_display": "Amazon",
+    "title": "Program Manager Intern, AWS Cloud Logistics",
+    "location": "SGP",
+    "url": "https://www.amazon.jobs/en/jobs/10596307/program-manager-intern-aws-cloud-logistics",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-11-04T10:14:57.115719+00:00"
+  },
+  {
+    "id": 18549835,
+    "company_display": "Constellation-Brands",
+    "title": "Intern, Marketing Technology & Digital Product",
+    "location": "Rochester, New York; Chicago, Illinois",
+    "url": "https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--Marketing-Technology---Digital-Product_R-41658",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-04T15:51:17.261875+00:00",
+    "date_discovered": "2026-11-04T15:51:17.812607+00:00"
   }
 ]
