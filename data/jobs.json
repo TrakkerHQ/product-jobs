@@ -1,60 +1,5 @@
 [
   {
-    "id": 18388830,
-    "company_display": "Smartsheet",
-    "title": "Product Management - Interns",
-    "location": "Bangalore, INDIA",
-    "url": "https://job-boards.greenhouse.io/smartsheet/jobs/8255581",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-10-05T06:03:18+00:00",
-    "date_discovered": "2026-10-05T07:00:36.066442+00:00"
-  },
-  {
-    "id": 18389472,
-    "company_display": "Mastercard",
-    "title": "Product Management Intern, Summer 2027 \u2013 Dubai, UAE (UAE Nationals Preferred)",
-    "location": "Dubai, United Arab Emirates",
-    "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Dubai-United-Arab-Emirates/Product-Management-Intern--Summer-2027---Dubai--UAE--UAE-Nationals-Preferred-_R-287599-1",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-10-05T10:11:23.631583+00:00",
-    "date_discovered": "2026-10-05T10:11:45.172232+00:00"
-  },
-  {
-    "id": 18390462,
-    "company_display": "Occ",
-    "title": "Summer Intern - Strategy",
-    "location": "Chicago - 125 S Franklin",
-    "url": "https://theocc.wd5.myworkdayjobs.com/en-US/careers/job/Chicago---125-S-Franklin/Summer-Intern---Strategy_REQ-4882",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-05T13:49:47.296006+00:00",
-    "date_discovered": "2026-10-05T13:49:47.687611+00:00"
-  },
-  {
-    "id": 18392127,
-    "company_display": "Garmin",
-    "title": "Intern - Aviation Programs Engineering",
-    "location": "Olathe, Kansas",
-    "url": "https://careers-garmin.icims.com/jobs/20296/login",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-05T18:56:00+00:00",
-    "date_discovered": "2026-10-05T19:15:30.432791+00:00"
-  },
-  {
-    "id": 18393036,
-    "company_display": "EA",
-    "title": "Program Manager Intern, Games for All (Master's Level) - Winter 2026",
-    "location": "Vancouver, Canada \u2022 Role ID 216330 \u2022 Intern - Temporary Employee \u2022 Legal",
-    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Program-Manager-Intern-Games-for-All-Master-s-Level/216330",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-10-05T22:38:56.142166+00:00"
-  },
-  {
     "id": 18395026,
     "company_display": "Mastercard",
     "title": "Global Markets Summer Internship 2027 - Product Management intern & Sales Analyst Intern - Dubai, UAE (UAE Nationals Preferred)",
@@ -1067,17 +1012,6 @@
     "date_discovered": "2026-10-29T19:21:01.411276+00:00"
   },
   {
-    "id": 18521109,
-    "company_display": "T-Mobile",
-    "title": "Summer 2027 Assoc Product Manager Internship",
-    "location": "Overland Park, Kansas",
-    "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Overland-Park-Kansas/Summer-2027-Assoc-Product-Manager-Internship_REQ380746",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-29T20:38:04.081348+00:00",
-    "date_discovered": "2026-10-29T20:40:55.747542+00:00"
-  },
-  {
     "id": 18521597,
     "company_display": "Snc",
     "title": "Program Management Intern (Summer 2027)",
@@ -1087,6 +1021,17 @@
     "country": "us",
     "updated_at": "2026-10-29T21:48:06.297250+00:00",
     "date_discovered": "2026-10-29T21:48:07.121338+00:00"
+  },
+  {
+    "id": 18522429,
+    "company_display": "BAE Systems",
+    "title": "Program Management Intern III (Summer 2027) - Wayne, NJ",
+    "location": "Wayne, New Jersey, USA",
+    "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25771&siteid=5403&jobid=306081",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-30T00:02:43.408000+00:00",
+    "date_discovered": "2026-10-30T00:19:15.808943+00:00"
   },
   {
     "id": 18526307,
@@ -1340,5 +1285,71 @@
     "country": "us",
     "updated_at": "2026-11-04T15:51:17.261875+00:00",
     "date_discovered": "2026-11-04T15:51:17.812607+00:00"
+  },
+  {
+    "id": 18554118,
+    "company_display": "TikTok",
+    "title": "Data Product Project Intern (TikTok Platform Responsibility) - 2026 Start",
+    "location": "Singapore",
+    "url": "https://lifeattiktok.com/search/7704211967934449973",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-11-05T06:05:10.900866+00:00"
+  },
+  {
+    "id": 18554551,
+    "company_display": "Mastercard",
+    "title": "Associate Specialist, Regional Product Management",
+    "location": "Taipei, Taiwan",
+    "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Taipei-Taiwan/Associate-Specialist--Product-and-Solutions--Launch-Graduate-Program-2027---Taipei--Taiwan_R-286375",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-11-05T08:09:34.252662+00:00",
+    "date_discovered": "2026-11-05T08:09:35.629338+00:00"
+  },
+  {
+    "id": 18556481,
+    "company_display": "S&P Global",
+    "title": "Summer Intern, Product Management",
+    "location": "New York, NY",
+    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Summer-Intern--Product-Management_332679-1",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-05T15:48:54.585675+00:00",
+    "date_discovered": "2026-11-05T15:48:55.595355+00:00"
+  },
+  {
+    "id": 18558289,
+    "company_display": "Raytheon",
+    "title": "Stage- Gestion des Programmes Moteurs \u2013 Introduction de Nouveau produit / Internship- Operations Program Management \u2013 New Product Introduction",
+    "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage--Gestion-des-Programmes-Moteurs---Introduction-de-Nouveau-produit----Internship---Operations-Program-Management---New-Product-Introduction_01887628",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-11-05T21:09:47.199021+00:00",
+    "date_discovered": "2026-11-05T21:14:09.849254+00:00"
+  },
+  {
+    "id": 18559205,
+    "company_display": "Invesco",
+    "title": "Early Career Intern - Digital Product Management",
+    "location": "Atlanta, Georgia",
+    "url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Digital-Product-Management_R-15876-1",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-05T23:48:59.314169+00:00",
+    "date_discovered": "2026-11-05T23:49:00.101393+00:00"
+  },
+  {
+    "id": 18559719,
+    "company_display": "Etched",
+    "title": "Infrastructure Engineering & Projects Intern",
+    "location": "San Jose",
+    "url": "https://jobs.ashbyhq.com/etched/1a92048c-60e0-445b-a84e-8f008f1cf47b",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-06T01:31:57.607000+00:00",
+    "date_discovered": "2026-11-06T01:36:56.613331+00:00"
   }
 ]
