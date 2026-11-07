@@ -1,38 +1,5 @@
 [
   {
-    "id": 18395026,
-    "company_display": "Mastercard",
-    "title": "Global Markets Summer Internship 2027 - Product Management intern & Sales Analyst Intern - Dubai, UAE (UAE Nationals Preferred)",
-    "location": "Dubai, United Arab Emirates",
-    "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Dubai-United-Arab-Emirates/Global-Markets-Summer-Internship-2027---Product-Management-intern---Sales-Analyst-Intern---Dubai--UAE--UAE-Nationals-Preferred-_R-287598-1",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-10-06T07:10:32.156346+00:00",
-    "date_discovered": "2026-10-06T07:10:33.894050+00:00"
-  },
-  {
-    "id": 18395175,
-    "company_display": "Mastercard",
-    "title": "Global Markets Summer Internship 2027- Product Management Intern & Sales Analyst Intern - Riyadh, Saudi Arabia",
-    "location": "Riyadh, Saudi Arabia",
-    "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Riyadh-Saudi-Arabia/Global-Markets-Summer-Internship-2027--Product-Management-Intern---Sales-Analyst-Intern---Riyadh--Saudi-Arabia_R-292933-2",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-10-06T08:09:53.838550+00:00",
-    "date_discovered": "2026-10-06T08:10:10.633068+00:00"
-  },
-  {
-    "id": 18395442,
-    "company_display": "Amazon",
-    "title": "Program Manager Intern 6 Months - 2027",
-    "location": "Hamburg, DEU",
-    "url": "https://www.amazon.jobs/en/jobs/10570135/program-manager-intern-6-months-2027",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-10-06T09:14:09.642317+00:00"
-  },
-  {
     "id": 18400795,
     "company_display": "PwC",
     "title": "Risk Services - Program Management (AI Hub) Off-Cycle Internship (Jan - Jun 27)",
@@ -53,17 +20,6 @@
     "country": "international",
     "updated_at": "2026-10-07T07:10:11.320356+00:00",
     "date_discovered": "2026-10-07T07:10:57.496492+00:00"
-  },
-  {
-    "id": 18402729,
-    "company_display": "BNY Mellon",
-    "title": "2027 BNY Summer Internship Program - Product Management - Singapore",
-    "location": "Singapore",
-    "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/82920",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-10-07T00:00:00+00:00",
-    "date_discovered": "2026-10-07T13:09:52.212294+00:00"
   },
   {
     "id": 18405173,
@@ -814,17 +770,6 @@
     "date_discovered": "2026-10-26T21:10:06.090000+00:00"
   },
   {
-    "id": 18503976,
-    "company_display": "Visa",
-    "title": "Product Management Intern, Data and AI Team - Summer 2027",
-    "location": "US - Foster City, CA",
-    "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Product-Management-Intern--Data-and-AI-Team---Summer-2027_REF089881W-1",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-27T07:12:09.339984+00:00",
-    "date_discovered": "2026-10-27T07:12:21.895562+00:00"
-  },
-  {
     "id": 18506086,
     "company_display": "TE Connectivity",
     "title": "Product Manager Intern",
@@ -1155,17 +1100,6 @@
     "date_discovered": "2026-11-02T17:11:04.881616+00:00"
   },
   {
-    "id": 18537581,
-    "company_display": "IBM",
-    "title": "Confluent - Technical Program Manager - Intern Conversion",
-    "location": "Austin, USA",
-    "url": "https://careers.ibm.com/careers/JobDetail?jobId=138659",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-11-02T17:40:56.859416+00:00"
-  },
-  {
     "id": 18537693,
     "company_display": "Vrtx",
     "title": "Data, Technology and Engineering Industrial Placement Student (12 months)",
@@ -1351,5 +1285,82 @@
     "country": "us",
     "updated_at": "2026-11-06T01:31:57.607000+00:00",
     "date_discovered": "2026-11-06T01:36:56.613331+00:00"
+  },
+  {
+    "id": 18561185,
+    "company_display": "Analog Devices",
+    "title": "Associate PM, Project / Program Management (Admin)",
+    "location": "Philippines, Cavite, GTC",
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Philippines-Cavite-GTC/Associate-PM--Project---Program-Management--Admin-_R268476-1",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-11-06T08:10:04.461938+00:00",
+    "date_discovered": "2026-11-06T08:10:07.034953+00:00"
+  },
+  {
+    "id": 18562318,
+    "company_display": "BNY Mellon",
+    "title": "2027 BNY Analyst Program - Product Management - Dublin",
+    "location": "Dublin, Co. Dublin, Ireland",
+    "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/83688",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-11-06T00:00:00+00:00",
+    "date_discovered": "2026-11-06T13:41:09.746583+00:00"
+  },
+  {
+    "id": 18562642,
+    "company_display": "Matchgroup",
+    "title": "Technical Project Management Intern",
+    "location": "Los Angeles, California",
+    "url": "https://jobs.lever.co/matchgroup/107da1ee-5b8a-4a1b-9d75-5ba3d597116c",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-11-06T14:35:20.689833+00:00"
+  },
+  {
+    "id": 18563467,
+    "company_display": "Globalfoundries",
+    "title": "Program Management Intern, Silicon Photonics (Summer 2027)",
+    "location": "USA - New York - Malta",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Program-Management-Intern--Silicon-Photonics--Summer-2027-_JR-2605132",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-06T16:46:33.125221+00:00",
+    "date_discovered": "2026-11-06T16:46:35.755062+00:00"
+  },
+  {
+    "id": 18564899,
+    "company_display": "DocuSign",
+    "title": "Product Manager Intern",
+    "location": "San Francisco, California",
+    "url": "https://careers.docusign.com/jobs/30625?lang=en-us",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-06T18:30:00+00:00",
+    "date_discovered": "2026-11-06T20:45:58.437808+00:00"
+  },
+  {
+    "id": 18565323,
+    "company_display": "Salesforce",
+    "title": "Summer 2027 Intern - Product Management",
+    "location": "California - San Francisco; New York - New York",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Product-Management_JR367659-1",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-06T22:11:35.513607+00:00",
+    "date_discovered": "2026-11-06T22:12:14.078876+00:00"
+  },
+  {
+    "id": 18565739,
+    "company_display": "Zoox",
+    "title": "Program Manager, Infrastructure Operations Intern [Summer 2027]",
+    "location": "Foster City, CA",
+    "url": "https://jobs.lever.co/zoox/affbfa7d-30c5-4639-aa56-2ba138200bd8",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-11-06T23:35:26.982905+00:00"
   }
 ]
