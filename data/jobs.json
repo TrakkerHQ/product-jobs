@@ -1,27 +1,5 @@
 [
   {
-    "id": 18410889,
-    "company_display": "IBM",
-    "title": "Entry Level Product Manager 2027 - LOWELL",
-    "location": "LOWELL, USA",
-    "url": "https://careers.ibm.com/careers/JobDetail?jobId=134884",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-10-08T17:41:39.617208+00:00"
-  },
-  {
-    "id": 18410895,
-    "company_display": "IBM",
-    "title": "Product Manager Intern 2027 - Lowell",
-    "location": "LOWELL, USA",
-    "url": "https://careers.ibm.com/careers/JobDetail?jobId=132983",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-10-08T17:41:39.701621+00:00"
-  },
-  {
     "id": 18414714,
     "company_display": "Amazon",
     "title": "2027 Program Manager Intern, Amazon Operations",
@@ -86,17 +64,6 @@
     "country": "us",
     "updated_at": null,
     "date_discovered": "2026-10-09T20:39:11.104617+00:00"
-  },
-  {
-    "id": 18418333,
-    "company_display": "Vertiv",
-    "title": "Energy Storage Product Management Intern (Summer 2027)",
-    "location": "Delaware, OH, USA",
-    "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20279379",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-09T00:00:00+00:00",
-    "date_discovered": "2026-10-09T20:43:31.149554+00:00"
   },
   {
     "id": 18418791,
@@ -1023,28 +990,6 @@
     "date_discovered": "2026-10-30T22:40:55.371486+00:00"
   },
   {
-    "id": 18533294,
-    "company_display": "Visa",
-    "title": "Associate Product Manager Program",
-    "location": "SG - Singapore",
-    "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa_Early_Careers/job/SG---Singapore/Associate-Product-Manager-Program_REF089093W",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": "2026-11-01T16:46:31.447869+00:00",
-    "date_discovered": "2026-11-01T16:46:32.185707+00:00"
-  },
-  {
-    "id": 18535508,
-    "company_display": "Microsoft",
-    "title": "Explore Program Engineering Internship Opportunities: First-Year Students, Redmond",
-    "location": "USA, Washington, Redmond",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556925823",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-11-02T10:11:34.052110+00:00"
-  },
-  {
     "id": 18537441,
     "company_display": "T-Mobile",
     "title": "Summer 2027 Product Management Internship",
@@ -1109,17 +1054,6 @@
     "country": "international",
     "updated_at": "2026-11-03T20:56:00+00:00",
     "date_discovered": "2026-11-03T21:06:55.910743+00:00"
-  },
-  {
-    "id": 18545147,
-    "company_display": "Northrop Grumman",
-    "title": "2027 Program Management Intern - Northridge CA",
-    "location": "United States-California-Northridge",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Northridge/XMLNAME-2027-Program-Management-Intern---Northridge-CA_R10259102",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-11-03T21:08:23.644924+00:00",
-    "date_discovered": "2026-11-03T21:12:33.226803+00:00"
   },
   {
     "id": 18546671,
