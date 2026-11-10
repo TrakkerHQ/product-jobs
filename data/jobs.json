@@ -1,93 +1,5 @@
 [
   {
-    "id": 18414714,
-    "company_display": "Amazon",
-    "title": "2027 Program Manager Intern, Amazon Operations",
-    "location": "Cairo, EGY",
-    "url": "https://www.amazon.jobs/en/jobs/10574365/2027-program-manager-intern-amazon-operations",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-10-09T07:14:24.502170+00:00"
-  },
-  {
-    "id": 18414870,
-    "company_display": "Amazon",
-    "title": "2027 Program Manager Intern, Amazon Operations",
-    "location": "Riyadh, SAU",
-    "url": "https://www.amazon.jobs/en/jobs/10574393/2027-program-manager-intern-amazon-operations",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-10-09T08:14:18.818185+00:00"
-  },
-  {
-    "id": 18415959,
-    "company_display": "BorgWarner",
-    "title": "Program Management Intern",
-    "location": "Arden - North Carolina - USA",
-    "url": "https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Arden---North-Carolina---USA/Program-Management-Intern_R2026-4004",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-09T13:18:00.016059+00:00",
-    "date_discovered": "2026-10-09T13:18:00.603328+00:00"
-  },
-  {
-    "id": 18416159,
-    "company_display": "Zynga",
-    "title": "Product Manager Intern",
-    "location": "Barcelona, Spain",
-    "url": "https://job-boards.greenhouse.io/zyngacareers/jobs/6221172004",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-10-09T13:55:01+00:00",
-    "date_discovered": "2026-10-09T14:05:37.380846+00:00"
-  },
-  {
-    "id": 18417266,
-    "company_display": "IBM",
-    "title": "Product Management Intern 2027",
-    "location": "Yorktown Heights, USA",
-    "url": "https://careers.ibm.com/careers/JobDetail?jobId=136426",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-10-09T17:41:54.274030+00:00"
-  },
-  {
-    "id": 18418281,
-    "company_display": "Delta Air Lines",
-    "title": "Co-op, Operations Customer Center (OCC) Product Management (Spring 2027)",
-    "location": "USA, Georgia, Atlanta.",
-    "url": "https://delta.avature.net/en_US/careers/JobDetail/Co-op-Operations-Customer-Center-OCC-Product-Management-Spring-2027/34717?jobId=34717",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-10-09T20:39:11.104617+00:00"
-  },
-  {
-    "id": 18418791,
-    "company_display": "Amazon",
-    "title": "Program Manager Intern \u2013 Summer 2027",
-    "location": "Seattle, Washington, USA",
-    "url": "https://www.amazon.jobs/en/jobs/10575248/program-manager-intern-summer-2027",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-10-09T21:49:30.906083+00:00"
-  },
-  {
-    "id": 18419457,
-    "company_display": "DocuSign",
-    "title": "Program Manager Intern",
-    "location": "Seattle, Washington",
-    "url": "https://careers.docusign.com/jobs/30507?lang=en-us",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-09T18:12:00+00:00",
-    "date_discovered": "2026-10-10T00:15:07.124733+00:00"
-  },
-  {
     "id": 18420937,
     "company_display": "Plexus",
     "title": "Intern - Program management",
@@ -792,17 +704,6 @@
     "date_discovered": "2026-10-28T20:46:25.330195+00:00"
   },
   {
-    "id": 18515383,
-    "company_display": "T-Mobile",
-    "title": "Summer 2027 Associate Technical Product Manager Internship",
-    "location": "Frisco, Texas",
-    "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Frisco-Texas/Summer-2027-Associate-Technical-Product-Manager-Internship_REQ380499",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-28T22:07:43.738206+00:00",
-    "date_discovered": "2026-10-28T22:10:34.463968+00:00"
-  },
-  {
     "id": 18517356,
     "company_display": "Google",
     "title": "Associate Product Manager, University Graduate, 2027 Start",
@@ -990,17 +891,6 @@
     "date_discovered": "2026-10-30T22:40:55.371486+00:00"
   },
   {
-    "id": 18537441,
-    "company_display": "T-Mobile",
-    "title": "Summer 2027 Product Management Internship",
-    "location": "Philadelphia, Pennsylvania",
-    "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Philadelphia-Pennsylvania/Summer-2027-Product-Management-Internship_REQ380735",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-11-02T17:11:02.714518+00:00",
-    "date_discovered": "2026-11-02T17:11:04.881616+00:00"
-  },
-  {
     "id": 18537693,
     "company_display": "Vrtx",
     "title": "Data, Technology and Engineering Industrial Placement Student (12 months)",
@@ -1065,17 +955,6 @@
     "country": "us",
     "updated_at": null,
     "date_discovered": "2026-11-04T02:10:40.042270+00:00"
-  },
-  {
-    "id": 18546672,
-    "company_display": "L3Harris",
-    "title": "Associate, Program Management",
-    "location": "Salt Lake City, UT",
-    "url": "https://careers.l3harris.com/en/job/salt-lake-city/associate-program-management/4832/102832368800",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-11-04T02:10:47.795244+00:00"
   },
   {
     "id": 18547558,
@@ -1252,5 +1131,60 @@
     "country": "us",
     "updated_at": null,
     "date_discovered": "2026-11-06T23:35:26.982905+00:00"
+  },
+  {
+    "id": 18571891,
+    "company_display": "Moodys",
+    "title": "Cyber Product Management & Product Marketing Summer Intern",
+    "location": "London, England",
+    "url": "https://careers.moodys.com/en/job/london/cyber-product-management-and-product-marketing-summer-intern/49841/103053469968",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-11-09T02:38:22.078253+00:00"
+  },
+  {
+    "id": 18572892,
+    "company_display": "ICEYE",
+    "title": "ICEYE Intern Lab: Product Management",
+    "location": "Espoo",
+    "url": "https://jobs.ashbyhq.com/iceye/de5a67b2-af22-41a1-b615-32213e65160c",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-11-09T08:37:02.713000+00:00",
+    "date_discovered": "2026-11-09T09:01:26.904015+00:00"
+  },
+  {
+    "id": 18574150,
+    "company_display": "Analog Devices",
+    "title": "Associate PM, Project / Program Management (Admin)",
+    "location": "Philippines, Cavite (jp)",
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Philippines-Cavite-jp/Coordinator--Administrative-Support_R264114",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-11-09T14:16:49.699902+00:00",
+    "date_discovered": "2026-11-09T14:16:56.472085+00:00"
+  },
+  {
+    "id": 18574883,
+    "company_display": "Constellation-Brands",
+    "title": "Intern, IT - Marketing Technology Product Management",
+    "location": "Rochester, New York; Chicago, Illinois",
+    "url": "https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--IT---Marketing-Technology-Product-Management_R-41678",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-09T16:22:16.700951+00:00",
+    "date_discovered": "2026-11-09T16:22:17.207729+00:00"
+  },
+  {
+    "id": 18575038,
+    "company_display": "Warner Bros. Discovery",
+    "title": "WB Games Product Management Co-op: Needham, MA - January-May 2027",
+    "location": "MA Needham 117 Kendrick St",
+    "url": "https://warnerbros.wd5.myworkdayjobs.com/en-US/global/job/MA-Needham-117-Kendrick-St/WB-Games-Product-Management-Co-op--Needham--MA---January-May-2027_R000109850",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-09T16:49:37.204535+00:00",
+    "date_discovered": "2026-11-09T16:49:42.540921+00:00"
   }
 ]
