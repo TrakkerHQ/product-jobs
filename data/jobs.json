@@ -1,16 +1,5 @@
 [
   {
-    "id": 18420937,
-    "company_display": "Plexus",
-    "title": "Intern - Program management",
-    "location": "Guadalajara, Mexico",
-    "url": "https://jobs.plexus.com/careers/job/1099556496582",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-10-10T09:11:45.923055+00:00"
-  },
-  {
     "id": 18424671,
     "company_display": "Lockheed Martin",
     "title": "College Internship - Systems",
@@ -792,17 +781,6 @@
     "date_discovered": "2026-10-29T21:48:07.121338+00:00"
   },
   {
-    "id": 18522429,
-    "company_display": "BAE Systems",
-    "title": "Program Management Intern III (Summer 2027) - Wayne, NJ",
-    "location": "Wayne, New Jersey, USA",
-    "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25771&siteid=5403&jobid=306081",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-30T00:02:43.408000+00:00",
-    "date_discovered": "2026-10-30T00:19:15.808943+00:00"
-  },
-  {
     "id": 18526307,
     "company_display": "Amgen",
     "title": "Undergrad Intern \u2013 Global Program Management (Summer 2027)",
@@ -1089,17 +1067,6 @@
     "date_discovered": "2026-11-06T14:35:20.689833+00:00"
   },
   {
-    "id": 18563467,
-    "company_display": "Globalfoundries",
-    "title": "Program Management Intern, Silicon Photonics (Summer 2027)",
-    "location": "USA - New York - Malta",
-    "url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Program-Management-Intern--Silicon-Photonics--Summer-2027-_JR-2605132",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-11-06T16:46:33.125221+00:00",
-    "date_discovered": "2026-11-06T16:46:35.755062+00:00"
-  },
-  {
     "id": 18564899,
     "company_display": "DocuSign",
     "title": "Product Manager Intern",
@@ -1186,5 +1153,71 @@
     "country": "us",
     "updated_at": "2026-11-09T16:49:37.204535+00:00",
     "date_discovered": "2026-11-09T16:49:42.540921+00:00"
+  },
+  {
+    "id": 18581043,
+    "company_display": "Microsoft",
+    "title": "Business Program Management INTERN",
+    "location": "Germany, Multiple Locations",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557041294",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-11-10T15:46:42.254630+00:00"
+  },
+  {
+    "id": 18581983,
+    "company_display": "Salesforce",
+    "title": "AI Labs Rotational Fellowship, Emerging Talent",
+    "location": "California - San Francisco; Washington - Seattle; New York - New York",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/Futureforce_NewGradRoles/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR367643",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-11-10T18:41:04.459552+00:00",
+    "date_discovered": "2026-11-10T18:41:19.178112+00:00"
+  },
+  {
+    "id": 18582097,
+    "company_display": "Disney",
+    "title": "Product Management Intern, Summer 2027",
+    "location": "Glendale, California, USA",
+    "url": "https://join.disneycareers.com/global/en/job/10163693",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-10T18:24:08+00:00",
+    "date_discovered": "2026-11-10T18:49:51.831304+00:00"
+  },
+  {
+    "id": 18582458,
+    "company_display": "Rubrik",
+    "title": "Product Management Intern (RCV), Summer 2027",
+    "location": "Palo Alto, CA",
+    "url": "https://www.rubrik.com/company/careers/departments/job.8350601?gh_jid=8350601",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-10T19:48:39+00:00",
+    "date_discovered": "2026-11-10T20:05:32.722604+00:00"
+  },
+  {
+    "id": 18583171,
+    "company_display": "PACCAR",
+    "title": "2027 Summer Internship: Program Management",
+    "location": "Denton",
+    "url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Program-Management-TX-76205-7864/1456235433/",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-11-10T22:12:37.285996+00:00"
+  },
+  {
+    "id": 18583790,
+    "company_display": "Constellation-Brands",
+    "title": "Intern, Digital Manufacturing Technology",
+    "location": "San Antonio, Texas; Rochester, New York",
+    "url": "https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/San-Antonio-Texas/Intern--Digital-Manufacturing-Technology_R-41681",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-10T23:50:07.634036+00:00",
+    "date_discovered": "2026-11-10T23:50:08.040035+00:00"
   }
 ]
