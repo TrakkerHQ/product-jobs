@@ -1,16 +1,5 @@
 [
   {
-    "id": 18424671,
-    "company_display": "Lockheed Martin",
-    "title": "College Internship - Systems",
-    "location": "Sunnyvale, CA",
-    "url": "https://lockheedmartin.eightfold.ai/careers/job/996476472106",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-10-11T18:49:21.626754+00:00"
-  },
-  {
     "id": 18429490,
     "company_display": "Apple",
     "title": "Manufacturing Design Program Manager - Intern",
@@ -781,6 +770,17 @@
     "date_discovered": "2026-10-29T21:48:07.121338+00:00"
   },
   {
+    "id": 18522429,
+    "company_display": "BAE Systems",
+    "title": "Program Management Intern III (Summer 2027) - Wayne, NJ",
+    "location": "Wayne, New Jersey, USA",
+    "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25771&siteid=5403&jobid=306081",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-30T00:02:43.408000+00:00",
+    "date_discovered": "2026-10-30T00:19:15.808943+00:00"
+  },
+  {
     "id": 18526307,
     "company_display": "Amgen",
     "title": "Undergrad Intern \u2013 Global Program Management (Summer 2027)",
@@ -1122,17 +1122,6 @@
     "date_discovered": "2026-11-09T09:01:26.904015+00:00"
   },
   {
-    "id": 18574150,
-    "company_display": "Analog Devices",
-    "title": "Associate PM, Project / Program Management (Admin)",
-    "location": "Philippines, Cavite (jp)",
-    "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Philippines-Cavite-jp/Coordinator--Administrative-Support_R264114",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": "2026-11-09T14:16:49.699902+00:00",
-    "date_discovered": "2026-11-09T14:16:56.472085+00:00"
-  },
-  {
     "id": 18574883,
     "company_display": "Constellation-Brands",
     "title": "Intern, IT - Marketing Technology Product Management",
@@ -1164,17 +1153,6 @@
     "country": "international",
     "updated_at": null,
     "date_discovered": "2026-11-10T15:46:42.254630+00:00"
-  },
-  {
-    "id": 18581983,
-    "company_display": "Salesforce",
-    "title": "AI Labs Rotational Fellowship, Emerging Talent",
-    "location": "California - San Francisco; Washington - Seattle; New York - New York",
-    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/Futureforce_NewGradRoles/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR367643",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": "2026-11-10T18:41:04.459552+00:00",
-    "date_discovered": "2026-11-10T18:41:19.178112+00:00"
   },
   {
     "id": 18582097,
@@ -1219,5 +1197,49 @@
     "country": "us",
     "updated_at": "2026-11-10T23:50:07.634036+00:00",
     "date_discovered": "2026-11-10T23:50:08.040035+00:00"
+  },
+  {
+    "id": 18586079,
+    "company_display": "Celestica",
+    "title": "Internship - Program Management 1",
+    "location": "Valencia",
+    "url": "https://careers.celestica.com/job/Valencia-Internship-Program-Management-1-V/1456361033/",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-11-11T10:08:49.584194+00:00"
+  },
+  {
+    "id": 18586236,
+    "company_display": "NVIDIA",
+    "title": "Technical Program Manager, Deep Learning Enterprise Server Software (RDSS Intern)",
+    "location": "Taiwan, Taipei",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Technical-Program-Manager--Deep-Learning-Enterprise-Server-Software--RDSS-Intern-_JR2029595",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-11-11T11:04:21.682601+00:00",
+    "date_discovered": "2026-11-11T11:06:41.471954+00:00"
+  },
+  {
+    "id": 18589191,
+    "company_display": "Microsoft",
+    "title": "Business Program Management Internship Opportunities",
+    "location": "Ireland, Dublin",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557070380",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-11-11T20:46:17.600404+00:00"
+  },
+  {
+    "id": 18589270,
+    "company_display": "Rubrik",
+    "title": "Product Management Intern (MSP), Summer 2027",
+    "location": "Palo Alto, CA",
+    "url": "https://www.rubrik.com/company/careers/departments/job.8346967?gh_jid=8346967",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-11T20:39:28+00:00",
+    "date_discovered": "2026-11-11T21:05:38.318116+00:00"
   }
 ]
