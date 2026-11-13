@@ -1,27 +1,5 @@
 [
   {
-    "id": 18429490,
-    "company_display": "Apple",
-    "title": "Manufacturing Design Program Manager - Intern",
-    "location": "China",
-    "url": "https://jobs.apple.com/en-us/details/200686080/manufacturing-design-program-manager-intern?team=OPMFG",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-10-12T19:10:49.779000+00:00",
-    "date_discovered": "2026-10-12T19:37:58.774304+00:00"
-  },
-  {
-    "id": 18429801,
-    "company_display": "Watts Water Technologies",
-    "title": "Product Management Co-op, Jan-June 2027",
-    "location": "Menomonee Falls, WI",
-    "url": "https://wattswater.wd5.myworkdayjobs.com/en-US/Intern-External/job/Menomonee-Falls-WI/Product-Management-Co-op--Jan-June-2027_10017702",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-12T20:20:23.879058+00:00",
-    "date_discovered": "2026-10-12T20:20:24.765391+00:00"
-  },
-  {
     "id": 18432519,
     "company_display": "Resmed",
     "title": "Graduate Product Manager",
@@ -990,17 +968,6 @@
     "date_discovered": "2026-11-05T08:09:35.629338+00:00"
   },
   {
-    "id": 18556481,
-    "company_display": "S&P Global",
-    "title": "Summer Intern, Product Management",
-    "location": "New York, NY",
-    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Summer-Intern--Product-Management_332679-1",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-11-05T15:48:54.585675+00:00",
-    "date_discovered": "2026-11-05T15:48:55.595355+00:00"
-  },
-  {
     "id": 18558289,
     "company_display": "Raytheon",
     "title": "Stage- Gestion des Programmes Moteurs \u2013 Introduction de Nouveau produit / Internship- Operations Program Management \u2013 New Product Introduction",
@@ -1155,6 +1122,17 @@
     "date_discovered": "2026-11-10T15:46:42.254630+00:00"
   },
   {
+    "id": 18581983,
+    "company_display": "Salesforce",
+    "title": "AI Labs Rotational Fellowship, Emerging Talent",
+    "location": "California - San Francisco; Washington - Seattle; New York - New York",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/Futureforce_NewGradRoles/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR367643",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-11-10T18:41:04.459552+00:00",
+    "date_discovered": "2026-11-10T18:41:19.178112+00:00"
+  },
+  {
     "id": 18582097,
     "company_display": "Disney",
     "title": "Product Management Intern, Summer 2027",
@@ -1241,5 +1219,38 @@
     "country": "us",
     "updated_at": "2026-11-11T20:39:28+00:00",
     "date_discovered": "2026-11-11T21:05:38.318116+00:00"
+  },
+  {
+    "id": 18594259,
+    "company_display": "Micron",
+    "title": "Intern - AI Product Management",
+    "location": "Fab 10A, Singapore",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Fab-10A-Singapore/Intern---AI-Product-Management_JR112782",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-11-12T16:07:22.094396+00:00",
+    "date_discovered": "2026-11-12T16:11:58.748554+00:00"
+  },
+  {
+    "id": 18595073,
+    "company_display": "Entegris",
+    "title": "Product Management Intern",
+    "location": "Rockrimmon, Colorado Springs, CO",
+    "url": "https://entegris.wd1.myworkdayjobs.com/en-US/EntegrisCareers/job/Rockrimmon-Colorado-Springs-CO/Product-Management-Intern_REQ-15838",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-12T18:18:47.195821+00:00",
+    "date_discovered": "2026-11-12T18:18:47.664626+00:00"
+  },
+  {
+    "id": 18597326,
+    "company_display": "Micron",
+    "title": "Intern \u2013 Engineering Program Management",
+    "location": "Fab 10A, Singapore",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Fab-10A-Singapore/Intern---Engineering-Program-Management_JR116075",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-11-13T01:07:07.996845+00:00",
+    "date_discovered": "2026-11-13T01:10:34.201085+00:00"
   }
 ]
