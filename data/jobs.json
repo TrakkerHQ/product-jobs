@@ -1,38 +1,5 @@
 [
   {
-    "id": 18432519,
-    "company_display": "Resmed",
-    "title": "Graduate Product Manager",
-    "location": "Sydney, NSW, Australia",
-    "url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/Sydney-NSW-Australia/Graduate-Product-Manager_JR_054511-1",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": "2026-10-13T07:13:17.797162+00:00",
-    "date_discovered": "2026-10-13T07:13:19.274512+00:00"
-  },
-  {
-    "id": 18432894,
-    "company_display": "TikTok",
-    "title": "Listing Governance Program Manager Graduate (TikTok Shop - Governance & Experience) - 2027 Start",
-    "location": "Seattle, Washington",
-    "url": "https://lifeattiktok.com/search/7693569931690182965",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-10-13T10:05:10.851070+00:00"
-  },
-  {
-    "id": 18435553,
-    "company_display": "Prologis",
-    "title": "AI Product Management Intern",
-    "location": "Denver, Colorado",
-    "url": "https://prologis.wd5.myworkdayjobs.com/en-US/Prologis_External_Careers/job/Denver-Colorado/AI-Product-Management-Intern_R6840",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-13T18:20:54.527159+00:00",
-    "date_discovered": "2026-10-13T18:20:55.632010+00:00"
-  },
-  {
     "id": 18439067,
     "company_display": "Analog Devices",
     "title": "Associate PM, Project / Program Management (Admin)",
@@ -53,17 +20,6 @@
     "country": "international",
     "updated_at": "2026-10-14T08:07:24.696064+00:00",
     "date_discovered": "2026-10-14T08:08:40.364850+00:00"
-  },
-  {
-    "id": 18439787,
-    "company_display": "BNY Mellon",
-    "title": "2027 BNY Summer Internship Program - Product Management (Manchester)",
-    "location": "Greater Manchester, United Kingdom",
-    "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/83098",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-10-14T00:00:00+00:00",
-    "date_discovered": "2026-10-14T11:40:29.214966+00:00"
   },
   {
     "id": 18441278,
@@ -968,17 +924,6 @@
     "date_discovered": "2026-11-05T08:09:35.629338+00:00"
   },
   {
-    "id": 18558289,
-    "company_display": "Raytheon",
-    "title": "Stage- Gestion des Programmes Moteurs \u2013 Introduction de Nouveau produit / Internship- Operations Program Management \u2013 New Product Introduction",
-    "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage--Gestion-des-Programmes-Moteurs---Introduction-de-Nouveau-produit----Internship---Operations-Program-Management---New-Product-Introduction_01887628",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-11-05T21:09:47.199021+00:00",
-    "date_discovered": "2026-11-05T21:14:09.849254+00:00"
-  },
-  {
     "id": 18559205,
     "company_display": "Invesco",
     "title": "Early Career Intern - Digital Product Management",
@@ -1252,5 +1197,60 @@
     "country": "international",
     "updated_at": "2026-11-13T01:07:07.996845+00:00",
     "date_discovered": "2026-11-13T01:10:34.201085+00:00"
+  },
+  {
+    "id": 18599886,
+    "company_display": "Medtronic",
+    "title": "SFDC Program Management and Deployment Associate (Temporary)",
+    "location": "Prague, Hlavni Mesto Praha, Czech Republic",
+    "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Prague-Hlavni-MestoPraha-Czech-Republic/SFDC-Program-Management-and-Deployment--Temporary-_R81571-1",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-11-13T13:15:01.851006+00:00",
+    "date_discovered": "2026-11-13T13:15:40.490061+00:00"
+  },
+  {
+    "id": 18600494,
+    "company_display": "Entegris",
+    "title": "Associate Product Manager Intern",
+    "location": "Chaska, MN",
+    "url": "https://entegris.wd1.myworkdayjobs.com/en-US/EntegrisCareers/job/Chaska-MN/Associate-Product-Manager-Intern_REQ-15844",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-13T14:47:00.500284+00:00",
+    "date_discovered": "2026-11-13T14:47:02.542873+00:00"
+  },
+  {
+    "id": 18601839,
+    "company_display": "Netapp",
+    "title": "Intern - Product Manager",
+    "location": "San Jose, CA, USA Office (SANJOSE)",
+    "url": "https://netapp.eightfold.ai/careers/job/45500454",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-11-13T18:41:57.653335+00:00"
+  },
+  {
+    "id": 18602791,
+    "company_display": "Celestica",
+    "title": "Engineer, Program/Project Mgmt - Graduate Development Program",
+    "location": "San Jose, CA",
+    "url": "https://careers.celestica.com/job/San-Jose-Engineer%2C-ProgramProject-Mgmt-Graduate-Development-Program-CA-95101/1457353633/",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-11-13T21:13:35.325855+00:00"
+  },
+  {
+    "id": 18602909,
+    "company_display": "Trane-Technologies",
+    "title": "Product Management Engineering Co-op",
+    "location": "Grand Rapids, Michigan, USA",
+    "url": "https://tranetechnologies.wd12.myworkdayjobs.com/Trane_Technologies_Careers/job/Grand-Rapids-Michigan/Product-Management-Engineering-Co-op_JR-10435/apply",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-13T00:00:00+00:00",
+    "date_discovered": "2026-11-13T21:20:09.803943+00:00"
   }
 ]
