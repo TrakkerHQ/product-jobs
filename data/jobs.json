@@ -1,38 +1,5 @@
 [
   {
-    "id": 18452435,
-    "company_display": "Amazon",
-    "title": "Program Manager Intern",
-    "location": "SGP",
-    "url": "https://www.amazon.jobs/en/jobs/10563245/program-manager-intern",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-10-16T11:14:16.842597+00:00"
-  },
-  {
-    "id": 18454730,
-    "company_display": "Salesforce",
-    "title": "AI Labs Rotational Fellowship, Emerging Talent",
-    "location": "California - San Francisco; Washington - Seattle; New York - New York",
-    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR363678-1",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": "2026-10-16T18:43:19.013414+00:00",
-    "date_discovered": "2026-10-16T18:43:46.604250+00:00"
-  },
-  {
-    "id": 18455031,
-    "company_display": "Rivian",
-    "title": "Engineering Intern - Technical Program Management (Spring 2027 Co-op)",
-    "location": "Palo Alto, California",
-    "url": "https://us-careers-rivian.icims.com/jobs/34505/login",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-16T19:29:00+00:00",
-    "date_discovered": "2026-10-16T19:41:44.634081+00:00"
-  },
-  {
     "id": 18464817,
     "company_display": "Genmab",
     "title": "Program Management Intern",
@@ -968,17 +935,6 @@
     "date_discovered": "2026-11-09T16:22:17.207729+00:00"
   },
   {
-    "id": 18575038,
-    "company_display": "Warner Bros. Discovery",
-    "title": "WB Games Product Management Co-op: Needham, MA - January-May 2027",
-    "location": "MA Needham 117 Kendrick St",
-    "url": "https://warnerbros.wd5.myworkdayjobs.com/en-US/global/job/MA-Needham-117-Kendrick-St/WB-Games-Product-Management-Co-op--Needham--MA---January-May-2027_R000109850",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-11-09T16:49:37.204535+00:00",
-    "date_discovered": "2026-11-09T16:49:42.540921+00:00"
-  },
-  {
     "id": 18581043,
     "company_display": "Microsoft",
     "title": "Business Program Management INTERN",
@@ -1175,5 +1131,71 @@
     "country": "us",
     "updated_at": "2026-11-13T00:00:00+00:00",
     "date_discovered": "2026-11-13T21:20:09.803943+00:00"
+  },
+  {
+    "id": 18611105,
+    "company_display": "ByteDance",
+    "title": "Product Management - Project Intern (Global Payment) - 2027 Start",
+    "location": "Singapore",
+    "url": "https://joinbytedance.com/search/7707210472493140229",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-11-16T10:08:40.562341+00:00"
+  },
+  {
+    "id": 18613037,
+    "company_display": "Workato",
+    "title": "Intern, Product Management",
+    "location": "Singapore",
+    "url": "https://www.workato.com/careers?gh_jid=8938828002#open-roles",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-11-16T17:39:53+00:00",
+    "date_discovered": "2026-11-16T18:06:17.314734+00:00"
+  },
+  {
+    "id": 18614905,
+    "company_display": "Anduril",
+    "title": "2027 Mission Operations Engineer Intern",
+    "location": "Honolulu, Hawaii, United States; Washington, District of Columbia, USA",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5297134007?gh_jid=5297134007",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-16T23:37:28+00:00",
+    "date_discovered": "2026-11-17T00:08:17.299591+00:00"
+  },
+  {
+    "id": 18615812,
+    "company_display": "T-Mobile",
+    "title": "Summer 2027 Assoc Program Manager Internship",
+    "location": "Overland Park, Kansas",
+    "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Overland-Park-Kansas/Summer-2027-Assoc-Program-Manager-Internship_REQ381566",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-17T02:50:38.597245+00:00",
+    "date_discovered": "2026-11-17T02:53:08.042505+00:00"
+  },
+  {
+    "id": 18616161,
+    "company_display": "Workday",
+    "title": "Intern, UI/UX Product Manager",
+    "location": "Costa Rica",
+    "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Costa-Rica/Intern--UI-UX-Product-Manager_JR-0111665",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-11-17T03:01:16.938924+00:00",
+    "date_discovered": "2026-11-17T03:04:56.021753+00:00"
+  },
+  {
+    "id": 18616433,
+    "company_display": "Samsung",
+    "title": "Technical Product Management Intern ( D2C Shopping Experiences (Mobile & Consumer Electronics)",
+    "location": "645 Clyde Avenue, Mountain View, CA, USA",
+    "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/645-Clyde-Avenue-Mountain-View-CA-USA/Technical-Product-Management-Intern---D2C-Shopping-Experiences--Mobile---Consumer-Electronics-_R122020",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-17T03:58:55.471748+00:00",
+    "date_discovered": "2026-11-17T03:58:57.218726+00:00"
   }
 ]
