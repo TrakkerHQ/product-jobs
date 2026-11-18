@@ -880,17 +880,6 @@
     "date_discovered": "2026-11-06T20:45:58.437808+00:00"
   },
   {
-    "id": 18565323,
-    "company_display": "Salesforce",
-    "title": "Summer 2027 Intern - Product Management",
-    "location": "California - San Francisco; New York - New York",
-    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Product-Management_JR367659-1",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-11-06T22:11:35.513607+00:00",
-    "date_discovered": "2026-11-06T22:12:14.078876+00:00"
-  },
-  {
     "id": 18565739,
     "company_display": "Zoox",
     "title": "Program Manager, Infrastructure Operations Intern [Summer 2027]",
@@ -1197,5 +1186,49 @@
     "country": "us",
     "updated_at": "2026-11-17T03:58:55.471748+00:00",
     "date_discovered": "2026-11-17T03:58:57.218726+00:00"
+  },
+  {
+    "id": 18617442,
+    "company_display": "GE Vernova",
+    "title": "Digital Technology Development Program (DTDP) Hungary \u2013 2027",
+    "location": "Budapest HU 26",
+    "url": "https://gevernova.wd5.myworkdayjobs.com/en-US/Vernova_ExternalSite/job/Budapest-HU-26/Digital-Technology-Development-Program--DTDP--Hungary---2027_R5059004-2",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-11-17T11:01:29.354495+00:00",
+    "date_discovered": "2026-11-17T11:03:35.807394+00:00"
+  },
+  {
+    "id": 18618076,
+    "company_display": "Hp",
+    "title": "Software & AI Product Management Intern",
+    "location": "Sant Cugat del Valles, Barcelona, Spain",
+    "url": "https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Software---AI-Product-Management-Intern_UNI4781-1",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-11-17T13:17:11.230780+00:00",
+    "date_discovered": "2026-11-17T13:17:14.710163+00:00"
+  },
+  {
+    "id": 18620775,
+    "company_display": "Amgen",
+    "title": "Undergrad Intern \u2013 R&D EOS | Global Program Management (Summer 2027)",
+    "location": "Washington D.C., DC",
+    "url": "https://careers.amgen.com/en/job/washington-d-c/undergrad-intern-r-and-d-eos-global-program-management-summer-2027/87/103438871152",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-11-17T21:38:40.960764+00:00"
+  },
+  {
+    "id": 18622317,
+    "company_display": "Zf",
+    "title": "Internship Product Management Digitalization (m/w/d)",
+    "location": "Antwerpen",
+    "url": "https://jobs.zf.com/job/Antwerpen-Internship-Product-Management-Digitalization-%28mwd%29-Antw-2600/1458245833/",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-11-18T02:43:07.492538+00:00"
   }
 ]
