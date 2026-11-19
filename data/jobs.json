@@ -1,16 +1,5 @@
 [
   {
-    "id": 18464817,
-    "company_display": "Genmab",
-    "title": "Program Management Intern",
-    "location": "Princeton, New Jersey, USA",
-    "url": "https://genmab.wd3.myworkdayjobs.com/Genmab_Careers_Site/job/Princeton-NJ/Program-Management-Intern_R18172/apply",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-19T00:00:00+00:00",
-    "date_discovered": "2026-10-19T16:18:05.864212+00:00"
-  },
-  {
     "id": 18465889,
     "company_display": "PACCAR",
     "title": "Summer 2027 - Program Management Intern",
@@ -946,17 +935,6 @@
     "date_discovered": "2026-11-10T18:41:19.178112+00:00"
   },
   {
-    "id": 18582097,
-    "company_display": "Disney",
-    "title": "Product Management Intern, Summer 2027",
-    "location": "Glendale, California, USA",
-    "url": "https://join.disneycareers.com/global/en/job/10163693",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-11-10T18:24:08+00:00",
-    "date_discovered": "2026-11-10T18:49:51.831304+00:00"
-  },
-  {
     "id": 18582458,
     "company_display": "Rubrik",
     "title": "Product Management Intern (RCV), Summer 2027",
@@ -1230,5 +1208,49 @@
     "country": "international",
     "updated_at": null,
     "date_discovered": "2026-11-18T02:43:07.492538+00:00"
+  },
+  {
+    "id": 18625155,
+    "company_display": "Johnson & Johnson",
+    "title": "Technology 2027 Spring Co-Op",
+    "location": "New Brunswick, New Jersey, United States of America; Spring House, Pennsylvania, United States of America; Titusville, United States of America; Shepherdsville, Kentucky, United States of America; Irvine, California, USA",
+    "url": "https://jj.wd5.myworkdayjobs.com/en-US/jj/job/New-Brunswick-New-Jersey-United-States-of-America/Technology-2027-Spring-Co-Op_R-111973",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-18T15:14:35.856974+00:00",
+    "date_discovered": "2026-11-18T15:14:42.797728+00:00"
+  },
+  {
+    "id": 18625887,
+    "company_display": "CrowdStrike",
+    "title": "Product Engineering Intern - Falcon Guardian",
+    "location": "USA - Sunnyvale, CA; USA - Redmond, WA",
+    "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/Product-Engineering-Intern---Falcon-Guardian_R30622",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-18T17:17:46.386429+00:00",
+    "date_discovered": "2026-11-18T17:17:46.892877+00:00"
+  },
+  {
+    "id": 18628071,
+    "company_display": "Lucid-Software",
+    "title": "Product Management Internship - Summer 2027",
+    "location": "Raleigh, NC",
+    "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/6239818004",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-18T23:36:36+00:00",
+    "date_discovered": "2026-11-19T00:06:30.554566+00:00"
+  },
+  {
+    "id": 18628072,
+    "company_display": "Lucid-Software",
+    "title": "Product Management Internship - Summer 2027",
+    "location": "Salt Lake City, UT",
+    "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/6239814004",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-18T23:36:38+00:00",
+    "date_discovered": "2026-11-19T00:06:30.573489+00:00"
   }
 ]
