@@ -1,38 +1,5 @@
 [
   {
-    "id": 18468340,
-    "company_display": "TikTok",
-    "title": "Product Manager Graduate (TikTok LIVE - Platform Trust And Ecosystem) - 2027 Start",
-    "location": "Singapore",
-    "url": "https://lifeattiktok.com/search/7698596156860139829",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-10-20T05:04:55.667218+00:00"
-  },
-  {
-    "id": 18470530,
-    "company_display": "Zebra",
-    "title": "2027 Summer Internship (US) - Supplies & Sensors Product Manager",
-    "location": "Lincolnshire, Illinois",
-    "url": "https://zebra.wd501.myworkdayjobs.com/en-US/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Supplies---Sensors-Product-Manager_JR103640",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-20T14:49:26.652581+00:00",
-    "date_discovered": "2026-10-20T14:49:27.709848+00:00"
-  },
-  {
-    "id": 18472978,
-    "company_display": "Aptiv",
-    "title": "Product Analyst Intern",
-    "location": "USA San Diego, CA - WR",
-    "url": "https://aptiv.wd5.myworkdayjobs.com/en-US/APTIV_CAREERS/job/USA-San-Diego-CA---WR/Product-Analyst-Intern_J000704400",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-20T22:47:25.794621+00:00",
-    "date_discovered": "2026-10-20T22:47:27.042409+00:00"
-  },
-  {
     "id": 18475048,
     "company_display": "Apple",
     "title": "MDS TPM Intern - Data",
@@ -1199,17 +1166,6 @@
     "date_discovered": "2026-11-19T14:09:57.279774+00:00"
   },
   {
-    "id": 18633297,
-    "company_display": "Centene",
-    "title": "Technology Summer 2027 Intern (Undergraduate)",
-    "location": "Remote-FL",
-    "url": "https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-FL/Centene-2027-Undergraduate-Summer-Intern_1660476",
-    "skill_level": "intern",
-    "country": "remote",
-    "updated_at": "2026-11-19T19:47:45.618663+00:00",
-    "date_discovered": "2026-11-19T19:47:46.049209+00:00"
-  },
-  {
     "id": 18633604,
     "company_display": "Hpe",
     "title": "Product Line Manager Intern \u2013 Photonics & Optical Networking",
@@ -1241,5 +1197,93 @@
     "country": "us",
     "updated_at": "2026-11-20T01:37:15.190124+00:00",
     "date_discovered": "2026-11-20T01:43:19.285844+00:00"
+  },
+  {
+    "id": 18636543,
+    "company_display": "State Street",
+    "title": "State Street Product Team - Data Intelligence - 2027 Summer Internship",
+    "location": "Cambridge, Massachusetts, USA",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Cambridge-Massachusetts/State-Street-Product-Team---Data-Intelligence---2027-Summer-Internship_R-801340/apply",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-20T00:00:00+00:00",
+    "date_discovered": "2026-11-20T07:08:11.686109+00:00"
+  },
+  {
+    "id": 18638124,
+    "company_display": "ServiceNow",
+    "title": "Outbound Product Manager Intern",
+    "location": "Dublin, Ireland",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000162748649-outbound-product-manager-intern",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-11-20T14:29:37.719000+00:00",
+    "date_discovered": "2026-11-20T14:36:26.361967+00:00"
+  },
+  {
+    "id": 18638720,
+    "company_display": "Samsung",
+    "title": "Product Management Tools and Automation Intern",
+    "location": "6555 Excellence Way, Plano, TX, USA",
+    "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/Product-Management-Tools-and-Automation-Intern_R122022",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-20T15:46:50.132041+00:00",
+    "date_discovered": "2026-11-20T15:46:53.349381+00:00"
+  },
+  {
+    "id": 18640093,
+    "company_display": "Method-Design",
+    "title": "Residency Internship Program - Product Management",
+    "location": "Mexico",
+    "url": "https://job-boards.greenhouse.io/method/jobs/8207619003",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-11-20T19:24:19+00:00",
+    "date_discovered": "2026-11-20T19:36:49.510387+00:00"
+  },
+  {
+    "id": 18640094,
+    "company_display": "Method-Design",
+    "title": "Residency Internship Program - Product Management",
+    "location": "London",
+    "url": "https://job-boards.greenhouse.io/method/jobs/8207611003",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-11-20T19:24:33+00:00",
+    "date_discovered": "2026-11-20T19:36:49.517591+00:00"
+  },
+  {
+    "id": 18640095,
+    "company_display": "Method-Design",
+    "title": "Residency Internship Program - Product Management",
+    "location": "Charlotte, New York, Santa Clara, Remote - US, Canada",
+    "url": "https://job-boards.greenhouse.io/method/jobs/8207585003",
+    "skill_level": "intern",
+    "country": "remote",
+    "updated_at": "2026-11-20T19:24:46+00:00",
+    "date_discovered": "2026-11-20T19:36:49.523845+00:00"
+  },
+  {
+    "id": 18640096,
+    "company_display": "Method-Design",
+    "title": "Residency Internship Program - Program Management",
+    "location": "Mexico",
+    "url": "https://job-boards.greenhouse.io/method/jobs/8207687003",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-11-20T19:24:59+00:00",
+    "date_discovered": "2026-11-20T19:36:49.529912+00:00"
+  },
+  {
+    "id": 18640097,
+    "company_display": "Method-Design",
+    "title": "Residency Internship Program - Program Management",
+    "location": "Charlotte, New York, Santa Clara, Remote - US, Canada",
+    "url": "https://job-boards.greenhouse.io/method/jobs/8207684003",
+    "skill_level": "intern",
+    "country": "remote",
+    "updated_at": "2026-11-20T19:25:11+00:00",
+    "date_discovered": "2026-11-20T19:36:49.534946+00:00"
   }
 ]
