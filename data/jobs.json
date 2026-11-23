@@ -1,82 +1,5 @@
 [
   {
-    "id": 18481449,
-    "company_display": "TikTok",
-    "title": "Product & Process Solutions Program Manager Graduate (Account, Interaction, Search Safety) - 2027 Start",
-    "location": "Singapore",
-    "url": "https://lifeattiktok.com/search/7699400712321648901",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-10-22T09:04:53.673962+00:00"
-  },
-  {
-    "id": 18482232,
-    "company_display": "Amazon",
-    "title": "Technical Program Manager Intern 2027",
-    "location": "Madrid, Community of Madrid, ESP",
-    "url": "https://www.amazon.jobs/en/jobs/10537736/technical-program-manager-intern-2027",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-10-22T12:18:55.132852+00:00"
-  },
-  {
-    "id": 18482233,
-    "company_display": "Amazon",
-    "title": "Technical Program Manager Intern 2027",
-    "location": "Luxembourg, LUX",
-    "url": "https://www.amazon.jobs/en/jobs/10530151/technical-program-manager-intern-2027",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-10-22T12:18:55.156836+00:00"
-  },
-  {
-    "id": 18482991,
-    "company_display": "Ge",
-    "title": "Program Management Intern",
-    "location": "Rivalta di Torino",
-    "url": "https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Rivalta-di-Torino/Program-Management-Intern_R5042066-1",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-10-22T14:48:14.031771+00:00",
-    "date_discovered": "2026-10-22T14:48:17.679006+00:00"
-  },
-  {
-    "id": 18483032,
-    "company_display": "Amazon",
-    "title": "Product Manager Intern - Poland",
-    "location": "Warsaw, Woj. Mazowieckie, POL",
-    "url": "https://www.amazon.jobs/en/jobs/10586354/product-manager-intern-poland",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-10-22T14:49:57.587493+00:00"
-  },
-  {
-    "id": 18484315,
-    "company_display": "Stanley-Black-Decker",
-    "title": "PMO Engineering Intern \u2013 Summer 2027",
-    "location": "Towson, MD, USA",
-    "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/PMO-Engineering-Intern---Summer-2027_REQ-1000052705",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-22T18:47:31.982879+00:00",
-    "date_discovered": "2026-10-22T18:47:38.409022+00:00"
-  },
-  {
-    "id": 18484852,
-    "company_display": "IBM",
-    "title": "Product Manager Spring Co-op 2027",
-    "location": "POUGHKEEPSIE, USA",
-    "url": "https://careers.ibm.com/careers/JobDetail?jobId=137945",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-10-22T20:38:01.233908+00:00"
-  },
-  {
     "id": 18488076,
     "company_display": "TikTok",
     "title": "AI Product Manager Graduate (Live Streaming Safety) - 2027 Start",
@@ -1263,5 +1186,16 @@
     "country": "remote",
     "updated_at": "2026-11-20T19:25:11+00:00",
     "date_discovered": "2026-11-20T19:36:49.534946+00:00"
+  },
+  {
+    "id": 18647183,
+    "company_display": "Grab",
+    "title": "Intern [GIP] - Product Management & Product Design",
+    "location": "Jakarta, Indonesia",
+    "url": "https://jobs.smartrecruiters.com/Grab/744000163097869-intern-gip-product-management-product-design",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-11-22T17:17:41.940000+00:00",
+    "date_discovered": "2026-11-22T17:36:27.026394+00:00"
   }
 ]
