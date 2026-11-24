@@ -1,60 +1,5 @@
 [
   {
-    "id": 18488076,
-    "company_display": "TikTok",
-    "title": "AI Product Manager Graduate (Live Streaming Safety) - 2027 Start",
-    "location": "Singapore",
-    "url": "https://lifeattiktok.com/search/7698970869205666053",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-10-23T12:10:18.562373+00:00"
-  },
-  {
-    "id": 18488474,
-    "company_display": "Amazon",
-    "title": "Program Manager Intern NDL 2027",
-    "location": "Amsterdam, North Holland, NLD",
-    "url": "https://www.amazon.jobs/en/jobs/10587421/program-manager-intern-ndl-2027",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-10-23T13:19:47.218008+00:00"
-  },
-  {
-    "id": 18488479,
-    "company_display": "1password",
-    "title": "Product Management Intern, End User Experience - Winter 2027",
-    "location": "Remote (United States | Canada)",
-    "url": "https://jobs.ashbyhq.com/1password/bef2e88e-9590-467d-8ba6-821b30529003",
-    "skill_level": "intern",
-    "country": "remote",
-    "updated_at": "2026-10-23T13:12:17.029000+00:00",
-    "date_discovered": "2026-10-23T13:35:31.623419+00:00"
-  },
-  {
-    "id": 18488609,
-    "company_display": "GE Vernova",
-    "title": "Intern- Product Management (Summer 2027)",
-    "location": "Markham",
-    "url": "https://gevernova.wd5.myworkdayjobs.com/en-US/Vernova_ExternalSite/job/Markham/Intern--Product-Management--Summer-2027-_R5056377-2",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-10-23T14:06:52.914849+00:00",
-    "date_discovered": "2026-10-23T14:10:40.424031+00:00"
-  },
-  {
-    "id": 18490602,
-    "company_display": "Intercontinental-Exchange",
-    "title": "Summer Internship Program 2027 - Product Management Intern",
-    "location": "Atlanta, Georgia",
-    "url": "https://careers-ice.icims.com/jobs/14065/login",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-23T20:09:00+00:00",
-    "date_discovered": "2026-10-23T20:15:29.711867+00:00"
-  },
-  {
     "id": 18497352,
     "company_display": "TikTok",
     "title": "Product Manager Graduate (TikTok LIVE - Platform Trust And Ecosystem) - 2027 Start",
@@ -924,17 +869,6 @@
     "date_discovered": "2026-11-17T00:08:17.299591+00:00"
   },
   {
-    "id": 18615812,
-    "company_display": "T-Mobile",
-    "title": "Summer 2027 Assoc Program Manager Internship",
-    "location": "Overland Park, Kansas",
-    "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Overland-Park-Kansas/Summer-2027-Assoc-Program-Manager-Internship_REQ381566",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-11-17T02:50:38.597245+00:00",
-    "date_discovered": "2026-11-17T02:53:08.042505+00:00"
-  },
-  {
     "id": 18616161,
     "company_display": "Workday",
     "title": "Intern, UI/UX Product Manager",
@@ -955,17 +889,6 @@
     "country": "us",
     "updated_at": "2026-11-17T03:58:55.471748+00:00",
     "date_discovered": "2026-11-17T03:58:57.218726+00:00"
-  },
-  {
-    "id": 18617442,
-    "company_display": "GE Vernova",
-    "title": "Digital Technology Development Program (DTDP) Hungary \u2013 2027",
-    "location": "Budapest HU 26",
-    "url": "https://gevernova.wd5.myworkdayjobs.com/en-US/Vernova_ExternalSite/job/Budapest-HU-26/Digital-Technology-Development-Program--DTDP--Hungary---2027_R5059004-2",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": "2026-11-17T11:01:29.354495+00:00",
-    "date_discovered": "2026-11-17T11:03:35.807394+00:00"
   },
   {
     "id": 18618076,
@@ -1065,6 +988,17 @@
     "country": "us",
     "updated_at": null,
     "date_discovered": "2026-11-19T14:09:57.279774+00:00"
+  },
+  {
+    "id": 18633297,
+    "company_display": "Centene",
+    "title": "Technology Summer 2027 Intern (Undergraduate)",
+    "location": "Remote-FL",
+    "url": "https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-FL/Centene-2027-Undergraduate-Summer-Intern_1660476",
+    "skill_level": "intern",
+    "country": "remote",
+    "updated_at": "2026-11-19T19:47:45.618663+00:00",
+    "date_discovered": "2026-11-19T19:47:46.049209+00:00"
   },
   {
     "id": 18633604,
@@ -1197,5 +1131,104 @@
     "country": "international",
     "updated_at": "2026-11-22T17:17:41.940000+00:00",
     "date_discovered": "2026-11-22T17:36:27.026394+00:00"
+  },
+  {
+    "id": 18649729,
+    "company_display": "Amazon",
+    "title": "Program Manager Intern",
+    "location": "Dublin, IRL",
+    "url": "https://www.amazon.jobs/en/jobs/10611202/program-manager-intern",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-11-23T11:13:52.973543+00:00"
+  },
+  {
+    "id": 18649774,
+    "company_display": "TikTok",
+    "title": "Program Management Project Intern (GBS) - 2027 Start",
+    "location": "Paris",
+    "url": "https://lifeattiktok.com/search/7711326657354991877",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-11-23T12:05:29.728410+00:00"
+  },
+  {
+    "id": 18653485,
+    "company_display": "JLL",
+    "title": "Program Management Office - Vehicle Washing Program Summer 2027 Internship - Remote",
+    "location": "Charlotte, NC",
+    "url": "https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Charlotte-NC/Program-Management-Office---Vehicle-Washing-Program-Summer-2027-Internship---Remote_REQ546152-1",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-23T21:39:55.529135+00:00",
+    "date_discovered": "2026-11-23T21:41:46.966422+00:00"
+  },
+  {
+    "id": 18653518,
+    "company_display": "M&T Bank",
+    "title": "2027 Management Development Program - Commercial Product Management (Buffalo, NY)",
+    "location": "Buffalo, NY",
+    "url": "https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Management-Development-Program---Commercial-Product-Management--Buffalo--NY-_R90323",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-11-23T21:45:08.920290+00:00",
+    "date_discovered": "2026-11-23T21:45:12.983524+00:00"
+  },
+  {
+    "id": 18653610,
+    "company_display": "Nuro",
+    "title": "Technical Program Manager, Systems Intern",
+    "location": "Mountain View, California (HQ)",
+    "url": "https://nuro.ai/careersitem?gh_jid=8412577",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-23T21:50:12+00:00",
+    "date_discovered": "2026-11-23T22:05:50.124422+00:00"
+  },
+  {
+    "id": 18654162,
+    "company_display": "Illumio",
+    "title": "Technical Program Manager Intern",
+    "location": "Sunnyvale, California - HQ",
+    "url": "https://jobs.ashbyhq.com/illumio/c7efc869-b5da-48ca-a6ce-defc15525a34",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-23T23:31:26.565000+00:00",
+    "date_discovered": "2026-11-23T23:36:45.480755+00:00"
+  },
+  {
+    "id": 18654163,
+    "company_display": "Illumio",
+    "title": "Product Management Intern, Solution Economics",
+    "location": "Sunnyvale, California - HQ",
+    "url": "https://jobs.ashbyhq.com/illumio/96759634-4161-4931-9cf3-5933035be101",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-23T23:34:03.772000+00:00",
+    "date_discovered": "2026-11-23T23:36:45.565203+00:00"
+  },
+  {
+    "id": 18654332,
+    "company_display": "Illumio",
+    "title": "Technical Product Management Intern",
+    "location": "Sunnyvale, California - HQ",
+    "url": "https://jobs.ashbyhq.com/illumio/37c87203-d74b-40f9-8ce6-30559f1594af",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-23T23:45:27.163000+00:00",
+    "date_discovered": "2026-11-24T00:07:30.030658+00:00"
+  },
+  {
+    "id": 18654333,
+    "company_display": "Illumio",
+    "title": "Product Manager Intern",
+    "location": "Sunnyvale, California - HQ",
+    "url": "https://jobs.ashbyhq.com/illumio/1dbbc51c-ede6-4067-98df-9e4d9d06f6d3",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-23T23:50:04.259000+00:00",
+    "date_discovered": "2026-11-24T00:07:30.052216+00:00"
   }
 ]
