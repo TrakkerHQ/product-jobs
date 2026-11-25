@@ -979,17 +979,6 @@
     "date_discovered": "2026-11-19T10:09:17.043069+00:00"
   },
   {
-    "id": 18631230,
-    "company_display": "Bloomberg",
-    "title": "Enterprise Services Entry-level Technical Program",
-    "location": "New York, USA",
-    "url": "https://bloomberg.avature.net/careers/JobDetail/Enterprise-Services-Entry-level-Technical-Program/46235",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-11-19T14:09:57.279774+00:00"
-  },
-  {
     "id": 18633297,
     "company_display": "Centene",
     "title": "Technology Summer 2027 Intern (Undergraduate)",
@@ -1230,5 +1219,60 @@
     "country": "us",
     "updated_at": "2026-11-23T23:50:04.259000+00:00",
     "date_discovered": "2026-11-24T00:07:30.052216+00:00"
+  },
+  {
+    "id": 18657335,
+    "company_display": "Voya Financial",
+    "title": "IM Entry Level Analyst Program - Product Management Analyst",
+    "location": "New York, NY",
+    "url": "https://godirect.wd5.myworkdayjobs.com/en-US/voya_jobs/job/New-York-NY/IM-Entry-Level-Analyst-Program---Product-Management-Analyst_JR0033438",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-11-24T12:14:14.824056+00:00",
+    "date_discovered": "2026-11-24T12:14:15.491051+00:00"
+  },
+  {
+    "id": 18659181,
+    "company_display": "Lseg",
+    "title": "AI Product & Business Graduate Associate",
+    "location": "New York City, USA",
+    "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Graduate_Careers/job/New-York-City-United-States/AI-Product---Business-Graduate-Associate_R0125574",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-11-24T17:17:08.400142+00:00",
+    "date_discovered": "2026-11-24T17:17:09.302289+00:00"
+  },
+  {
+    "id": 18659182,
+    "company_display": "Lseg",
+    "title": "AI Product & Business Graduate Associate",
+    "location": "London, United Kingdom",
+    "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Graduate_Careers/job/London-United-Kingdom/AI-Product---Business-Graduate-Associate_R0125570",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-11-24T17:17:08.400311+00:00",
+    "date_discovered": "2026-11-24T17:17:09.319257+00:00"
+  },
+  {
+    "id": 18659519,
+    "company_display": "Hpe",
+    "title": "Cloud Security Engagement Intern",
+    "location": "Spring, Texas, USA",
+    "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Cloud-Security-Engagement-Intern_1216079",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-24T18:07:12.572682+00:00",
+    "date_discovered": "2026-11-24T18:15:39.113901+00:00"
+  },
+  {
+    "id": 18659973,
+    "company_display": "Rubrik",
+    "title": "Product Management Intern (MSP), Winter 2027",
+    "location": "Palo Alto, CA",
+    "url": "https://www.rubrik.com/company/careers/departments/job.8412766?gh_jid=8412766",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-24T19:18:20+00:00",
+    "date_discovered": "2026-11-24T19:35:33.548315+00:00"
   }
 ]
