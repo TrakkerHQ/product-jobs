@@ -1,126 +1,5 @@
 [
   {
-    "id": 18499675,
-    "company_display": "Sezzle",
-    "title": "Product Manager Intern, ShopX(Rewards)",
-    "location": "Brazil, Remote",
-    "url": "https://job-boards.greenhouse.io/sezzle/jobs/8044474003",
-    "skill_level": "intern",
-    "country": "remote",
-    "updated_at": "2026-10-26T14:52:02+00:00",
-    "date_discovered": "2026-10-26T15:08:00.423739+00:00"
-  },
-  {
-    "id": 18499676,
-    "company_display": "Sezzle",
-    "title": "Product Manager Intern, ShopX(Rewards)",
-    "location": "Colombia, Remote",
-    "url": "https://job-boards.greenhouse.io/sezzle/jobs/8044470003",
-    "skill_level": "intern",
-    "country": "remote",
-    "updated_at": "2026-10-26T14:50:25+00:00",
-    "date_discovered": "2026-10-26T15:08:00.448075+00:00"
-  },
-  {
-    "id": 18499679,
-    "company_display": "Sezzle",
-    "title": "Product Manager Intern, ShopX(Rewards)",
-    "location": "Peru",
-    "url": "https://job-boards.greenhouse.io/sezzle/jobs/8044473003",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-10-26T14:51:36+00:00",
-    "date_discovered": "2026-10-26T15:08:00.495837+00:00"
-  },
-  {
-    "id": 18499680,
-    "company_display": "Sezzle",
-    "title": "Product Manager Intern, ShopX(Rewards)",
-    "location": "Mexico, Remote",
-    "url": "https://job-boards.greenhouse.io/sezzle/jobs/8044475003",
-    "skill_level": "intern",
-    "country": "remote",
-    "updated_at": "2026-10-26T14:52:25+00:00",
-    "date_discovered": "2026-10-26T15:08:00.510329+00:00"
-  },
-  {
-    "id": 18499681,
-    "company_display": "Sezzle",
-    "title": "Product Manager Intern, ShopX(Rewards)",
-    "location": "Argentina, Remote",
-    "url": "https://job-boards.greenhouse.io/sezzle/jobs/8044476003",
-    "skill_level": "intern",
-    "country": "remote",
-    "updated_at": "2026-10-26T14:52:27+00:00",
-    "date_discovered": "2026-10-26T15:08:00.519154+00:00"
-  },
-  {
-    "id": 18499827,
-    "company_display": "Tenstorrent",
-    "title": "Business Operations & Program Management Intern",
-    "location": "Austin, Texas, United States; Santa Clara, California, United States; Toronto, Ontario, Canada",
-    "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5271796007",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-26T15:19:21+00:00",
-    "date_discovered": "2026-10-26T15:37:12.336447+00:00"
-  },
-  {
-    "id": 18500469,
-    "company_display": "Amazon",
-    "title": "Program Manager Intern 6M- 2027",
-    "location": "Stockholm, Stockholm County, SWE",
-    "url": "https://www.amazon.jobs/en/jobs/10588719/program-manager-intern-6m-2027",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-10-26T17:19:31.707989+00:00"
-  },
-  {
-    "id": 18501239,
-    "company_display": "Meta",
-    "title": "Technical Program Manager Intern, Reality Labs \u2014 2027",
-    "location": "Menlo Park, CA",
-    "url": "https://www.metacareers.com/profile/job_details/1649069223327170/",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-26T20:05:03+00:00",
-    "date_discovered": "2026-10-26T20:11:40.109359+00:00"
-  },
-  {
-    "id": 18501338,
-    "company_display": "Zebra",
-    "title": "2027 Summer Internship (US) - Go-To-Market Product Manager",
-    "location": "Lincolnshire, Illinois; Holtsville, New York",
-    "url": "https://zebra.wd501.myworkdayjobs.com/en-US/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Go-To-Market-Product-Manager_JR103647",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-26T20:19:03.251924+00:00",
-    "date_discovered": "2026-10-26T20:19:04.101773+00:00"
-  },
-  {
-    "id": 18501339,
-    "company_display": "Zebra",
-    "title": "2027 Summer Internship (US) - Product Management",
-    "location": "Lincolnshire, Illinois",
-    "url": "https://zebra.wd501.myworkdayjobs.com/en-US/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Product-Management_JR103652",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-26T20:19:03.252504+00:00",
-    "date_discovered": "2026-10-26T20:19:04.114923+00:00"
-  },
-  {
-    "id": 18501558,
-    "company_display": "IBM",
-    "title": "Product Manager Spring Co-op 2027",
-    "location": "DURHAM, USA",
-    "url": "https://careers.ibm.com/careers/JobDetail?jobId=137947",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-10-26T21:10:06.090000+00:00"
-  },
-  {
     "id": 18506086,
     "company_display": "TE Connectivity",
     "title": "Product Manager Intern",
@@ -1243,17 +1122,6 @@
     "date_discovered": "2026-11-24T19:35:33.548315+00:00"
   },
   {
-    "id": 18666431,
-    "company_display": "DocuSign",
-    "title": "Product Manager Intern",
-    "location": "San Francisco, California; Seattle, Washington",
-    "url": "https://careers.docusign.com/jobs/32212?lang=en-us",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-11-25T16:09:00+00:00",
-    "date_discovered": "2026-11-25T17:45:05.625777+00:00"
-  },
-  {
     "id": 18668946,
     "company_display": "Microsoft",
     "title": "Product Management Student Worker",
@@ -1263,5 +1131,38 @@
     "country": "international",
     "updated_at": null,
     "date_discovered": "2026-11-26T00:46:06.329694+00:00"
+  },
+  {
+    "id": 18670437,
+    "company_display": "DocuSign",
+    "title": "Product Manager Intern",
+    "location": "San Francisco, California; Seattle, Washington",
+    "url": "https://careers.docusign.com/jobs/32541?lang=en-us",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-25T19:04:00+00:00",
+    "date_discovered": "2026-11-26T06:10:19.976759+00:00"
+  },
+  {
+    "id": 18671855,
+    "company_display": "Hpe",
+    "title": "Technical Project Management Intern - Unstructured Storage",
+    "location": "Winnersh, Berkshire, United Kingdom",
+    "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Winnersh-Berkshire-United-Kingdom/Sales-Intern---Unstructured-Storage_1216186",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-11-26T13:09:38.922041+00:00",
+    "date_discovered": "2026-11-26T13:13:54.181887+00:00"
+  },
+  {
+    "id": 18672225,
+    "company_display": "Accenture",
+    "title": "Software Engineering PM Intern",
+    "location": "Budapest, Millennium Gardens",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Budapest-Millennium-Gardens/Software-Engineering-PM-Intern_R00375267",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-11-26T14:12:57.814837+00:00",
+    "date_discovered": "2026-11-26T14:13:48.822970+00:00"
   }
 ]
