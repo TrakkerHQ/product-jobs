@@ -1,60 +1,5 @@
 [
   {
-    "id": 18506086,
-    "company_display": "TE Connectivity",
-    "title": "Product Manager Intern",
-    "location": "MIDDLETOWN",
-    "url": "https://careers.te.com/job/MIDDLETOWN-Product-Manager-Intern-PA-17057-3144/1444111700/",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-10-27T16:13:53.022564+00:00"
-  },
-  {
-    "id": 18506562,
-    "company_display": "Zebra",
-    "title": "2027 Summer Internship (US) - Program Management",
-    "location": "Holtsville, New York",
-    "url": "https://zebra.wd501.myworkdayjobs.com/en-US/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Program-Management_JR103641",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-27T17:19:21.699980+00:00",
-    "date_discovered": "2026-10-27T17:19:22.566528+00:00"
-  },
-  {
-    "id": 18506917,
-    "company_display": "Micron",
-    "title": "Intern \u2013 AI & Product Management, Mobile Memory (LPDRAM)",
-    "location": "San Jose, CA",
-    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/San-Jose-CA/Intern---AI---Product-Management--Mobile-Memory--LPDRAM-_JR115839",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-27T18:37:35.220388+00:00",
-    "date_discovered": "2026-10-27T18:41:01.430982+00:00"
-  },
-  {
-    "id": 18507093,
-    "company_display": "Micron",
-    "title": "Intern \u2013 CMBU Product Management",
-    "location": "San Jose, CA",
-    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/San-Jose-CA/Intern---CMBU-Product-Management_JR115941",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-27T19:07:38.721290+00:00",
-    "date_discovered": "2026-10-27T19:11:30.677534+00:00"
-  },
-  {
-    "id": 18507094,
-    "company_display": "Micron",
-    "title": "Intern - Technical Program Manager, Program Management Office (PMO)",
-    "location": "Boise, ID - Main Site",
-    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Technical-Program-Manager--Program-Management-Office--PMO-_JR115692",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-27T19:07:38.722135+00:00",
-    "date_discovered": "2026-10-27T19:11:30.705577+00:00"
-  },
-  {
     "id": 18509928,
     "company_display": "TikTok",
     "title": "Product Operations Intern (TikTok Shop Apps and API) - 2027 Summer",
@@ -1153,16 +1098,5 @@
     "country": "international",
     "updated_at": "2026-11-26T13:09:38.922041+00:00",
     "date_discovered": "2026-11-26T13:13:54.181887+00:00"
-  },
-  {
-    "id": 18672225,
-    "company_display": "Accenture",
-    "title": "Software Engineering PM Intern",
-    "location": "Budapest, Millennium Gardens",
-    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Budapest-Millennium-Gardens/Software-Engineering-PM-Intern_R00375267",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-11-26T14:12:57.814837+00:00",
-    "date_discovered": "2026-11-26T14:13:48.822970+00:00"
   }
 ]
